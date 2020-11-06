@@ -17,7 +17,7 @@ jobs:
         fetch-depth: 0
     - name: Fetch latest data
       run: |-
-        curl --location --request GET 'https://api.covid19api.com/dayone/country/germany' | jq . > docs/results.json
+        curl --location --request GET 'https://api.covid19api.com/dayone/country/germany' | jq . > results.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
