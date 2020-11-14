@@ -4058,5 +4058,19 @@
     "Recovered": 460504,
     "Active": 265596,
     "Date": "2020-11-11T00:00:00Z"
+  },
+  {
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "51.17",
+    "Lon": "10.45",
+    "Confirmed": 762832,
+    "Deaths": 12216,
+    "Recovered": 474208,
+    "Active": 276408,
+    "Date": "2020-11-12T00:00:00Z"
   }
 ]
