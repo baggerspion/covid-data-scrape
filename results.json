@@ -1,5 +1,6 @@
 [
   {
+    "ID": "214106f6-1970-4a1d-a1c3-3a5ef6245f44",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -14,6 +15,7 @@
     "Date": "2020-01-27T00:00:00Z"
   },
   {
+    "ID": "8ac3692f-1a6c-4de0-8e6b-55711c079590",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -28,6 +30,7 @@
     "Date": "2020-01-28T00:00:00Z"
   },
   {
+    "ID": "7348bc33-6b61-4b68-853f-5da8b2659c88",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -42,6 +45,7 @@
     "Date": "2020-01-29T00:00:00Z"
   },
   {
+    "ID": "406821f5-ca0c-4276-b829-3f81a2b211d0",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -56,6 +60,7 @@
     "Date": "2020-01-30T00:00:00Z"
   },
   {
+    "ID": "4d0bd316-b46e-4ed3-b22b-47e98de6743d",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -70,6 +75,7 @@
     "Date": "2020-01-31T00:00:00Z"
   },
   {
+    "ID": "5212824b-73b6-4eea-aad3-09b9097b380d",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -84,6 +90,7 @@
     "Date": "2020-02-01T00:00:00Z"
   },
   {
+    "ID": "2a0ac8b7-4c70-4e70-87bc-60d323f92200",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -98,6 +105,7 @@
     "Date": "2020-02-02T00:00:00Z"
   },
   {
+    "ID": "077aa80b-557f-4bdc-a7df-c9db4d6c1716",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -112,6 +120,7 @@
     "Date": "2020-02-03T00:00:00Z"
   },
   {
+    "ID": "6551189a-3cab-4429-9858-53c79be23de6",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -126,6 +135,7 @@
     "Date": "2020-02-04T00:00:00Z"
   },
   {
+    "ID": "fdb26074-cfe4-4bf7-8dda-836c4db48cd4",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -140,6 +150,7 @@
     "Date": "2020-02-05T00:00:00Z"
   },
   {
+    "ID": "99578d20-3cda-4c4b-abdc-146f1ddac55f",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -154,6 +165,7 @@
     "Date": "2020-02-06T00:00:00Z"
   },
   {
+    "ID": "1e53a6e6-8d67-4cd2-a773-2f40120c2728",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -168,6 +180,7 @@
     "Date": "2020-02-07T00:00:00Z"
   },
   {
+    "ID": "4cfc34fe-7c3a-4189-915a-c4971d34c6ea",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -182,6 +195,7 @@
     "Date": "2020-02-08T00:00:00Z"
   },
   {
+    "ID": "dcb72981-56ec-4763-b348-7fd588dcc441",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -196,6 +210,7 @@
     "Date": "2020-02-09T00:00:00Z"
   },
   {
+    "ID": "0a524171-ad35-4dc8-945b-8b23ccb44c29",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -210,6 +225,7 @@
     "Date": "2020-02-10T00:00:00Z"
   },
   {
+    "ID": "266933e9-5d5b-40da-9269-ad2302cf36f7",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -224,6 +240,7 @@
     "Date": "2020-02-11T00:00:00Z"
   },
   {
+    "ID": "5897927f-2a7b-4d06-91d3-9b2b917d37a3",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -238,6 +255,7 @@
     "Date": "2020-02-12T00:00:00Z"
   },
   {
+    "ID": "b070b7b6-ec5f-49d6-8b28-1a2d6d965365",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -252,6 +270,7 @@
     "Date": "2020-02-13T00:00:00Z"
   },
   {
+    "ID": "8459baf0-43a3-4dfd-9c1f-a62d8872114d",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -266,6 +285,7 @@
     "Date": "2020-02-14T00:00:00Z"
   },
   {
+    "ID": "c28a8cd7-008d-4c67-bda7-ee5580423fc1",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -280,6 +300,7 @@
     "Date": "2020-02-15T00:00:00Z"
   },
   {
+    "ID": "289c2976-4ef1-448a-9b39-deb9fb526f39",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -294,6 +315,7 @@
     "Date": "2020-02-16T00:00:00Z"
   },
   {
+    "ID": "45fd39b7-c553-4714-8201-36bc78d7a2ee",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -308,6 +330,7 @@
     "Date": "2020-02-17T00:00:00Z"
   },
   {
+    "ID": "4385ae4f-12ee-43de-a32f-67007ab011da",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -322,6 +345,7 @@
     "Date": "2020-02-18T00:00:00Z"
   },
   {
+    "ID": "0f8b495f-f83c-4b98-ae3f-97f24242f208",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -336,6 +360,7 @@
     "Date": "2020-02-19T00:00:00Z"
   },
   {
+    "ID": "508f0212-57fe-4532-9693-4f488b2c6778",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -350,6 +375,7 @@
     "Date": "2020-02-20T00:00:00Z"
   },
   {
+    "ID": "621e2828-afdb-4e20-8d37-b668c017db14",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -364,6 +390,7 @@
     "Date": "2020-02-21T00:00:00Z"
   },
   {
+    "ID": "c2271988-51ca-48d1-ad7c-9f630248d3b2",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -378,6 +405,7 @@
     "Date": "2020-02-22T00:00:00Z"
   },
   {
+    "ID": "a71113dc-4be5-4fcd-878a-3e6544f1b88f",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -392,6 +420,7 @@
     "Date": "2020-02-23T00:00:00Z"
   },
   {
+    "ID": "0b3eb142-bf0f-4913-9e3b-4352b80c1c0b",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -406,6 +435,7 @@
     "Date": "2020-02-24T00:00:00Z"
   },
   {
+    "ID": "6ba64a0e-eae8-4a7e-864a-cde269a4b2fa",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -420,6 +450,7 @@
     "Date": "2020-02-25T00:00:00Z"
   },
   {
+    "ID": "3a0723fa-b64c-49d8-ad88-2c16df5e66ec",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -434,6 +465,7 @@
     "Date": "2020-02-26T00:00:00Z"
   },
   {
+    "ID": "e4c4480b-bc00-4514-875a-dfc2cf56a91c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -448,6 +480,7 @@
     "Date": "2020-02-27T00:00:00Z"
   },
   {
+    "ID": "eecb8945-4585-4013-872c-3ec6f938d1cf",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -462,6 +495,7 @@
     "Date": "2020-02-28T00:00:00Z"
   },
   {
+    "ID": "b3de383e-d335-4569-808b-90c4d268b5e1",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -476,6 +510,7 @@
     "Date": "2020-02-29T00:00:00Z"
   },
   {
+    "ID": "5cc0ed7a-be0c-4b8f-b336-ac237dde3338",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -490,6 +525,7 @@
     "Date": "2020-03-01T00:00:00Z"
   },
   {
+    "ID": "e6e3c4ef-7132-442a-b302-c8ac9f01a856",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -504,6 +540,7 @@
     "Date": "2020-03-02T00:00:00Z"
   },
   {
+    "ID": "8184ddd6-d2d0-49c4-bce5-c321e19ab26c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -518,6 +555,7 @@
     "Date": "2020-03-03T00:00:00Z"
   },
   {
+    "ID": "783bd2cb-5d3d-4e83-9c65-48d8f5cd0d19",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -532,6 +570,7 @@
     "Date": "2020-03-04T00:00:00Z"
   },
   {
+    "ID": "54c241e0-112c-46fa-af2f-56d9435bc561",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -546,6 +585,7 @@
     "Date": "2020-03-05T00:00:00Z"
   },
   {
+    "ID": "55321328-7e64-446d-8f33-63f4ab1288c9",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -560,6 +600,7 @@
     "Date": "2020-03-06T00:00:00Z"
   },
   {
+    "ID": "60154a49-afea-453d-9e5d-9a314e2bc659",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -574,6 +615,7 @@
     "Date": "2020-03-07T00:00:00Z"
   },
   {
+    "ID": "1c0376b8-ae7f-456c-9a37-c8fd351d2c5f",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -588,6 +630,7 @@
     "Date": "2020-03-08T00:00:00Z"
   },
   {
+    "ID": "08153199-2a48-49b8-a720-24c1715b1a3d",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -602,6 +645,7 @@
     "Date": "2020-03-09T00:00:00Z"
   },
   {
+    "ID": "6523bffb-fb9f-4b21-8c1f-ba305b89bb21",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -616,6 +660,7 @@
     "Date": "2020-03-10T00:00:00Z"
   },
   {
+    "ID": "2c91967c-1347-44ba-ae53-b7717c1742fa",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -630,6 +675,7 @@
     "Date": "2020-03-11T00:00:00Z"
   },
   {
+    "ID": "42a0c8bf-5e91-485a-895f-efdb559b15e9",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -644,6 +690,7 @@
     "Date": "2020-03-12T00:00:00Z"
   },
   {
+    "ID": "58fba17b-54aa-40e0-91a9-b706dcfab94e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -658,6 +705,7 @@
     "Date": "2020-03-13T00:00:00Z"
   },
   {
+    "ID": "7bed0db5-4bd9-4d84-adcf-de1fd276bc49",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -672,6 +720,7 @@
     "Date": "2020-03-14T00:00:00Z"
   },
   {
+    "ID": "34d70ef5-2597-479f-ac23-62b8fa06a66b",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -686,6 +735,7 @@
     "Date": "2020-03-15T00:00:00Z"
   },
   {
+    "ID": "ff6931f8-26f7-4a5a-a2a6-604a0e1ddb56",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -700,6 +750,7 @@
     "Date": "2020-03-16T00:00:00Z"
   },
   {
+    "ID": "5362e818-1f8d-467b-916b-29ffff564364",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -714,6 +765,7 @@
     "Date": "2020-03-17T00:00:00Z"
   },
   {
+    "ID": "ab3c422a-1856-4a67-b370-a996ea9e1c29",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -728,6 +780,7 @@
     "Date": "2020-03-18T00:00:00Z"
   },
   {
+    "ID": "824a45e6-5438-45dc-ac04-015ab004a1ec",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -742,6 +795,7 @@
     "Date": "2020-03-19T00:00:00Z"
   },
   {
+    "ID": "aa221097-b6f8-44b7-be1f-6d052bac2237",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -756,6 +810,7 @@
     "Date": "2020-03-20T00:00:00Z"
   },
   {
+    "ID": "28ebe73d-1cbd-46fb-9e9b-e9212ee53390",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -770,6 +825,7 @@
     "Date": "2020-03-21T00:00:00Z"
   },
   {
+    "ID": "5080508e-24cb-41d1-9592-7e401c324e38",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -784,6 +840,7 @@
     "Date": "2020-03-22T00:00:00Z"
   },
   {
+    "ID": "b794cfb1-52aa-49d5-9637-72c64bd5a1c5",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -798,6 +855,7 @@
     "Date": "2020-03-23T00:00:00Z"
   },
   {
+    "ID": "452894bd-bb81-483f-990c-935742cef43e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -812,6 +870,7 @@
     "Date": "2020-03-24T00:00:00Z"
   },
   {
+    "ID": "03566e41-d2fb-40ca-bf07-e09796892165",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -826,6 +885,7 @@
     "Date": "2020-03-25T00:00:00Z"
   },
   {
+    "ID": "6347c339-2b2e-44e1-9482-1994f3584a43",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -840,6 +900,7 @@
     "Date": "2020-03-26T00:00:00Z"
   },
   {
+    "ID": "21421f3d-1fd2-4af1-97da-df49d1546da7",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -854,6 +915,7 @@
     "Date": "2020-03-27T00:00:00Z"
   },
   {
+    "ID": "2dc4b864-3f49-4359-a99d-af658cb70e30",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -868,6 +930,7 @@
     "Date": "2020-03-28T00:00:00Z"
   },
   {
+    "ID": "b6f9f1e2-8cb0-4e51-a29b-493de55dff46",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -882,6 +945,7 @@
     "Date": "2020-03-29T00:00:00Z"
   },
   {
+    "ID": "5a549181-0d10-47ed-855c-db1dc4a5c144",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -896,6 +960,7 @@
     "Date": "2020-03-30T00:00:00Z"
   },
   {
+    "ID": "04804839-0f75-427a-98c5-265ed71505d3",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -910,6 +975,7 @@
     "Date": "2020-03-31T00:00:00Z"
   },
   {
+    "ID": "2da25794-8435-47c2-935d-01ceac9d25b7",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -924,6 +990,7 @@
     "Date": "2020-04-01T00:00:00Z"
   },
   {
+    "ID": "4d1d0607-001c-414b-a8ac-796be8aa7a94",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -938,6 +1005,7 @@
     "Date": "2020-04-02T00:00:00Z"
   },
   {
+    "ID": "a5547aef-9674-4c47-9aa4-56ff6114e90b",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -952,6 +1020,7 @@
     "Date": "2020-04-03T00:00:00Z"
   },
   {
+    "ID": "5afb1228-614d-426d-bed6-d9ac70560b90",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -966,6 +1035,7 @@
     "Date": "2020-04-04T00:00:00Z"
   },
   {
+    "ID": "988a5b7b-1862-46ea-b9ab-c1f3eb31f84c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -980,6 +1050,7 @@
     "Date": "2020-04-05T00:00:00Z"
   },
   {
+    "ID": "14f7932c-3820-4b88-9f62-e90306378c0c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -994,6 +1065,7 @@
     "Date": "2020-04-06T00:00:00Z"
   },
   {
+    "ID": "d453ffb0-0d65-4fa6-afa0-6d40b00f5a6b",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1008,6 +1080,7 @@
     "Date": "2020-04-07T00:00:00Z"
   },
   {
+    "ID": "7bb74e00-5434-49f9-a07c-c71ca534e0c6",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1022,6 +1095,7 @@
     "Date": "2020-04-08T00:00:00Z"
   },
   {
+    "ID": "f3f00104-2f35-4859-b58b-d39fa815917f",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1036,6 +1110,7 @@
     "Date": "2020-04-09T00:00:00Z"
   },
   {
+    "ID": "c4850354-e6c0-4165-9b2d-d8d33571d2d9",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1050,6 +1125,7 @@
     "Date": "2020-04-10T00:00:00Z"
   },
   {
+    "ID": "cc0a207f-7e24-4b1c-911a-73dc5bd218c6",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1064,6 +1140,7 @@
     "Date": "2020-04-11T00:00:00Z"
   },
   {
+    "ID": "b0d77276-66d8-4379-b707-1070c2801ebd",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1078,6 +1155,7 @@
     "Date": "2020-04-12T00:00:00Z"
   },
   {
+    "ID": "b193e453-32c5-4b05-9227-049c8ac8f307",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1092,6 +1170,7 @@
     "Date": "2020-04-13T00:00:00Z"
   },
   {
+    "ID": "4f8d0e00-092c-43e6-82f5-1072711520c7",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1106,6 +1185,7 @@
     "Date": "2020-04-14T00:00:00Z"
   },
   {
+    "ID": "2b905e3b-a924-4e3f-8598-2bfce1e95c1f",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1120,6 +1200,7 @@
     "Date": "2020-04-15T00:00:00Z"
   },
   {
+    "ID": "fd7f9cd3-5d32-4bd4-bd57-5fbd2efcbcd2",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1134,6 +1215,7 @@
     "Date": "2020-04-16T00:00:00Z"
   },
   {
+    "ID": "c912cbe9-4650-49d5-a0ae-fd6bdffc4a8c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1148,6 +1230,7 @@
     "Date": "2020-04-17T00:00:00Z"
   },
   {
+    "ID": "46f250b1-3ed2-45e5-9e6e-47ee6b8a9c9b",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1162,6 +1245,7 @@
     "Date": "2020-04-18T00:00:00Z"
   },
   {
+    "ID": "c988b09f-5a2d-4093-9b79-8ec16a131fe4",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1176,6 +1260,7 @@
     "Date": "2020-04-19T00:00:00Z"
   },
   {
+    "ID": "41b1566f-d575-4289-8df1-f3378937e5cc",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1190,6 +1275,7 @@
     "Date": "2020-04-20T00:00:00Z"
   },
   {
+    "ID": "1a38c5d9-7215-437b-9364-8ea694def45f",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1204,6 +1290,7 @@
     "Date": "2020-04-21T00:00:00Z"
   },
   {
+    "ID": "aac5a159-97ff-4162-8dfb-d5b2e22dc3e4",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1218,6 +1305,7 @@
     "Date": "2020-04-22T00:00:00Z"
   },
   {
+    "ID": "0995d36a-35f4-4f32-8470-7cb077e01e9c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1232,6 +1320,7 @@
     "Date": "2020-04-23T00:00:00Z"
   },
   {
+    "ID": "9361c01c-5b35-41e9-b2c7-6eeec53ca3a4",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1246,6 +1335,7 @@
     "Date": "2020-04-24T00:00:00Z"
   },
   {
+    "ID": "726e9f0e-8842-4069-a60d-87fcebb2b09e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1260,6 +1350,7 @@
     "Date": "2020-04-25T00:00:00Z"
   },
   {
+    "ID": "07d8b77a-bdc1-4f4c-bea2-dde2da763636",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1274,6 +1365,7 @@
     "Date": "2020-04-26T00:00:00Z"
   },
   {
+    "ID": "b3b7afe6-ec00-4bdb-a8c1-283a3ab8ccb5",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1288,6 +1380,7 @@
     "Date": "2020-04-27T00:00:00Z"
   },
   {
+    "ID": "00d3e3e4-6d89-4868-8d6c-e29af59ef738",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1302,6 +1395,7 @@
     "Date": "2020-04-28T00:00:00Z"
   },
   {
+    "ID": "fe158da3-810e-4f69-88a2-bf72cf911a26",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1316,6 +1410,7 @@
     "Date": "2020-04-29T00:00:00Z"
   },
   {
+    "ID": "0e5040fa-32a0-4390-885d-1efb5a963186",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1330,6 +1425,7 @@
     "Date": "2020-04-30T00:00:00Z"
   },
   {
+    "ID": "3968e279-ac66-43eb-9df9-2201b8a0841e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1344,6 +1440,7 @@
     "Date": "2020-05-01T00:00:00Z"
   },
   {
+    "ID": "a4f5b6bf-79e5-4755-b874-0b0776c171ba",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1358,6 +1455,7 @@
     "Date": "2020-05-02T00:00:00Z"
   },
   {
+    "ID": "d90d9290-2dca-4c1d-ac02-217c30fd14e3",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1372,6 +1470,7 @@
     "Date": "2020-05-03T00:00:00Z"
   },
   {
+    "ID": "d86873c0-034a-4e5f-b933-2f08a1d67b0c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1386,6 +1485,7 @@
     "Date": "2020-05-04T00:00:00Z"
   },
   {
+    "ID": "4ef2123d-8f12-4789-9b15-ac15fe9db394",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1400,6 +1500,7 @@
     "Date": "2020-05-05T00:00:00Z"
   },
   {
+    "ID": "914cb02b-fbd0-4d41-9a2b-0111a93c3117",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1414,6 +1515,7 @@
     "Date": "2020-05-06T00:00:00Z"
   },
   {
+    "ID": "29757349-93d0-4e2a-b7fe-d994125e8558",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1428,6 +1530,7 @@
     "Date": "2020-05-07T00:00:00Z"
   },
   {
+    "ID": "444b8ec0-ff02-4992-9d80-30433354f55d",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1442,6 +1545,7 @@
     "Date": "2020-05-08T00:00:00Z"
   },
   {
+    "ID": "72e0759e-6f29-461c-99cb-08f91ce998ef",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1456,6 +1560,7 @@
     "Date": "2020-05-09T00:00:00Z"
   },
   {
+    "ID": "fd5221db-2c3d-4025-a7c6-21a138072edc",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1470,6 +1575,7 @@
     "Date": "2020-05-10T00:00:00Z"
   },
   {
+    "ID": "44b0c98d-68ed-4672-ab85-19b8a6661549",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1484,6 +1590,7 @@
     "Date": "2020-05-11T00:00:00Z"
   },
   {
+    "ID": "69b0e9b0-b8a6-4f89-96bd-f9c6cad6c78b",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1498,6 +1605,7 @@
     "Date": "2020-05-12T00:00:00Z"
   },
   {
+    "ID": "1d02fdfd-39c1-4084-83cb-0e77243e2cf2",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1512,6 +1620,7 @@
     "Date": "2020-05-13T00:00:00Z"
   },
   {
+    "ID": "9c42e309-11ea-4be5-8f5f-39571918fa7a",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1526,6 +1635,7 @@
     "Date": "2020-05-14T00:00:00Z"
   },
   {
+    "ID": "41e2dc1c-ae1b-464d-b0a5-83e4c1809155",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1540,6 +1650,7 @@
     "Date": "2020-05-15T00:00:00Z"
   },
   {
+    "ID": "bf16daf6-f683-4b8a-9b6e-e4dc4147d6dc",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1554,6 +1665,7 @@
     "Date": "2020-05-16T00:00:00Z"
   },
   {
+    "ID": "2744ac8f-2776-4374-99e6-b8d99497760c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1568,6 +1680,7 @@
     "Date": "2020-05-17T00:00:00Z"
   },
   {
+    "ID": "625164c7-1b5b-4202-932b-3e0b56ac82bd",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1582,6 +1695,7 @@
     "Date": "2020-05-18T00:00:00Z"
   },
   {
+    "ID": "70c5499d-c66c-483f-b3b4-d2733596093e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1596,6 +1710,7 @@
     "Date": "2020-05-19T00:00:00Z"
   },
   {
+    "ID": "4a477667-d580-463d-bd36-84a6ed5bc9f2",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1610,6 +1725,7 @@
     "Date": "2020-05-20T00:00:00Z"
   },
   {
+    "ID": "bea616bb-53b7-4bf2-82b5-7813f99b9fd3",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1624,6 +1740,7 @@
     "Date": "2020-05-21T00:00:00Z"
   },
   {
+    "ID": "331b47a2-7d0c-4201-a401-a2f80e76d39e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1638,6 +1755,7 @@
     "Date": "2020-05-22T00:00:00Z"
   },
   {
+    "ID": "2f236638-67a3-4901-a29f-132307fb9f92",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1652,6 +1770,7 @@
     "Date": "2020-05-23T00:00:00Z"
   },
   {
+    "ID": "c60e9fbd-3f2a-41c3-93f0-de23fcb68fe9",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1666,6 +1785,7 @@
     "Date": "2020-05-24T00:00:00Z"
   },
   {
+    "ID": "9ae12c1f-f2e3-48d6-b011-c59f6ba146c3",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1680,6 +1800,7 @@
     "Date": "2020-05-25T00:00:00Z"
   },
   {
+    "ID": "f96b7fb7-3a44-4397-85d9-65338a7effc2",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1694,6 +1815,7 @@
     "Date": "2020-05-26T00:00:00Z"
   },
   {
+    "ID": "a8256734-40ac-44da-90fa-30975b218960",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1708,6 +1830,7 @@
     "Date": "2020-05-27T00:00:00Z"
   },
   {
+    "ID": "cf0a298b-22ad-4dbb-ad2f-e2e91c8ba830",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1722,6 +1845,7 @@
     "Date": "2020-05-28T00:00:00Z"
   },
   {
+    "ID": "8552fb83-3bea-4dfc-89a8-9595566fea2c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1736,6 +1860,7 @@
     "Date": "2020-05-29T00:00:00Z"
   },
   {
+    "ID": "1ec6edc9-25ae-4641-8f8e-e48c38e1860c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1750,6 +1875,7 @@
     "Date": "2020-05-30T00:00:00Z"
   },
   {
+    "ID": "1232c59a-cbbe-4a9c-8bb6-53d8f8773d84",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1764,6 +1890,7 @@
     "Date": "2020-05-31T00:00:00Z"
   },
   {
+    "ID": "911abaf7-8c67-4606-8ad2-142af9f8b0ee",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1778,6 +1905,7 @@
     "Date": "2020-06-01T00:00:00Z"
   },
   {
+    "ID": "0f25a3c3-aa2f-4bc6-8454-93ecc8d5b2f1",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1792,6 +1920,7 @@
     "Date": "2020-06-02T00:00:00Z"
   },
   {
+    "ID": "8128659d-1d98-412b-9a2f-6aae7e00e0c2",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1806,6 +1935,7 @@
     "Date": "2020-06-03T00:00:00Z"
   },
   {
+    "ID": "9c1368a7-7bbd-40b4-951e-6d93b1ce3db7",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1820,6 +1950,7 @@
     "Date": "2020-06-04T00:00:00Z"
   },
   {
+    "ID": "6840a85a-8355-4c19-9f2d-38b02d79d715",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1834,6 +1965,7 @@
     "Date": "2020-06-05T00:00:00Z"
   },
   {
+    "ID": "3227e6b9-e60f-4d59-bd39-080a462576d7",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1848,6 +1980,7 @@
     "Date": "2020-06-06T00:00:00Z"
   },
   {
+    "ID": "8311b390-cda5-435f-a9c5-c89395932e59",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1862,6 +1995,7 @@
     "Date": "2020-06-07T00:00:00Z"
   },
   {
+    "ID": "39504dab-2e10-4b2c-b987-1f0256be8553",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1876,6 +2010,7 @@
     "Date": "2020-06-08T00:00:00Z"
   },
   {
+    "ID": "0112063e-63fe-4129-a2af-cdae7781cb12",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1890,6 +2025,7 @@
     "Date": "2020-06-09T00:00:00Z"
   },
   {
+    "ID": "e3fa2fef-3fc6-4d38-b931-9e0ca74f7ca1",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1904,6 +2040,7 @@
     "Date": "2020-06-10T00:00:00Z"
   },
   {
+    "ID": "e85e6dce-5546-4c7b-9c9b-3b13d3ddfec8",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1918,6 +2055,7 @@
     "Date": "2020-06-11T00:00:00Z"
   },
   {
+    "ID": "c1c9618a-c8d6-4186-86ff-f2737280d06e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1932,6 +2070,7 @@
     "Date": "2020-06-12T00:00:00Z"
   },
   {
+    "ID": "2d428757-8d77-4b66-b4fd-7d983f202a79",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1946,6 +2085,7 @@
     "Date": "2020-06-13T00:00:00Z"
   },
   {
+    "ID": "fc42ea27-327b-42dc-bd47-0257853e67cc",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1960,6 +2100,7 @@
     "Date": "2020-06-14T00:00:00Z"
   },
   {
+    "ID": "0659e8a4-1085-448e-85d5-22c261198a42",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1974,6 +2115,7 @@
     "Date": "2020-06-15T00:00:00Z"
   },
   {
+    "ID": "1a2c27cb-a332-4493-ab71-3accc70e2aa0",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -1988,6 +2130,7 @@
     "Date": "2020-06-16T00:00:00Z"
   },
   {
+    "ID": "43bd7b63-d5be-414e-9c5c-b6e632b0fb4d",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2002,6 +2145,7 @@
     "Date": "2020-06-17T00:00:00Z"
   },
   {
+    "ID": "3db2bcc2-106e-4e11-bf2d-36f45f97c092",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2016,6 +2160,7 @@
     "Date": "2020-06-18T00:00:00Z"
   },
   {
+    "ID": "161a729a-9e57-496c-bc7c-91a81ef9e154",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2030,6 +2175,7 @@
     "Date": "2020-06-19T00:00:00Z"
   },
   {
+    "ID": "69a01033-932d-44e9-b1c1-3c68439b4624",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2044,6 +2190,7 @@
     "Date": "2020-06-20T00:00:00Z"
   },
   {
+    "ID": "6d4cdc3a-a484-46a4-9441-00ce1ac2db4a",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2058,6 +2205,7 @@
     "Date": "2020-06-21T00:00:00Z"
   },
   {
+    "ID": "23909aa3-b1eb-4349-8dd3-e4415e111e05",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2072,6 +2220,7 @@
     "Date": "2020-06-22T00:00:00Z"
   },
   {
+    "ID": "63289163-daf8-4ac6-8087-4adfcae77089",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2086,6 +2235,7 @@
     "Date": "2020-06-23T00:00:00Z"
   },
   {
+    "ID": "4310df37-61d0-4a0a-8f72-ba98ceb2b0c3",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2100,6 +2250,7 @@
     "Date": "2020-06-24T00:00:00Z"
   },
   {
+    "ID": "4914b926-fc4c-4096-9f11-88f79408a1f6",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2114,6 +2265,7 @@
     "Date": "2020-06-25T00:00:00Z"
   },
   {
+    "ID": "fc40e6be-45b9-45ec-be9e-8174b2af472c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2128,6 +2280,7 @@
     "Date": "2020-06-26T00:00:00Z"
   },
   {
+    "ID": "1d41323a-cc00-4ec5-a33c-2fbfb14e6b3c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2142,6 +2295,7 @@
     "Date": "2020-06-27T00:00:00Z"
   },
   {
+    "ID": "dfcd4e4a-fa31-4c4e-aafc-57002e3baf1a",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2156,6 +2310,7 @@
     "Date": "2020-06-28T00:00:00Z"
   },
   {
+    "ID": "599a00e1-2b2e-45cc-8cb7-318226779003",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2170,6 +2325,7 @@
     "Date": "2020-06-29T00:00:00Z"
   },
   {
+    "ID": "04958f12-3ff7-403a-82ce-ff90eeed3085",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2184,6 +2340,7 @@
     "Date": "2020-06-30T00:00:00Z"
   },
   {
+    "ID": "dd07d3da-97de-4528-9d9a-86977c533ed5",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2198,6 +2355,7 @@
     "Date": "2020-07-01T00:00:00Z"
   },
   {
+    "ID": "cfc05271-ee9e-4861-879b-0ace48d2c5e1",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2212,6 +2370,7 @@
     "Date": "2020-07-02T00:00:00Z"
   },
   {
+    "ID": "a1a83d53-245f-40d9-85ca-2986f9270db2",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2226,6 +2385,7 @@
     "Date": "2020-07-03T00:00:00Z"
   },
   {
+    "ID": "80725edd-ab95-4c36-9ed0-1996fd2a9ff8",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2240,6 +2400,7 @@
     "Date": "2020-07-04T00:00:00Z"
   },
   {
+    "ID": "e0ee6df7-8a69-42d7-ad10-ee7ddfa265d5",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2254,6 +2415,7 @@
     "Date": "2020-07-05T00:00:00Z"
   },
   {
+    "ID": "b9b4f0d2-33a6-457b-82ca-0ea46f87fd48",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2268,6 +2430,7 @@
     "Date": "2020-07-06T00:00:00Z"
   },
   {
+    "ID": "582c286e-8083-423b-b254-85a1858dc569",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2282,6 +2445,7 @@
     "Date": "2020-07-07T00:00:00Z"
   },
   {
+    "ID": "6536ec5f-e319-4bef-90a4-e7860adfe343",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2296,6 +2460,7 @@
     "Date": "2020-07-08T00:00:00Z"
   },
   {
+    "ID": "56b9bf69-30b3-46eb-8b57-fd87b7cb37f0",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2310,6 +2475,7 @@
     "Date": "2020-07-09T00:00:00Z"
   },
   {
+    "ID": "07e44d2d-fadf-404e-816a-91e76ef5599a",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2324,6 +2490,7 @@
     "Date": "2020-07-10T00:00:00Z"
   },
   {
+    "ID": "a0c9a348-6c66-4a5c-b875-585496c3b7db",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2338,6 +2505,7 @@
     "Date": "2020-07-11T00:00:00Z"
   },
   {
+    "ID": "8770500b-06ab-42bf-a090-1b3dee801590",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2352,6 +2520,7 @@
     "Date": "2020-07-12T00:00:00Z"
   },
   {
+    "ID": "be54d560-e058-4e0a-bb78-1a62f742c3d4",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2366,6 +2535,7 @@
     "Date": "2020-07-13T00:00:00Z"
   },
   {
+    "ID": "cac3e6db-310b-4348-94b1-13806a724f21",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2380,6 +2550,7 @@
     "Date": "2020-07-14T00:00:00Z"
   },
   {
+    "ID": "c9cc3aa0-2dbc-4ced-9e55-b5f3b76eeed4",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2394,6 +2565,7 @@
     "Date": "2020-07-15T00:00:00Z"
   },
   {
+    "ID": "c722ca6e-e71a-4904-939a-dcbec881b7f9",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2408,6 +2580,7 @@
     "Date": "2020-07-16T00:00:00Z"
   },
   {
+    "ID": "59ebd438-790d-483f-9339-3348b5fb6008",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2422,6 +2595,7 @@
     "Date": "2020-07-17T00:00:00Z"
   },
   {
+    "ID": "d4e01bd2-857f-4816-9938-4b32e0d22a50",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2436,6 +2610,7 @@
     "Date": "2020-07-18T00:00:00Z"
   },
   {
+    "ID": "b81ccef5-d815-40d2-8565-6339b1fecd00",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2450,6 +2625,7 @@
     "Date": "2020-07-19T00:00:00Z"
   },
   {
+    "ID": "efec961f-afc3-4cdd-a50f-610a9c76cdb5",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2464,6 +2640,7 @@
     "Date": "2020-07-20T00:00:00Z"
   },
   {
+    "ID": "fa1ca088-b493-4cdf-9a95-65b32f841cd0",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2478,6 +2655,7 @@
     "Date": "2020-07-21T00:00:00Z"
   },
   {
+    "ID": "126b252e-6b7c-433d-bb88-2fdc13622cf4",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2492,6 +2670,7 @@
     "Date": "2020-07-22T00:00:00Z"
   },
   {
+    "ID": "7bc2bfb5-b989-4ada-802a-c99c06a4e24a",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2506,6 +2685,7 @@
     "Date": "2020-07-23T00:00:00Z"
   },
   {
+    "ID": "84553dfa-8c81-4402-9239-6e42597c19e1",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2520,6 +2700,7 @@
     "Date": "2020-07-24T00:00:00Z"
   },
   {
+    "ID": "72640668-0a25-43a5-ae79-4241b644d611",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2534,6 +2715,7 @@
     "Date": "2020-07-25T00:00:00Z"
   },
   {
+    "ID": "3ae409d3-7fae-4456-8a82-d9e46e7d8e9f",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2548,6 +2730,7 @@
     "Date": "2020-07-26T00:00:00Z"
   },
   {
+    "ID": "8f81a708-8ab6-43b9-8bfc-1c62f1235e65",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2562,6 +2745,7 @@
     "Date": "2020-07-27T00:00:00Z"
   },
   {
+    "ID": "2bf89ee8-ea88-406e-8b30-7a67f138771d",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2576,6 +2760,7 @@
     "Date": "2020-07-28T00:00:00Z"
   },
   {
+    "ID": "ae0ea7de-4777-4e77-bd88-b64fb91a0b57",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2590,6 +2775,7 @@
     "Date": "2020-07-29T00:00:00Z"
   },
   {
+    "ID": "e46de280-319c-48f1-978a-f05b83aecd30",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2604,6 +2790,7 @@
     "Date": "2020-07-30T00:00:00Z"
   },
   {
+    "ID": "a4a19f45-9c1a-42e6-9490-d6a4f56987c8",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2618,6 +2805,7 @@
     "Date": "2020-07-31T00:00:00Z"
   },
   {
+    "ID": "4d9ca223-e5a0-43d6-8bdc-59b2b7777d30",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2632,6 +2820,7 @@
     "Date": "2020-08-01T00:00:00Z"
   },
   {
+    "ID": "08978f70-4e11-40ac-9a65-fb8b904d318b",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2646,6 +2835,7 @@
     "Date": "2020-08-02T00:00:00Z"
   },
   {
+    "ID": "235b43f9-ffc2-4c3a-a9e6-bbd1e5841725",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2660,6 +2850,7 @@
     "Date": "2020-08-03T00:00:00Z"
   },
   {
+    "ID": "1cf87fa1-1e61-4a74-b77e-c18645a3ab4f",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2674,6 +2865,7 @@
     "Date": "2020-08-04T00:00:00Z"
   },
   {
+    "ID": "3e8de5ee-9518-4e38-85b9-d4df53796482",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2688,6 +2880,7 @@
     "Date": "2020-08-05T00:00:00Z"
   },
   {
+    "ID": "01fa6426-a5d2-49dd-b37c-ecdba6e6c998",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2702,6 +2895,7 @@
     "Date": "2020-08-06T00:00:00Z"
   },
   {
+    "ID": "cf2771dc-1bcb-4e8a-8882-87e9b4d65cd2",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2716,6 +2910,7 @@
     "Date": "2020-08-07T00:00:00Z"
   },
   {
+    "ID": "f37f1f12-f67b-4443-ad26-fb4d23009427",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2730,6 +2925,7 @@
     "Date": "2020-08-08T00:00:00Z"
   },
   {
+    "ID": "85198628-29be-4040-8702-08137a0e339a",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2744,6 +2940,7 @@
     "Date": "2020-08-09T00:00:00Z"
   },
   {
+    "ID": "2c82ad5e-fdd4-4a6c-92ed-c6aa0848e7c0",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2758,6 +2955,7 @@
     "Date": "2020-08-10T00:00:00Z"
   },
   {
+    "ID": "651a12e2-5570-458c-8920-5e6c8018dcae",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2772,6 +2970,7 @@
     "Date": "2020-08-11T00:00:00Z"
   },
   {
+    "ID": "f59c6069-0f11-4feb-a2ca-7d5ffdb0fa37",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2786,6 +2985,7 @@
     "Date": "2020-08-12T00:00:00Z"
   },
   {
+    "ID": "3efce39a-1507-4cd8-b830-696bda7a0a3c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2800,6 +3000,7 @@
     "Date": "2020-08-13T00:00:00Z"
   },
   {
+    "ID": "f07beda6-d62c-4272-85eb-07f7303e0d47",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2814,6 +3015,7 @@
     "Date": "2020-08-14T00:00:00Z"
   },
   {
+    "ID": "fcb4f169-e457-40aa-ad79-1573676ae2d1",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2828,6 +3030,7 @@
     "Date": "2020-08-15T00:00:00Z"
   },
   {
+    "ID": "e09a397a-999c-4901-a778-7c5a3c6487c1",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2842,6 +3045,7 @@
     "Date": "2020-08-16T00:00:00Z"
   },
   {
+    "ID": "93eeb217-e9c5-465d-ad13-3f978649e666",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2856,6 +3060,7 @@
     "Date": "2020-08-17T00:00:00Z"
   },
   {
+    "ID": "07ed43e0-7153-43fd-bce2-9a7de51b37ed",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2870,6 +3075,7 @@
     "Date": "2020-08-18T00:00:00Z"
   },
   {
+    "ID": "f3cfaf33-ff18-4539-8ced-9dfad4839a1c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2884,6 +3090,7 @@
     "Date": "2020-08-19T00:00:00Z"
   },
   {
+    "ID": "547c0490-4cf7-423c-a9f7-4fb5d44c1aac",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2898,6 +3105,7 @@
     "Date": "2020-08-20T00:00:00Z"
   },
   {
+    "ID": "a4a1cb55-e46c-48e6-9318-3d5cf2543230",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2912,6 +3120,7 @@
     "Date": "2020-08-21T00:00:00Z"
   },
   {
+    "ID": "75dc2034-6848-4f2d-84fa-5c5596bf3d33",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2926,6 +3135,7 @@
     "Date": "2020-08-22T00:00:00Z"
   },
   {
+    "ID": "4a192185-aa00-4c3c-aceb-9c1080e17b85",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2940,6 +3150,7 @@
     "Date": "2020-08-23T00:00:00Z"
   },
   {
+    "ID": "0c8793cb-e6c7-477d-9341-bc7c329883e0",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2954,6 +3165,7 @@
     "Date": "2020-08-24T00:00:00Z"
   },
   {
+    "ID": "3d1c8c8d-2a7e-4bac-8509-90682f9b0551",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2968,6 +3180,7 @@
     "Date": "2020-08-25T00:00:00Z"
   },
   {
+    "ID": "f49975a6-b54a-499d-a6ea-1bddfac5c825",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2982,6 +3195,7 @@
     "Date": "2020-08-26T00:00:00Z"
   },
   {
+    "ID": "3edf2624-e371-4222-bbfc-cf7e9bbf3b37",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -2996,6 +3210,7 @@
     "Date": "2020-08-27T00:00:00Z"
   },
   {
+    "ID": "5fe74038-9d1a-4e3e-a0c6-7a728caf3ff1",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3010,6 +3225,7 @@
     "Date": "2020-08-28T00:00:00Z"
   },
   {
+    "ID": "e0de433a-d098-4fb6-9e27-ac914b283b48",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3024,6 +3240,7 @@
     "Date": "2020-08-29T00:00:00Z"
   },
   {
+    "ID": "b367966a-0b71-45b7-a6bd-44d03437d8aa",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3038,6 +3255,7 @@
     "Date": "2020-08-30T00:00:00Z"
   },
   {
+    "ID": "d544d92d-9aa7-45e0-9628-327c2059cd35",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3052,6 +3270,7 @@
     "Date": "2020-08-31T00:00:00Z"
   },
   {
+    "ID": "49de5f1d-38af-4c2d-84d0-6e0a6ee25043",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3066,6 +3285,7 @@
     "Date": "2020-09-01T00:00:00Z"
   },
   {
+    "ID": "6f3c77b0-e160-4d96-b385-9abf2236637a",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3080,6 +3300,7 @@
     "Date": "2020-09-02T00:00:00Z"
   },
   {
+    "ID": "8856b3e7-907d-4187-989a-25ae4f7ef626",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3094,6 +3315,7 @@
     "Date": "2020-09-03T00:00:00Z"
   },
   {
+    "ID": "336f9407-955a-498b-a0be-8e46023641df",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3108,6 +3330,7 @@
     "Date": "2020-09-04T00:00:00Z"
   },
   {
+    "ID": "7aeceb02-83fd-4bb3-b30c-72648e1375fb",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3122,6 +3345,7 @@
     "Date": "2020-09-05T00:00:00Z"
   },
   {
+    "ID": "ffcdb3fa-af06-456d-9493-23d07db07981",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3136,6 +3360,7 @@
     "Date": "2020-09-06T00:00:00Z"
   },
   {
+    "ID": "38706be6-39bd-4afa-b22f-587d00ec1135",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3150,6 +3375,7 @@
     "Date": "2020-09-07T00:00:00Z"
   },
   {
+    "ID": "fadefad7-0d3e-4892-8da1-a062f1edc55e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3164,6 +3390,7 @@
     "Date": "2020-09-08T00:00:00Z"
   },
   {
+    "ID": "5ce6d35d-2a2d-4406-b8d8-43d355e6267d",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3178,6 +3405,7 @@
     "Date": "2020-09-09T00:00:00Z"
   },
   {
+    "ID": "2b2ca183-760d-4831-92d6-fd9c9b84a02b",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3192,6 +3420,7 @@
     "Date": "2020-09-10T00:00:00Z"
   },
   {
+    "ID": "4c13df0c-62b3-4f02-8e76-6d87c26b7fce",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3206,6 +3435,7 @@
     "Date": "2020-09-11T00:00:00Z"
   },
   {
+    "ID": "1ac23e4c-cbfa-408b-b8e6-0aa0768c8683",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3220,6 +3450,7 @@
     "Date": "2020-09-12T00:00:00Z"
   },
   {
+    "ID": "27b73d75-074a-4814-a72d-3a6adef72d25",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3234,6 +3465,7 @@
     "Date": "2020-09-13T00:00:00Z"
   },
   {
+    "ID": "53e16e00-c4b2-42f5-8020-e0989249ebee",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3248,6 +3480,7 @@
     "Date": "2020-09-14T00:00:00Z"
   },
   {
+    "ID": "aeef9846-3e95-43f5-90c0-7b2d28b11767",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3262,6 +3495,7 @@
     "Date": "2020-09-15T00:00:00Z"
   },
   {
+    "ID": "e7583fed-8d54-4033-b0a8-37d397b3d108",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3276,6 +3510,7 @@
     "Date": "2020-09-16T00:00:00Z"
   },
   {
+    "ID": "c8dfbff7-18b0-427c-89c4-7750d7918c82",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3290,6 +3525,7 @@
     "Date": "2020-09-17T00:00:00Z"
   },
   {
+    "ID": "ee7c945b-b038-4113-aebf-2e5ce8e799f4",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3304,6 +3540,7 @@
     "Date": "2020-09-18T00:00:00Z"
   },
   {
+    "ID": "3f13cf2b-b433-4e9d-812b-f9272c4e2ca2",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3318,6 +3555,7 @@
     "Date": "2020-09-19T00:00:00Z"
   },
   {
+    "ID": "e8ee8ce5-63f9-4a13-86e6-d4c496a037ae",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3332,6 +3570,7 @@
     "Date": "2020-09-20T00:00:00Z"
   },
   {
+    "ID": "23b0aa28-5a22-438f-9fe1-a8c16a8e4b56",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3346,6 +3585,7 @@
     "Date": "2020-09-21T00:00:00Z"
   },
   {
+    "ID": "6e6f66d0-0d20-4828-a5e0-4ab58c7abfc6",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3360,6 +3600,7 @@
     "Date": "2020-09-22T00:00:00Z"
   },
   {
+    "ID": "95e60a11-ae9d-477a-ad23-78f6e399beac",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3374,6 +3615,7 @@
     "Date": "2020-09-23T00:00:00Z"
   },
   {
+    "ID": "205c83b2-b3cb-49c4-bbd1-e422a4c4ea70",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3388,6 +3630,7 @@
     "Date": "2020-09-24T00:00:00Z"
   },
   {
+    "ID": "ea87750b-cad2-4ea3-9ab8-423efeac8357",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3402,6 +3645,7 @@
     "Date": "2020-09-25T00:00:00Z"
   },
   {
+    "ID": "b0e0de82-c956-4af5-b335-30fabe65ed70",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3416,6 +3660,7 @@
     "Date": "2020-09-26T00:00:00Z"
   },
   {
+    "ID": "2bacded4-1932-470c-9f9b-92e97af9a65c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3430,6 +3675,7 @@
     "Date": "2020-09-27T00:00:00Z"
   },
   {
+    "ID": "7d059381-c81c-41a1-b3f2-e85a51f3abe3",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3444,6 +3690,7 @@
     "Date": "2020-09-28T00:00:00Z"
   },
   {
+    "ID": "2c819a8e-0266-4498-8835-4927d706561d",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3458,6 +3705,7 @@
     "Date": "2020-09-29T00:00:00Z"
   },
   {
+    "ID": "2a86f33c-9c3e-4b83-a078-93dc156ba9e1",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3472,6 +3720,7 @@
     "Date": "2020-09-30T00:00:00Z"
   },
   {
+    "ID": "2144a307-d047-4be9-ae8b-be240165859e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3486,6 +3735,7 @@
     "Date": "2020-10-01T00:00:00Z"
   },
   {
+    "ID": "c83a9353-4ed3-4d2d-8c50-e22ed70444f0",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3500,6 +3750,7 @@
     "Date": "2020-10-02T00:00:00Z"
   },
   {
+    "ID": "4425be7c-3bbe-4943-9f97-1192d59f411e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3514,6 +3765,7 @@
     "Date": "2020-10-03T00:00:00Z"
   },
   {
+    "ID": "6154763c-80f7-4e90-8679-ebc0be44b85f",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3528,6 +3780,7 @@
     "Date": "2020-10-04T00:00:00Z"
   },
   {
+    "ID": "691be350-e8e0-4ebe-bab5-9973b215dff5",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3542,6 +3795,7 @@
     "Date": "2020-10-05T00:00:00Z"
   },
   {
+    "ID": "380c611e-95bd-44f7-817f-5bb592649d06",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3556,6 +3810,7 @@
     "Date": "2020-10-06T00:00:00Z"
   },
   {
+    "ID": "af6d1298-48d1-492f-bdc5-6239ceadd19e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3570,6 +3825,7 @@
     "Date": "2020-10-07T00:00:00Z"
   },
   {
+    "ID": "5edd9a26-9022-4f7a-803b-26106f84f2ed",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3584,6 +3840,7 @@
     "Date": "2020-10-08T00:00:00Z"
   },
   {
+    "ID": "6c6436e9-3a33-4289-8838-661be899e6e6",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3598,6 +3855,7 @@
     "Date": "2020-10-09T00:00:00Z"
   },
   {
+    "ID": "ba5c4e38-afb2-4014-bccf-134121e300f2",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3612,6 +3870,7 @@
     "Date": "2020-10-10T00:00:00Z"
   },
   {
+    "ID": "6d451eeb-a5c6-4418-85d2-a8391165d81c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3626,6 +3885,7 @@
     "Date": "2020-10-11T00:00:00Z"
   },
   {
+    "ID": "fe866996-e7aa-402b-b000-bdf29b5fe25b",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3640,6 +3900,7 @@
     "Date": "2020-10-12T00:00:00Z"
   },
   {
+    "ID": "18a20fb6-9ed4-4ca2-9d47-5af7237ca40b",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3654,6 +3915,7 @@
     "Date": "2020-10-13T00:00:00Z"
   },
   {
+    "ID": "77ecfaad-5794-48ee-be4c-9873aa7a038f",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3668,6 +3930,7 @@
     "Date": "2020-10-14T00:00:00Z"
   },
   {
+    "ID": "56aa69f3-c058-4e23-9ce0-71a604566413",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3682,6 +3945,7 @@
     "Date": "2020-10-15T00:00:00Z"
   },
   {
+    "ID": "9ff50454-61fc-4d8b-b4d8-872ef62e8445",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3696,6 +3960,7 @@
     "Date": "2020-10-16T00:00:00Z"
   },
   {
+    "ID": "9f37f899-8a10-4e96-8ce7-7e28a4e1a19e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3710,6 +3975,7 @@
     "Date": "2020-10-17T00:00:00Z"
   },
   {
+    "ID": "925487d7-6892-4e7a-a289-766659be51f5",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3724,6 +3990,7 @@
     "Date": "2020-10-18T00:00:00Z"
   },
   {
+    "ID": "de338bce-ffce-4046-9e14-7041a7a5688c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3738,6 +4005,7 @@
     "Date": "2020-10-19T00:00:00Z"
   },
   {
+    "ID": "e3115f84-5658-4715-80bf-784a29f0c513",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3752,6 +4020,7 @@
     "Date": "2020-10-20T00:00:00Z"
   },
   {
+    "ID": "2ead65cd-e419-4f65-8e7e-0dbe21945fbc",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3766,6 +4035,7 @@
     "Date": "2020-10-21T00:00:00Z"
   },
   {
+    "ID": "b215063b-dab3-4e78-b28d-98a736cbc286",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3780,6 +4050,7 @@
     "Date": "2020-10-22T00:00:00Z"
   },
   {
+    "ID": "d65765f1-a626-4c88-993e-0c47141eabd6",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3794,6 +4065,7 @@
     "Date": "2020-10-23T00:00:00Z"
   },
   {
+    "ID": "95fbe4d5-06aa-4d3b-affa-d5ca0363faa1",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3808,6 +4080,7 @@
     "Date": "2020-10-24T00:00:00Z"
   },
   {
+    "ID": "eee7f28c-d4aa-4e48-b94f-91aa5ccf5106",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3822,6 +4095,7 @@
     "Date": "2020-10-25T00:00:00Z"
   },
   {
+    "ID": "b39b1f36-961c-49b3-bf8a-7b258229fe29",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3836,6 +4110,7 @@
     "Date": "2020-10-26T00:00:00Z"
   },
   {
+    "ID": "28acc09d-6770-4181-8bde-99232ca55a70",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3850,6 +4125,7 @@
     "Date": "2020-10-27T00:00:00Z"
   },
   {
+    "ID": "89e99c4b-6538-44d4-bf95-d83bd6121c0d",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3864,6 +4140,7 @@
     "Date": "2020-10-28T00:00:00Z"
   },
   {
+    "ID": "bcfbf0b4-6cbb-4ef4-af61-f144ff4928f6",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3878,6 +4155,7 @@
     "Date": "2020-10-29T00:00:00Z"
   },
   {
+    "ID": "406c6991-1a8c-49e1-98c5-cd43c6ca0703",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3892,6 +4170,7 @@
     "Date": "2020-10-30T00:00:00Z"
   },
   {
+    "ID": "a7c3bde3-eec6-4d0c-9fd1-2a5a63331ab7",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3906,6 +4185,7 @@
     "Date": "2020-10-31T00:00:00Z"
   },
   {
+    "ID": "b90d2428-be72-464b-a941-374306ee0457",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3920,6 +4200,7 @@
     "Date": "2020-11-01T00:00:00Z"
   },
   {
+    "ID": "2f1617d0-5708-48ab-ad73-2ce917b17397",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3934,6 +4215,7 @@
     "Date": "2020-11-02T00:00:00Z"
   },
   {
+    "ID": "be5b37e3-24af-4365-aad1-9823b8f3e2b3",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3948,6 +4230,7 @@
     "Date": "2020-11-03T00:00:00Z"
   },
   {
+    "ID": "ae32a4e5-7f8f-4dc4-ac6a-211ca89c3372",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3962,6 +4245,7 @@
     "Date": "2020-11-04T00:00:00Z"
   },
   {
+    "ID": "b521a152-b997-4872-abf4-396628cc9264",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3976,6 +4260,7 @@
     "Date": "2020-11-05T00:00:00Z"
   },
   {
+    "ID": "be8c36f4-a833-499e-b137-432eda151b51",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -3990,6 +4275,7 @@
     "Date": "2020-11-06T00:00:00Z"
   },
   {
+    "ID": "f27cef70-66f6-4282-a745-bbcf1979c11a",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4004,6 +4290,7 @@
     "Date": "2020-11-07T00:00:00Z"
   },
   {
+    "ID": "65d566f6-e001-4145-a1a0-c282f1a400e3",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4018,6 +4305,7 @@
     "Date": "2020-11-08T00:00:00Z"
   },
   {
+    "ID": "2bfc86a9-4198-4d7b-b1aa-376e35863405",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4032,6 +4320,7 @@
     "Date": "2020-11-09T00:00:00Z"
   },
   {
+    "ID": "4e19cab8-8092-4cb2-8e46-1bbf745bfff7",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4046,6 +4335,7 @@
     "Date": "2020-11-10T00:00:00Z"
   },
   {
+    "ID": "b8f4c9a3-31d2-4f11-a13e-48bc4c01123b",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4060,6 +4350,7 @@
     "Date": "2020-11-11T00:00:00Z"
   },
   {
+    "ID": "db4ffc4e-e754-4eb3-8283-dc4a00d49800",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4074,6 +4365,7 @@
     "Date": "2020-11-12T00:00:00Z"
   },
   {
+    "ID": "dce84446-6fd2-40ee-91c3-c351845637d9",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4088,6 +4380,7 @@
     "Date": "2020-11-13T00:00:00Z"
   },
   {
+    "ID": "afa63ab5-87d1-4e4c-9407-9ff90168301f",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4102,6 +4395,7 @@
     "Date": "2020-11-14T00:00:00Z"
   },
   {
+    "ID": "d4b69075-493a-4165-9e67-9e02aa768a82",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4116,6 +4410,7 @@
     "Date": "2020-11-15T00:00:00Z"
   },
   {
+    "ID": "2e44beb5-f8b5-418f-bd06-5ba68f6ab0b0",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4130,6 +4425,7 @@
     "Date": "2020-11-16T00:00:00Z"
   },
   {
+    "ID": "cd09dc13-20ba-41f4-bc8c-80b89ec9ee43",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4144,6 +4440,7 @@
     "Date": "2020-11-17T00:00:00Z"
   },
   {
+    "ID": "9e0af91a-2d2c-45ea-aac5-f97cd3d30519",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4158,6 +4455,7 @@
     "Date": "2020-11-18T00:00:00Z"
   },
   {
+    "ID": "5448b781-acb6-422c-b9de-daa603f6aeca",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4172,6 +4470,7 @@
     "Date": "2020-11-19T00:00:00Z"
   },
   {
+    "ID": "9743aa4e-7a41-4007-9912-08477f751006",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4186,6 +4485,7 @@
     "Date": "2020-11-20T00:00:00Z"
   },
   {
+    "ID": "e2255674-6ed5-4b0c-aeed-a68d3893b6fb",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4200,6 +4500,7 @@
     "Date": "2020-11-21T00:00:00Z"
   },
   {
+    "ID": "133c357c-2423-4f51-942d-fa7b02db5e97",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4214,6 +4515,7 @@
     "Date": "2020-11-22T00:00:00Z"
   },
   {
+    "ID": "272ff60d-20b7-49a5-a889-fee4a534c8d7",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4228,6 +4530,7 @@
     "Date": "2020-11-23T00:00:00Z"
   },
   {
+    "ID": "6971a510-70d9-451b-b418-7619bdf32572",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4242,6 +4545,7 @@
     "Date": "2020-11-24T00:00:00Z"
   },
   {
+    "ID": "ba2e9aab-4a0f-4fc2-a569-c52adacbc5a3",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4256,6 +4560,7 @@
     "Date": "2020-11-25T00:00:00Z"
   },
   {
+    "ID": "20e981b3-0ac6-4fbf-8481-ae82c5cda0f0",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4270,6 +4575,7 @@
     "Date": "2020-11-26T00:00:00Z"
   },
   {
+    "ID": "30ee1f2b-5694-47ef-a8a2-1e8f8e5321b9",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4284,6 +4590,7 @@
     "Date": "2020-11-27T00:00:00Z"
   },
   {
+    "ID": "8d5de2da-ce3c-4197-b079-df7654a9f264",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4298,6 +4605,7 @@
     "Date": "2020-11-28T00:00:00Z"
   },
   {
+    "ID": "5527cc8d-f490-41fe-bd1c-d099b6e6b08e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4312,6 +4620,7 @@
     "Date": "2020-11-29T00:00:00Z"
   },
   {
+    "ID": "9a0191e8-8048-433c-8276-27c35fead948",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4326,6 +4635,7 @@
     "Date": "2020-11-30T00:00:00Z"
   },
   {
+    "ID": "8b6a1e5b-fb63-4fc7-9b77-bc632a385555",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4340,6 +4650,7 @@
     "Date": "2020-12-01T00:00:00Z"
   },
   {
+    "ID": "e71b406f-e3f1-4551-a4eb-58f5b45acbe0",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4354,6 +4665,7 @@
     "Date": "2020-12-02T00:00:00Z"
   },
   {
+    "ID": "d9b6e0d7-717f-4037-9cc9-d0a97669677a",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4368,6 +4680,7 @@
     "Date": "2020-12-03T00:00:00Z"
   },
   {
+    "ID": "328b6073-74eb-4c6c-9fc4-5f8b5df2af04",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4382,6 +4695,7 @@
     "Date": "2020-12-04T00:00:00Z"
   },
   {
+    "ID": "9607dc28-38bc-4a1f-a543-492f28bcf71a",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4396,6 +4710,7 @@
     "Date": "2020-12-05T00:00:00Z"
   },
   {
+    "ID": "4c1003d2-ef25-4a08-9c92-38c22f763d89",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4410,6 +4725,7 @@
     "Date": "2020-12-06T00:00:00Z"
   },
   {
+    "ID": "b79f8a9f-ccfe-4c49-a54e-19b6d2709583",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4424,6 +4740,7 @@
     "Date": "2020-12-07T00:00:00Z"
   },
   {
+    "ID": "28a95625-18a0-446d-9e57-17c583f1c00d",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4438,6 +4755,7 @@
     "Date": "2020-12-08T00:00:00Z"
   },
   {
+    "ID": "b5911be1-e1f1-4c1b-b6ae-112b45c78cda",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4452,6 +4770,7 @@
     "Date": "2020-12-09T00:00:00Z"
   },
   {
+    "ID": "8d5f61f4-94ba-4953-a3ae-850e541684d1",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4466,6 +4785,7 @@
     "Date": "2020-12-10T00:00:00Z"
   },
   {
+    "ID": "456932ab-db98-4dc8-8e8c-37a109566693",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4480,6 +4800,7 @@
     "Date": "2020-12-11T00:00:00Z"
   },
   {
+    "ID": "02135b89-db12-4990-8f3d-c8c1c3c7cce0",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4494,6 +4815,7 @@
     "Date": "2020-12-12T00:00:00Z"
   },
   {
+    "ID": "2fcca22c-d477-49f5-9a1f-8090dd6cb83d",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4508,6 +4830,7 @@
     "Date": "2020-12-13T00:00:00Z"
   },
   {
+    "ID": "aeca89b3-1c71-4eab-a0d5-3818dd7bab91",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4522,6 +4845,7 @@
     "Date": "2020-12-14T00:00:00Z"
   },
   {
+    "ID": "319e78dd-99ba-48ea-96ee-f1f13560d160",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4536,6 +4860,7 @@
     "Date": "2020-12-15T00:00:00Z"
   },
   {
+    "ID": "24d28f22-f645-4633-827d-8814ec325615",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4550,6 +4875,7 @@
     "Date": "2020-12-16T00:00:00Z"
   },
   {
+    "ID": "d6e20565-2312-4750-b5d2-26b79718c0b6",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4564,6 +4890,7 @@
     "Date": "2020-12-17T00:00:00Z"
   },
   {
+    "ID": "a9513020-d74f-4cb1-b503-9d3d05e26547",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4578,6 +4905,7 @@
     "Date": "2020-12-18T00:00:00Z"
   },
   {
+    "ID": "f04e2b40-2bbb-45b7-83d5-01886694b0bf",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4592,6 +4920,7 @@
     "Date": "2020-12-19T00:00:00Z"
   },
   {
+    "ID": "5249c7f2-9903-4f95-9469-24c68de44abf",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4606,6 +4935,7 @@
     "Date": "2020-12-20T00:00:00Z"
   },
   {
+    "ID": "86f16a11-9dfb-469c-927d-5f9492a77b9a",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4620,6 +4950,7 @@
     "Date": "2020-12-21T00:00:00Z"
   },
   {
+    "ID": "aee3a3c4-0e46-420f-92fe-db9b3c024ff3",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4634,6 +4965,7 @@
     "Date": "2020-12-22T00:00:00Z"
   },
   {
+    "ID": "158a7674-8ccd-4fd3-921f-4dc305f8bf30",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4648,6 +4980,7 @@
     "Date": "2020-12-23T00:00:00Z"
   },
   {
+    "ID": "875fcea8-4913-4ef8-a399-19e9972a0076",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4662,6 +4995,7 @@
     "Date": "2020-12-24T00:00:00Z"
   },
   {
+    "ID": "f91ff427-505d-4500-9e3b-75be720c0d82",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4676,6 +5010,7 @@
     "Date": "2020-12-25T00:00:00Z"
   },
   {
+    "ID": "7408598d-29a2-4f08-a46a-e97154c36b07",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4690,6 +5025,7 @@
     "Date": "2020-12-26T00:00:00Z"
   },
   {
+    "ID": "5eba087d-721d-41ba-80ac-31e474aa4908",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4704,6 +5040,7 @@
     "Date": "2020-12-27T00:00:00Z"
   },
   {
+    "ID": "d7d5b102-5d65-4c7f-b4dc-4e5b6ea31b2c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4718,6 +5055,7 @@
     "Date": "2020-12-28T00:00:00Z"
   },
   {
+    "ID": "5aa1f885-7a61-4071-848d-46add9b1b869",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4732,6 +5070,7 @@
     "Date": "2020-12-29T00:00:00Z"
   },
   {
+    "ID": "38a8fad6-1ea7-464b-bc39-15e918e9655c",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4746,6 +5085,7 @@
     "Date": "2020-12-30T00:00:00Z"
   },
   {
+    "ID": "e9721b33-8c3b-40bd-b13c-c95e3a6e4860",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4760,6 +5100,7 @@
     "Date": "2020-12-31T00:00:00Z"
   },
   {
+    "ID": "ab6f710f-7b60-4beb-9a80-fbcd8d1655d9",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4774,6 +5115,7 @@
     "Date": "2021-01-01T00:00:00Z"
   },
   {
+    "ID": "c471b43d-5bf9-4d29-a2fe-0948f4aa53c2",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4788,6 +5130,7 @@
     "Date": "2021-01-02T00:00:00Z"
   },
   {
+    "ID": "d59fa1e0-ab57-4389-a378-18aa361fd9f5",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4802,6 +5145,7 @@
     "Date": "2021-01-03T00:00:00Z"
   },
   {
+    "ID": "35a3121f-b0db-45e0-bcf9-5680684cdc2e",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4816,6 +5160,7 @@
     "Date": "2021-01-04T00:00:00Z"
   },
   {
+    "ID": "a4b381ad-2453-49ca-93a5-bac94fda8aaf",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4830,6 +5175,7 @@
     "Date": "2021-01-05T00:00:00Z"
   },
   {
+    "ID": "d9468eb7-da2f-4b08-9131-aa73a7604f49",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4844,6 +5190,7 @@
     "Date": "2021-01-06T00:00:00Z"
   },
   {
+    "ID": "39bb6eca-9626-4d43-a2e0-c3d1443486c9",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4858,6 +5205,7 @@
     "Date": "2021-01-07T00:00:00Z"
   },
   {
+    "ID": "0c46e9da-f7f0-4f23-a57b-5703cf51117a",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4872,6 +5220,7 @@
     "Date": "2021-01-08T00:00:00Z"
   },
   {
+    "ID": "9e385d3f-0d5b-4996-b6d8-a10f5e07a566",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4886,6 +5235,7 @@
     "Date": "2021-01-09T00:00:00Z"
   },
   {
+    "ID": "fa3a8b60-70f5-438d-baf6-f942f30c5e32",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4900,6 +5250,7 @@
     "Date": "2021-01-10T00:00:00Z"
   },
   {
+    "ID": "3c9a14b3-5318-4c85-aa95-d6577c13b8d8",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4914,6 +5265,7 @@
     "Date": "2021-01-11T00:00:00Z"
   },
   {
+    "ID": "cbbe1a19-daa6-443a-91a1-37ab80aa4193",
     "Country": "Germany",
     "CountryCode": "DE",
     "Province": "",
@@ -4926,5 +5278,20 @@
     "Recovered": 1616761,
     "Active": 308676,
     "Date": "2021-01-12T00:00:00Z"
+  },
+  {
+    "ID": "6c8de581-dd4e-4d16-9d78-683218293ed4",
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "51.17",
+    "Lon": "10.45",
+    "Confirmed": 1993892,
+    "Deaths": 44096,
+    "Recovered": 1640682,
+    "Active": 309114,
+    "Date": "2021-01-13T00:00:00Z"
   }
 ]
