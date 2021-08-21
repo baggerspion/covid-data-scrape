@@ -8228,7 +8228,7 @@
     "CityCode": "",
     "Lat": "51.17",
     "Lon": "10.45",
-    "Confirmed": 3777236,
+    "Confirmed": 3769552,
     "Deaths": 91709,
     "Recovered": 3653990,
     "Active": 31537,
@@ -8548,5 +8548,20 @@
     "Recovered": 0,
     "Active": 3754277,
     "Date": "2021-08-18T00:00:00Z"
+  },
+  {
+    "ID": "ad8d297d-5dd0-45da-8574-2667b37c8eb9",
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "51.17",
+    "Lon": "10.45",
+    "Confirmed": 3854529,
+    "Deaths": 91963,
+    "Recovered": 0,
+    "Active": 3762566,
+    "Date": "2021-08-19T00:00:00Z"
   }
 ]
