@@ -9733,5 +9733,20 @@
     "Recovered": 0,
     "Active": 4659395,
     "Date": "2021-11-05T00:00:00Z"
+  },
+  {
+    "ID": "da236fd8-b53d-4961-909b-670878742d67",
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "51.17",
+    "Lon": "10.45",
+    "Confirmed": 4779675,
+    "Deaths": 96529,
+    "Recovered": 0,
+    "Active": 4683146,
+    "Date": "2021-11-06T00:00:00Z"
   }
 ]
