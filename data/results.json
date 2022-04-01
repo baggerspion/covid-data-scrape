@@ -684,7 +684,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2369,
-    "Deaths": 3,
+    "Deaths": 5,
     "Recovered": 25,
     "Active": 2050,
     "Date": "2020-03-12T00:00:00Z"
@@ -699,7 +699,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3062,
-    "Deaths": 7,
+    "Deaths": 5,
     "Recovered": 46,
     "Active": 3622,
     "Date": "2020-03-13T00:00:00Z"
@@ -714,7 +714,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3795,
-    "Deaths": 9,
+    "Deaths": 8,
     "Recovered": 46,
     "Active": 4530,
     "Date": "2020-03-14T00:00:00Z"
@@ -729,7 +729,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4838,
-    "Deaths": 11,
+    "Deaths": 12,
     "Recovered": 46,
     "Active": 5738,
     "Date": "2020-03-15T00:00:00Z"
@@ -744,7 +744,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6012,
-    "Deaths": 17,
+    "Deaths": 12,
     "Recovered": 67,
     "Active": 7188,
     "Date": "2020-03-16T00:00:00Z"
@@ -759,7 +759,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7156,
-    "Deaths": 24,
+    "Deaths": 12,
     "Recovered": 67,
     "Active": 9166,
     "Date": "2020-03-17T00:00:00Z"
@@ -774,7 +774,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 8198,
-    "Deaths": 28,
+    "Deaths": 12,
     "Recovered": 105,
     "Active": 12194,
     "Date": "2020-03-18T00:00:00Z"
@@ -789,7 +789,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 10999,
-    "Deaths": 44,
+    "Deaths": 20,
     "Recovered": 113,
     "Active": 15163,
     "Date": "2020-03-19T00:00:00Z"
@@ -804,7 +804,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 13957,
-    "Deaths": 67,
+    "Deaths": 31,
     "Recovered": 180,
     "Active": 19601,
     "Date": "2020-03-20T00:00:00Z"
@@ -819,7 +819,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 16662,
-    "Deaths": 84,
+    "Deaths": 47,
     "Recovered": 233,
     "Active": 21896,
     "Date": "2020-03-21T00:00:00Z"
@@ -834,7 +834,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 18610,
-    "Deaths": 94,
+    "Deaths": 55,
     "Recovered": 266,
     "Active": 24513,
     "Date": "2020-03-22T00:00:00Z"
@@ -849,7 +849,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 22672,
-    "Deaths": 123,
+    "Deaths": 86,
     "Recovered": 266,
     "Active": 28667,
     "Date": "2020-03-23T00:00:00Z"
@@ -864,7 +864,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 27436,
-    "Deaths": 157,
+    "Deaths": 114,
     "Recovered": 3243,
     "Active": 29586,
     "Date": "2020-03-24T00:00:00Z"
@@ -879,7 +879,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 31554,
-    "Deaths": 206,
+    "Deaths": 149,
     "Recovered": 3547,
     "Active": 33570,
     "Date": "2020-03-25T00:00:00Z"
@@ -894,7 +894,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 36508,
-    "Deaths": 267,
+    "Deaths": 198,
     "Recovered": 5673,
     "Active": 37998,
     "Date": "2020-03-26T00:00:00Z"
@@ -909,7 +909,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 42288,
-    "Deaths": 342,
+    "Deaths": 253,
     "Recovered": 6658,
     "Active": 43871,
     "Date": "2020-03-27T00:00:00Z"
@@ -924,7 +924,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 48582,
-    "Deaths": 433,
+    "Deaths": 325,
     "Recovered": 8481,
     "Active": 48781,
     "Date": "2020-03-28T00:00:00Z"
@@ -939,7 +939,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 52547,
-    "Deaths": 533,
+    "Deaths": 389,
     "Recovered": 9211,
     "Active": 52351,
     "Date": "2020-03-29T00:00:00Z"
@@ -954,7 +954,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 57298,
-    "Deaths": 645,
+    "Deaths": 455,
     "Recovered": 13500,
     "Active": 52740,
     "Date": "2020-03-30T00:00:00Z"
@@ -969,7 +969,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 61913,
-    "Deaths": 775,
+    "Deaths": 583,
     "Recovered": 16100,
     "Active": 54933,
     "Date": "2020-03-31T00:00:00Z"
@@ -984,7 +984,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 67366,
-    "Deaths": 920,
+    "Deaths": 732,
     "Recovered": 18700,
     "Active": 58252,
     "Date": "2020-04-01T00:00:00Z"
@@ -999,7 +999,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 73522,
-    "Deaths": 1107,
+    "Deaths": 872,
     "Recovered": 22440,
     "Active": 61247,
     "Date": "2020-04-02T00:00:00Z"
@@ -1014,7 +1014,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 79696,
-    "Deaths": 1275,
+    "Deaths": 1017,
     "Recovered": 24575,
     "Active": 65309,
     "Date": "2020-04-03T00:00:00Z"
@@ -1029,7 +1029,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 85778,
-    "Deaths": 1444,
+    "Deaths": 1158,
     "Recovered": 26400,
     "Active": 68248,
     "Date": "2020-04-04T00:00:00Z"
@@ -1044,7 +1044,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 91714,
-    "Deaths": 1584,
+    "Deaths": 1342,
     "Recovered": 28700,
     "Active": 69839,
     "Date": "2020-04-05T00:00:00Z"
@@ -1059,7 +1059,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 95391,
-    "Deaths": 1810,
+    "Deaths": 1434,
     "Recovered": 28700,
     "Active": 72864,
     "Date": "2020-04-06T00:00:00Z"
@@ -1074,7 +1074,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 99225,
-    "Deaths": 2016,
+    "Deaths": 1607,
     "Recovered": 36081,
     "Active": 69566,
     "Date": "2020-04-07T00:00:00Z"
@@ -1089,7 +1089,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 103228,
-    "Deaths": 2349,
+    "Deaths": 1861,
     "Recovered": 46300,
     "Active": 64647,
     "Date": "2020-04-08T00:00:00Z"
@@ -1104,7 +1104,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 108202,
-    "Deaths": 2607,
+    "Deaths": 2107,
     "Recovered": 52407,
     "Active": 63167,
     "Date": "2020-04-09T00:00:00Z"
@@ -1119,7 +1119,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 113525,
-    "Deaths": 2767,
+    "Deaths": 2373,
     "Recovered": 53913,
     "Active": 65491,
     "Date": "2020-04-10T00:00:00Z"
@@ -1134,7 +1134,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 117658,
-    "Deaths": 2736,
+    "Deaths": 2544,
     "Recovered": 57400,
     "Active": 64772,
     "Date": "2020-04-11T00:00:00Z"
@@ -1149,7 +1149,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 120479,
-    "Deaths": 3022,
+    "Deaths": 2673,
     "Recovered": 60300,
     "Active": 64532,
     "Date": "2020-04-12T00:00:00Z"
@@ -1164,7 +1164,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 123016,
-    "Deaths": 3194,
+    "Deaths": 2799,
     "Recovered": 64300,
     "Active": 62578,
     "Date": "2020-04-13T00:00:00Z"
@@ -1179,7 +1179,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 125098,
-    "Deaths": 3294,
+    "Deaths": 2969,
     "Recovered": 68200,
     "Active": 59865,
     "Date": "2020-04-14T00:00:00Z"
@@ -1194,7 +1194,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 127584,
-    "Deaths": 3804,
+    "Deaths": 3254,
     "Recovered": 72600,
     "Active": 58349,
     "Date": "2020-04-15T00:00:00Z"
@@ -1209,7 +1209,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 130450,
-    "Deaths": 4052,
+    "Deaths": 3569,
     "Recovered": 77000,
     "Active": 56646,
     "Date": "2020-04-16T00:00:00Z"
@@ -1224,7 +1224,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 133830,
-    "Deaths": 4352,
+    "Deaths": 3868,
     "Recovered": 83114,
     "Active": 53931,
     "Date": "2020-04-17T00:00:00Z"
@@ -1239,7 +1239,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 137439,
-    "Deaths": 4459,
+    "Deaths": 4110,
     "Recovered": 85400,
     "Active": 53483,
     "Date": "2020-04-18T00:00:00Z"
@@ -1254,7 +1254,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 139897,
-    "Deaths": 4586,
+    "Deaths": 4294,
     "Recovered": 88000,
     "Active": 52598,
     "Date": "2020-04-19T00:00:00Z"
@@ -1269,7 +1269,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 141672,
-    "Deaths": 4862,
+    "Deaths": 4404,
     "Recovered": 91500,
     "Active": 50703,
     "Date": "2020-04-20T00:00:00Z"
@@ -1284,7 +1284,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 143457,
-    "Deaths": 5033,
+    "Deaths": 4598,
     "Recovered": 95200,
     "Active": 48058,
     "Date": "2020-04-21T00:00:00Z"
@@ -1299,7 +1299,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 145694,
-    "Deaths": 5279,
+    "Deaths": 4879,
     "Recovered": 99400,
     "Active": 45969,
     "Date": "2020-04-22T00:00:00Z"
@@ -1314,7 +1314,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 148046,
-    "Deaths": 5575,
+    "Deaths": 5094,
     "Recovered": 103300,
     "Active": 44254,
     "Date": "2020-04-23T00:00:00Z"
@@ -1329,7 +1329,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 150383,
-    "Deaths": 5760,
+    "Deaths": 5321,
     "Recovered": 109800,
     "Active": 39439,
     "Date": "2020-04-24T00:00:00Z"
@@ -1344,7 +1344,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 152438,
-    "Deaths": 5877,
+    "Deaths": 5500,
     "Recovered": 109800,
     "Active": 40836,
     "Date": "2020-04-25T00:00:00Z"
@@ -1359,7 +1359,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 154175,
-    "Deaths": 5976,
+    "Deaths": 5640,
     "Recovered": 112000,
     "Active": 39794,
     "Date": "2020-04-26T00:00:00Z"
@@ -1374,7 +1374,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 155193,
-    "Deaths": 6126,
+    "Deaths": 5750,
     "Recovered": 114500,
     "Active": 38132,
     "Date": "2020-04-27T00:00:00Z"
@@ -1389,7 +1389,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 156337,
-    "Deaths": 6314,
+    "Deaths": 5913,
     "Recovered": 117400,
     "Active": 36198,
     "Date": "2020-04-28T00:00:00Z"
@@ -1404,7 +1404,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 157641,
-    "Deaths": 6467,
+    "Deaths": 6115,
     "Recovered": 120400,
     "Active": 34672,
     "Date": "2020-04-29T00:00:00Z"
@@ -1419,7 +1419,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 159119,
-    "Deaths": 6623,
+    "Deaths": 6288,
     "Recovered": 123500,
     "Active": 32886,
     "Date": "2020-04-30T00:00:00Z"
@@ -1434,7 +1434,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 160758,
-    "Deaths": 6736,
+    "Deaths": 6481,
     "Recovered": 126900,
     "Active": 30441,
     "Date": "2020-05-01T00:00:00Z"
@@ -1449,7 +1449,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 161703,
-    "Deaths": 6812,
+    "Deaths": 6575,
     "Recovered": 129000,
     "Active": 29155,
     "Date": "2020-05-02T00:00:00Z"
@@ -1464,7 +1464,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 162496,
-    "Deaths": 6866,
+    "Deaths": 6649,
     "Recovered": 130600,
     "Active": 28198,
     "Date": "2020-05-03T00:00:00Z"
@@ -1479,7 +1479,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 163175,
-    "Deaths": 6993,
+    "Deaths": 6692,
     "Recovered": 132700,
     "Active": 26459,
     "Date": "2020-05-04T00:00:00Z"
@@ -1494,7 +1494,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 163860,
-    "Deaths": 6993,
+    "Deaths": 6831,
     "Recovered": 135100,
     "Active": 24914,
     "Date": "2020-05-05T00:00:00Z"
@@ -1509,7 +1509,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 164807,
-    "Deaths": 7275,
+    "Deaths": 6996,
     "Recovered": 139900,
     "Active": 20987,
     "Date": "2020-05-06T00:00:00Z"
@@ -1524,7 +1524,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 166091,
-    "Deaths": 7392,
+    "Deaths": 7119,
     "Recovered": 141700,
     "Active": 20338,
     "Date": "2020-05-07T00:00:00Z"
@@ -1539,7 +1539,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 167300,
-    "Deaths": 7510,
+    "Deaths": 7266,
     "Recovered": 141700,
     "Active": 21378,
     "Date": "2020-05-08T00:00:00Z"
@@ -1554,7 +1554,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 168551,
-    "Deaths": 7549,
+    "Deaths": 7369,
     "Recovered": 143300,
     "Active": 20475,
     "Date": "2020-05-09T00:00:00Z"
@@ -1569,7 +1569,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 169218,
-    "Deaths": 7569,
+    "Deaths": 7395,
     "Recovered": 144400,
     "Active": 19910,
     "Date": "2020-05-10T00:00:00Z"
@@ -1584,7 +1584,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 169575,
-    "Deaths": 7661,
+    "Deaths": 7417,
     "Recovered": 145617,
     "Active": 19298,
     "Date": "2020-05-11T00:00:00Z"
@@ -1599,7 +1599,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 170508,
-    "Deaths": 7738,
+    "Deaths": 7533,
     "Recovered": 147200,
     "Active": 18233,
     "Date": "2020-05-12T00:00:00Z"
@@ -1614,7 +1614,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 171306,
-    "Deaths": 7861,
+    "Deaths": 7634,
     "Recovered": 148700,
     "Active": 17537,
     "Date": "2020-05-13T00:00:00Z"
@@ -1629,7 +1629,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 172239,
-    "Deaths": 7884,
+    "Deaths": 7723,
     "Recovered": 150300,
     "Active": 16294,
     "Date": "2020-05-14T00:00:00Z"
@@ -1644,7 +1644,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 173152,
-    "Deaths": 7897,
+    "Deaths": 7824,
     "Recovered": 151597,
     "Active": 15739,
     "Date": "2020-05-15T00:00:00Z"
@@ -1659,7 +1659,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 173772,
-    "Deaths": 7938,
+    "Deaths": 7881,
     "Recovered": 152600,
     "Active": 15214,
     "Date": "2020-05-16T00:00:00Z"
@@ -1674,7 +1674,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 174355,
-    "Deaths": 7962,
+    "Deaths": 7914,
     "Recovered": 154011,
     "Active": 14396,
     "Date": "2020-05-17T00:00:00Z"
@@ -1689,7 +1689,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 174697,
-    "Deaths": 8003,
+    "Deaths": 7935,
     "Recovered": 155041,
     "Active": 13507,
     "Date": "2020-05-18T00:00:00Z"
@@ -1704,7 +1704,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 175210,
-    "Deaths": 8081,
+    "Deaths": 8007,
     "Recovered": 155681,
     "Active": 14016,
     "Date": "2020-05-19T00:00:00Z"
@@ -1719,7 +1719,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 176007,
-    "Deaths": 8144,
+    "Deaths": 8090,
     "Recovered": 156966,
     "Active": 13363,
     "Date": "2020-05-20T00:00:00Z"
@@ -1734,7 +1734,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 176752,
-    "Deaths": 8203,
+    "Deaths": 8147,
     "Recovered": 158087,
     "Active": 12731,
     "Date": "2020-05-21T00:00:00Z"
@@ -1749,7 +1749,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 177212,
-    "Deaths": 8228,
+    "Deaths": 8174,
     "Recovered": 159064,
     "Active": 12418,
     "Date": "2020-05-22T00:00:00Z"
@@ -1764,7 +1764,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 177850,
-    "Deaths": 8261,
+    "Deaths": 8216,
     "Recovered": 159716,
     "Active": 12009,
     "Date": "2020-05-23T00:00:00Z"
@@ -1779,7 +1779,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 178281,
-    "Deaths": 8283,
+    "Deaths": 8247,
     "Recovered": 160281,
     "Active": 11764,
     "Date": "2020-05-24T00:00:00Z"
@@ -1794,7 +1794,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 178570,
-    "Deaths": 8309,
+    "Deaths": 8257,
     "Recovered": 161199,
     "Active": 11092,
     "Date": "2020-05-25T00:00:00Z"
@@ -1809,7 +1809,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 179002,
-    "Deaths": 8372,
+    "Deaths": 8302,
     "Recovered": 161967,
     "Active": 10861,
     "Date": "2020-05-26T00:00:00Z"
@@ -1824,7 +1824,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 179364,
-    "Deaths": 8428,
+    "Deaths": 8349,
     "Recovered": 162820,
     "Active": 10276,
     "Date": "2020-05-27T00:00:00Z"
@@ -1839,7 +1839,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 179717,
-    "Deaths": 8470,
+    "Deaths": 8411,
     "Recovered": 163360,
     "Active": 10366,
     "Date": "2020-05-28T00:00:00Z"
@@ -1854,7 +1854,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 180458,
-    "Deaths": 8504,
+    "Deaths": 8450,
     "Recovered": 164245,
     "Active": 10173,
     "Date": "2020-05-29T00:00:00Z"
@@ -1869,7 +1869,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 181196,
-    "Deaths": 8530,
+    "Deaths": 8489,
     "Recovered": 164908,
     "Active": 9751,
     "Date": "2020-05-30T00:00:00Z"
@@ -1884,7 +1884,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 181482,
-    "Deaths": 8540,
+    "Deaths": 8500,
     "Recovered": 165352,
     "Active": 9518,
     "Date": "2020-05-31T00:00:00Z"
@@ -1899,7 +1899,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 181815,
-    "Deaths": 8555,
+    "Deaths": 8511,
     "Recovered": 165632,
     "Active": 9407,
     "Date": "2020-06-01T00:00:00Z"
@@ -1914,7 +1914,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 182028,
-    "Deaths": 8563,
+    "Deaths": 8522,
     "Recovered": 166609,
     "Active": 8707,
     "Date": "2020-06-02T00:00:00Z"
@@ -1929,7 +1929,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 182370,
-    "Deaths": 8602,
+    "Deaths": 8551,
     "Recovered": 167453,
     "Active": 8066,
     "Date": "2020-06-03T00:00:00Z"
@@ -1944,7 +1944,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 182764,
-    "Deaths": 8635,
+    "Deaths": 8581,
     "Recovered": 167909,
     "Active": 7928,
     "Date": "2020-06-04T00:00:00Z"
@@ -1959,7 +1959,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 183271,
-    "Deaths": 8658,
+    "Deaths": 8613,
     "Recovered": 168480,
     "Active": 7786,
     "Date": "2020-06-05T00:00:00Z"
@@ -1974,7 +1974,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 183678,
-    "Deaths": 8673,
+    "Deaths": 8646,
     "Recovered": 168958,
     "Active": 7819,
     "Date": "2020-06-06T00:00:00Z"
@@ -1989,7 +1989,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 183979,
-    "Deaths": 8685,
+    "Deaths": 8668,
     "Recovered": 169224,
     "Active": 7841,
     "Date": "2020-06-07T00:00:00Z"
@@ -2004,7 +2004,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 184193,
-    "Deaths": 8695,
+    "Deaths": 8674,
     "Recovered": 169556,
     "Active": 7858,
     "Date": "2020-06-08T00:00:00Z"
@@ -2019,7 +2019,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 184543,
-    "Deaths": 8736,
+    "Deaths": 8711,
     "Recovered": 170129,
     "Active": 7641,
     "Date": "2020-06-09T00:00:00Z"
@@ -2034,7 +2034,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 184861,
-    "Deaths": 8752,
+    "Deaths": 8729,
     "Recovered": 170630,
     "Active": 7140,
     "Date": "2020-06-10T00:00:00Z"
@@ -2049,7 +2049,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 185416,
-    "Deaths": 8772,
+    "Deaths": 8755,
     "Recovered": 170961,
     "Active": 6958,
     "Date": "2020-06-11T00:00:00Z"
@@ -2064,7 +2064,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 185674,
-    "Deaths": 8783,
+    "Deaths": 8763,
     "Recovered": 171535,
     "Active": 6908,
     "Date": "2020-06-12T00:00:00Z"
@@ -2079,7 +2079,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 186022,
-    "Deaths": 8793,
+    "Deaths": 8781,
     "Recovered": 171970,
     "Active": 6504,
     "Date": "2020-06-13T00:00:00Z"
@@ -2094,7 +2094,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 186269,
-    "Deaths": 8801,
+    "Deaths": 8787,
     "Recovered": 172089,
     "Active": 6628,
     "Date": "2020-06-14T00:00:00Z"
@@ -2109,7 +2109,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 186461,
-    "Deaths": 8807,
+    "Deaths": 8791,
     "Recovered": 172692,
     "Active": 6183,
     "Date": "2020-06-15T00:00:00Z"
@@ -2124,7 +2124,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 186839,
-    "Deaths": 8820,
+    "Deaths": 8800,
     "Recovered": 172842,
     "Active": 6590,
     "Date": "2020-06-16T00:00:00Z"
@@ -2139,7 +2139,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 187184,
-    "Deaths": 8851,
+    "Deaths": 8830,
     "Recovered": 173599,
     "Active": 6154,
     "Date": "2020-06-17T00:00:00Z"
@@ -2154,7 +2154,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 187764,
-    "Deaths": 8875,
+    "Deaths": 8856,
     "Recovered": 173847,
     "Active": 7095,
     "Date": "2020-06-18T00:00:00Z"
@@ -2169,7 +2169,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 188534,
-    "Deaths": 8887,
+    "Deaths": 8872,
     "Recovered": 173972,
     "Active": 7440,
     "Date": "2020-06-19T00:00:00Z"
@@ -2184,7 +2184,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 189135,
-    "Deaths": 8895,
+    "Deaths": 8883,
     "Recovered": 174609,
     "Active": 7166,
     "Date": "2020-06-20T00:00:00Z"
@@ -2199,7 +2199,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 189822,
-    "Deaths": 8895,
+    "Deaths": 8882,
     "Recovered": 174740,
     "Active": 7637,
     "Date": "2020-06-21T00:00:00Z"
@@ -2214,7 +2214,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 190359,
-    "Deaths": 8899,
+    "Deaths": 8885,
     "Recovered": 175143,
     "Active": 7726,
     "Date": "2020-06-22T00:00:00Z"
@@ -2229,7 +2229,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 190862,
-    "Deaths": 8914,
+    "Deaths": 8895,
     "Recovered": 175825,
     "Active": 7741,
     "Date": "2020-06-23T00:00:00Z"
@@ -2244,7 +2244,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 191449,
-    "Deaths": 8928,
+    "Deaths": 8914,
     "Recovered": 176422,
     "Active": 7521,
     "Date": "2020-06-24T00:00:00Z"
@@ -2259,7 +2259,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 192079,
-    "Deaths": 8940,
+    "Deaths": 8927,
     "Recovered": 176764,
     "Active": 7667,
     "Date": "2020-06-25T00:00:00Z"
@@ -2274,7 +2274,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 192556,
-    "Deaths": 8965,
+    "Deaths": 8948,
     "Recovered": 177149,
     "Active": 7922,
     "Date": "2020-06-26T00:00:00Z"
@@ -2289,7 +2289,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 193243,
-    "Deaths": 8968,
+    "Deaths": 8954,
     "Recovered": 177518,
     "Active": 7972,
     "Date": "2020-06-27T00:00:00Z"
@@ -2304,7 +2304,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 193499,
-    "Deaths": 8968,
+    "Deaths": 8957,
     "Recovered": 177657,
     "Active": 8068,
     "Date": "2020-06-28T00:00:00Z"
@@ -2319,7 +2319,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 193761,
-    "Deaths": 8976,
+    "Deaths": 8961,
     "Recovered": 177770,
     "Active": 8296,
     "Date": "2020-06-29T00:00:00Z"
@@ -2334,7 +2334,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 194259,
-    "Deaths": 8990,
+    "Deaths": 8973,
     "Recovered": 178100,
     "Active": 8328,
     "Date": "2020-06-30T00:00:00Z"
@@ -2349,7 +2349,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 194725,
-    "Deaths": 8995,
+    "Deaths": 8985,
     "Recovered": 179100,
     "Active": 7798,
     "Date": "2020-07-01T00:00:00Z"
@@ -2364,7 +2364,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 195228,
-    "Deaths": 9006,
+    "Deaths": 8994,
     "Recovered": 179800,
     "Active": 7564,
     "Date": "2020-07-02T00:00:00Z"
@@ -2379,7 +2379,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 195674,
-    "Deaths": 9010,
+    "Deaths": 9003,
     "Recovered": 180300,
     "Active": 7470,
     "Date": "2020-07-03T00:00:00Z"
@@ -2394,7 +2394,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 196096,
-    "Deaths": 9020,
+    "Deaths": 9010,
     "Recovered": 181000,
     "Active": 7178,
     "Date": "2020-07-04T00:00:00Z"
@@ -2409,7 +2409,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 196335,
-    "Deaths": 9023,
+    "Deaths": 9012,
     "Recovered": 181719,
     "Active": 6781,
     "Date": "2020-07-05T00:00:00Z"
@@ -2424,7 +2424,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 196554,
-    "Deaths": 9022,
+    "Deaths": 9016,
     "Recovered": 182160,
     "Active": 6882,
     "Date": "2020-07-06T00:00:00Z"
@@ -2439,7 +2439,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 196944,
-    "Deaths": 9032,
+    "Deaths": 9024,
     "Recovered": 182661,
     "Active": 6650,
     "Date": "2020-07-07T00:00:00Z"
@@ -2454,7 +2454,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 197341,
-    "Deaths": 9046,
+    "Deaths": 9036,
     "Recovered": 183153,
     "Active": 6500,
     "Date": "2020-07-08T00:00:00Z"
@@ -2469,7 +2469,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 197783,
-    "Deaths": 9057,
+    "Deaths": 9048,
     "Recovered": 183728,
     "Active": 6216,
     "Date": "2020-07-09T00:00:00Z"
@@ -2484,7 +2484,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 198178,
-    "Deaths": 9063,
+    "Deaths": 9054,
     "Recovered": 184028,
     "Active": 6241,
     "Date": "2020-07-10T00:00:00Z"
@@ -2499,7 +2499,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 198556,
-    "Deaths": 9070,
+    "Deaths": 9060,
     "Recovered": 184266,
     "Active": 6373,
     "Date": "2020-07-11T00:00:00Z"
@@ -2514,7 +2514,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 198804,
-    "Deaths": 9071,
+    "Deaths": 9063,
     "Recovered": 184414,
     "Active": 6434,
     "Date": "2020-07-12T00:00:00Z"
@@ -2529,7 +2529,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 198963,
-    "Deaths": 9074,
+    "Deaths": 9064,
     "Recovered": 185100,
     "Active": 6006,
     "Date": "2020-07-13T00:00:00Z"
@@ -2544,7 +2544,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 199375,
-    "Deaths": 9078,
+    "Deaths": 9068,
     "Recovered": 185100,
     "Active": 6278,
     "Date": "2020-07-14T00:00:00Z"
@@ -2559,7 +2559,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 199726,
-    "Deaths": 9080,
+    "Deaths": 9071,
     "Recovered": 186000,
     "Active": 5810,
     "Date": "2020-07-15T00:00:00Z"
@@ -2574,7 +2574,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 200260,
-    "Deaths": 9087,
+    "Deaths": 9078,
     "Recovered": 186400,
     "Active": 5963,
     "Date": "2020-07-16T00:00:00Z"
@@ -2589,7 +2589,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 200843,
-    "Deaths": 9088,
+    "Deaths": 9082,
     "Recovered": 186900,
     "Active": 6057,
     "Date": "2020-07-17T00:00:00Z"
@@ -2604,7 +2604,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 201372,
-    "Deaths": 9091,
+    "Deaths": 9083,
     "Recovered": 187200,
     "Active": 6135,
     "Date": "2020-07-18T00:00:00Z"
@@ -2619,7 +2619,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 201574,
-    "Deaths": 9092,
+    "Deaths": 9084,
     "Recovered": 187400,
     "Active": 6243,
     "Date": "2020-07-19T00:00:00Z"
@@ -2634,7 +2634,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 201823,
-    "Deaths": 9094,
+    "Deaths": 9086,
     "Recovered": 188070,
     "Active": 6161,
     "Date": "2020-07-20T00:00:00Z"
@@ -2649,7 +2649,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 202345,
-    "Deaths": 9099,
+    "Deaths": 9090,
     "Recovered": 188221,
     "Active": 6397,
     "Date": "2020-07-21T00:00:00Z"
@@ -2664,7 +2664,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 202799,
-    "Deaths": 9102,
+    "Deaths": 9095,
     "Recovered": 188628,
     "Active": 6546,
     "Date": "2020-07-22T00:00:00Z"
@@ -2679,7 +2679,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 203368,
-    "Deaths": 9110,
+    "Deaths": 9101,
     "Recovered": 189140,
     "Active": 6631,
     "Date": "2020-07-23T00:00:00Z"
@@ -2694,7 +2694,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 204183,
-    "Deaths": 9120,
+    "Deaths": 9111,
     "Recovered": 189696,
     "Active": 6807,
     "Date": "2020-07-24T00:00:00Z"
@@ -2709,7 +2709,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 204964,
-    "Deaths": 9124,
+    "Deaths": 9118,
     "Recovered": 189919,
     "Active": 7235,
     "Date": "2020-07-25T00:00:00Z"
@@ -2724,7 +2724,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 205269,
-    "Deaths": 9124,
+    "Deaths": 9118,
     "Recovered": 190055,
     "Active": 7488,
     "Date": "2020-07-26T00:00:00Z"
@@ -2739,7 +2739,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 205609,
-    "Deaths": 9125,
+    "Deaths": 9118,
     "Recovered": 190314,
     "Active": 7673,
     "Date": "2020-07-27T00:00:00Z"
@@ -2754,7 +2754,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 206242,
-    "Deaths": 9131,
+    "Deaths": 9122,
     "Recovered": 190711,
     "Active": 7865,
     "Date": "2020-07-28T00:00:00Z"
@@ -2769,7 +2769,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 206926,
-    "Deaths": 9135,
+    "Deaths": 9128,
     "Recovered": 191279,
     "Active": 8132,
     "Date": "2020-07-29T00:00:00Z"
@@ -2784,7 +2784,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 207828,
-    "Deaths": 9144,
+    "Deaths": 9134,
     "Recovered": 191551,
     "Active": 8840,
     "Date": "2020-07-30T00:00:00Z"
@@ -2799,7 +2799,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 208698,
-    "Deaths": 9147,
+    "Deaths": 9141,
     "Recovered": 191992,
     "Active": 9260,
     "Date": "2020-07-31T00:00:00Z"
@@ -2814,7 +2814,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 209653,
-    "Deaths": 9154,
+    "Deaths": 9148,
     "Recovered": 192636,
     "Active": 9215,
     "Date": "2020-08-01T00:00:00Z"
@@ -2829,7 +2829,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 209893,
-    "Deaths": 9154,
+    "Deaths": 9141,
     "Recovered": 192908,
     "Active": 9158,
     "Date": "2020-08-02T00:00:00Z"
@@ -2844,7 +2844,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 210402,
-    "Deaths": 9154,
+    "Deaths": 9148,
     "Recovered": 193594,
     "Active": 9363,
     "Date": "2020-08-03T00:00:00Z"
@@ -2859,7 +2859,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 211281,
-    "Deaths": 9163,
+    "Deaths": 9156,
     "Recovered": 194173,
     "Active": 9492,
     "Date": "2020-08-04T00:00:00Z"
@@ -2874,7 +2874,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 212022,
-    "Deaths": 9179,
+    "Deaths": 9168,
     "Recovered": 194568,
     "Active": 10366,
     "Date": "2020-08-05T00:00:00Z"
@@ -2889,7 +2889,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 213067,
-    "Deaths": 9181,
+    "Deaths": 9175,
     "Recovered": 195281,
     "Active": 10577,
     "Date": "2020-08-06T00:00:00Z"
@@ -2904,7 +2904,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 214214,
-    "Deaths": 9195,
+    "Deaths": 9183,
     "Recovered": 195935,
     "Active": 11066,
     "Date": "2020-08-07T00:00:00Z"
@@ -2919,7 +2919,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 215336,
-    "Deaths": 9201,
+    "Deaths": 9195,
     "Recovered": 196550,
     "Active": 11152,
     "Date": "2020-08-08T00:00:00Z"
@@ -2934,7 +2934,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 215891,
-    "Deaths": 9202,
+    "Deaths": 9196,
     "Recovered": 196783,
     "Active": 11303,
     "Date": "2020-08-09T00:00:00Z"
@@ -2949,7 +2949,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 216327,
-    "Deaths": 9203,
+    "Deaths": 9197,
     "Recovered": 197382,
     "Active": 11923,
     "Date": "2020-08-10T00:00:00Z"
@@ -2964,7 +2964,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 217293,
-    "Deaths": 9208,
+    "Deaths": 9201,
     "Recovered": 198347,
     "Active": 11985,
     "Date": "2020-08-11T00:00:00Z"
@@ -2979,7 +2979,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 218519,
-    "Deaths": 9213,
+    "Deaths": 9207,
     "Recovered": 198991,
     "Active": 12655,
     "Date": "2020-08-12T00:00:00Z"
@@ -2994,7 +2994,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 219964,
-    "Deaths": 9217,
+    "Deaths": 9211,
     "Recovered": 199654,
     "Active": 13410,
     "Date": "2020-08-13T00:00:00Z"
@@ -3009,7 +3009,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 221413,
-    "Deaths": 9230,
+    "Deaths": 9225,
     "Recovered": 200440,
     "Active": 14121,
     "Date": "2020-08-14T00:00:00Z"
@@ -3024,7 +3024,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 222828,
-    "Deaths": 9235,
+    "Deaths": 9231,
     "Recovered": 200756,
     "Active": 14497,
     "Date": "2020-08-15T00:00:00Z"
@@ -3039,7 +3039,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 223453,
-    "Deaths": 9235,
+    "Deaths": 9231,
     "Recovered": 201187,
     "Active": 14585,
     "Date": "2020-08-16T00:00:00Z"
@@ -3054,7 +3054,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 224014,
-    "Deaths": 9236,
+    "Deaths": 9232,
     "Recovered": 202249,
     "Active": 15215,
     "Date": "2020-08-17T00:00:00Z"
@@ -3069,7 +3069,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 225404,
-    "Deaths": 9241,
+    "Deaths": 9236,
     "Recovered": 203677,
     "Active": 15202,
     "Date": "2020-08-18T00:00:00Z"
@@ -3084,7 +3084,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 226914,
-    "Deaths": 9249,
+    "Deaths": 9243,
     "Recovered": 204454,
     "Active": 16003,
     "Date": "2020-08-19T00:00:00Z"
@@ -3099,7 +3099,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 228621,
-    "Deaths": 9263,
+    "Deaths": 9253,
     "Recovered": 205359,
     "Active": 16670,
     "Date": "2020-08-20T00:00:00Z"
@@ -3114,7 +3114,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 230048,
-    "Deaths": 9266,
+    "Deaths": 9260,
     "Recovered": 206656,
     "Active": 17107,
     "Date": "2020-08-21T00:00:00Z"
@@ -3129,7 +3129,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 232082,
-    "Deaths": 9272,
+    "Deaths": 9267,
     "Recovered": 207606,
     "Active": 16983,
     "Date": "2020-08-22T00:00:00Z"
@@ -3144,7 +3144,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 232864,
-    "Deaths": 9275,
+    "Deaths": 9269,
     "Recovered": 207985,
     "Active": 17234,
     "Date": "2020-08-23T00:00:00Z"
@@ -3159,7 +3159,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 233575,
-    "Deaths": 9276,
+    "Deaths": 9272,
     "Recovered": 208653,
     "Active": 18193,
     "Date": "2020-08-24T00:00:00Z"
@@ -3174,7 +3174,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 234853,
-    "Deaths": 9281,
+    "Deaths": 9277,
     "Recovered": 210333,
     "Active": 17969,
     "Date": "2020-08-25T00:00:00Z"
@@ -3189,7 +3189,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 236429,
-    "Deaths": 9285,
+    "Deaths": 9280,
     "Recovered": 211691,
     "Active": 18034,
     "Date": "2020-08-26T00:00:00Z"
@@ -3204,7 +3204,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 237936,
-    "Deaths": 9290,
+    "Deaths": 9285,
     "Recovered": 212909,
     "Active": 18372,
     "Date": "2020-08-27T00:00:00Z"
@@ -3219,7 +3219,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 239507,
-    "Deaths": 9290,
+    "Deaths": 9288,
     "Recovered": 214186,
     "Active": 18650,
     "Date": "2020-08-28T00:00:00Z"
@@ -3234,7 +3234,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 240986,
-    "Deaths": 9299,
+    "Deaths": 9289,
     "Recovered": 214790,
     "Active": 18746,
     "Date": "2020-08-29T00:00:00Z"
@@ -3249,7 +3249,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 241771,
-    "Deaths": 9300,
+    "Deaths": 9295,
     "Recovered": 215283,
     "Active": 18722,
     "Date": "2020-08-30T00:00:00Z"
@@ -3264,7 +3264,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 242381,
-    "Deaths": 9303,
+    "Deaths": 9298,
     "Recovered": 216795,
     "Active": 18704,
     "Date": "2020-08-31T00:00:00Z"
@@ -3279,7 +3279,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 243599,
-    "Deaths": 9307,
+    "Deaths": 9302,
     "Recovered": 218403,
     "Active": 18305,
     "Date": "2020-09-01T00:00:00Z"
@@ -3294,7 +3294,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 244855,
-    "Deaths": 9322,
+    "Deaths": 9313,
     "Recovered": 219904,
     "Active": 18185,
     "Date": "2020-09-02T00:00:00Z"
@@ -3309,7 +3309,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 246166,
-    "Deaths": 9322,
+    "Deaths": 9321,
     "Recovered": 221525,
     "Active": 17993,
     "Date": "2020-09-03T00:00:00Z"
@@ -3324,7 +3324,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 247619,
-    "Deaths": 9327,
+    "Deaths": 9322,
     "Recovered": 222802,
     "Active": 18154,
     "Date": "2020-09-04T00:00:00Z"
@@ -3339,7 +3339,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 248997,
-    "Deaths": 9329,
+    "Deaths": 9324,
     "Recovered": 223570,
     "Active": 18159,
     "Date": "2020-09-05T00:00:00Z"
@@ -3354,7 +3354,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 249985,
-    "Deaths": 9330,
+    "Deaths": 9325,
     "Recovered": 224215,
     "Active": 18183,
     "Date": "2020-09-06T00:00:00Z"
@@ -3369,7 +3369,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 250799,
-    "Deaths": 9331,
+    "Deaths": 9325,
     "Recovered": 225704,
     "Active": 18591,
     "Date": "2020-09-07T00:00:00Z"
@@ -3384,7 +3384,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 252298,
-    "Deaths": 9336,
+    "Deaths": 9329,
     "Recovered": 227379,
     "Active": 18242,
     "Date": "2020-09-08T00:00:00Z"
@@ -3399,7 +3399,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 253474,
-    "Deaths": 9342,
+    "Deaths": 9338,
     "Recovered": 228784,
     "Active": 18307,
     "Date": "2020-09-09T00:00:00Z"
@@ -3414,7 +3414,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 255366,
-    "Deaths": 9345,
+    "Deaths": 9341,
     "Recovered": 230283,
     "Active": 18521,
     "Date": "2020-09-10T00:00:00Z"
@@ -3429,7 +3429,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 256850,
-    "Deaths": 9348,
+    "Deaths": 9342,
     "Recovered": 231349,
     "Active": 19038,
     "Date": "2020-09-11T00:00:00Z"
@@ -3444,7 +3444,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 258480,
-    "Deaths": 9352,
+    "Deaths": 9347,
     "Recovered": 231953,
     "Active": 19512,
     "Date": "2020-09-12T00:00:00Z"
@@ -3459,7 +3459,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 259428,
-    "Deaths": 9354,
+    "Deaths": 9349,
     "Recovered": 232541,
     "Active": 19842,
     "Date": "2020-09-13T00:00:00Z"
@@ -3474,7 +3474,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 260355,
-    "Deaths": 9356,
+    "Deaths": 9350,
     "Recovered": 234017,
     "Active": 19849,
     "Date": "2020-09-14T00:00:00Z"
@@ -3489,7 +3489,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 261762,
-    "Deaths": 9367,
+    "Deaths": 9362,
     "Recovered": 235112,
     "Active": 20535,
     "Date": "2020-09-15T00:00:00Z"
@@ -3504,7 +3504,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 263663,
-    "Deaths": 9373,
+    "Deaths": 9368,
     "Recovered": 236623,
     "Active": 20873,
     "Date": "2020-09-16T00:00:00Z"
@@ -3519,7 +3519,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 265857,
-    "Deaths": 9376,
+    "Deaths": 9371,
     "Recovered": 238437,
     "Active": 21235,
     "Date": "2020-09-17T00:00:00Z"
@@ -3534,7 +3534,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 267773,
-    "Deaths": 9386,
+    "Deaths": 9378,
     "Recovered": 239654,
     "Active": 22207,
     "Date": "2020-09-18T00:00:00Z"
@@ -3549,7 +3549,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 270070,
-    "Deaths": 9388,
+    "Deaths": 9384,
     "Recovered": 240510,
     "Active": 23034,
     "Date": "2020-09-19T00:00:00Z"
@@ -3564,7 +3564,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 271415,
-    "Deaths": 9390,
+    "Deaths": 9386,
     "Recovered": 241192,
     "Active": 23383,
     "Date": "2020-09-20T00:00:00Z"
@@ -3579,7 +3579,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 272337,
-    "Deaths": 9390,
+    "Deaths": 9386,
     "Recovered": 242656,
     "Active": 23514,
     "Date": "2020-09-21T00:00:00Z"
@@ -3594,7 +3594,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 274158,
-    "Deaths": 9405,
+    "Deaths": 9396,
     "Recovered": 244693,
     "Active": 23314,
     "Date": "2020-09-22T00:00:00Z"
@@ -3609,7 +3609,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 275927,
-    "Deaths": 9423,
+    "Deaths": 9409,
     "Recovered": 245706,
     "Active": 23896,
     "Date": "2020-09-23T00:00:00Z"
@@ -3624,7 +3624,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 278070,
-    "Deaths": 9436,
+    "Deaths": 9428,
     "Recovered": 247766,
     "Active": 24144,
     "Date": "2020-09-24T00:00:00Z"
@@ -3639,7 +3639,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 280223,
-    "Deaths": 9451,
+    "Deaths": 9443,
     "Recovered": 249164,
     "Active": 25097,
     "Date": "2020-09-25T00:00:00Z"
@@ -3654,7 +3654,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 282730,
-    "Deaths": 9459,
+    "Deaths": 9452,
     "Recovered": 250104,
     "Active": 25463,
     "Date": "2020-09-26T00:00:00Z"
@@ -3669,7 +3669,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 284140,
-    "Deaths": 9464,
+    "Deaths": 9457,
     "Recovered": 250866,
     "Active": 26009,
     "Date": "2020-09-27T00:00:00Z"
@@ -3684,7 +3684,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 285332,
-    "Deaths": 9468,
+    "Deaths": 9460,
     "Recovered": 252693,
     "Active": 26470,
     "Date": "2020-09-28T00:00:00Z"
@@ -3699,7 +3699,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 287421,
-    "Deaths": 9483,
+    "Deaths": 9471,
     "Recovered": 255212,
     "Active": 25776,
     "Date": "2020-09-29T00:00:00Z"
@@ -3714,7 +3714,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 289219,
-    "Deaths": 9495,
+    "Deaths": 9488,
     "Recovered": 256861,
     "Active": 26557,
     "Date": "2020-09-30T00:00:00Z"
@@ -3729,7 +3729,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 291722,
-    "Deaths": 9509,
+    "Deaths": 9500,
     "Recovered": 258220,
     "Active": 27810,
     "Date": "2020-10-01T00:00:00Z"
@@ -3744,7 +3744,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 294395,
-    "Deaths": 9518,
+    "Deaths": 9508,
     "Recovered": 259722,
     "Active": 29134,
     "Date": "2020-10-02T00:00:00Z"
@@ -3759,7 +3759,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 296958,
-    "Deaths": 9531,
+    "Deaths": 9527,
     "Recovered": 260916,
     "Active": 29580,
     "Date": "2020-10-03T00:00:00Z"
@@ -3774,7 +3774,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 299237,
-    "Deaths": 9533,
+    "Deaths": 9529,
     "Recovered": 262002,
     "Active": 30038,
     "Date": "2020-10-04T00:00:00Z"
@@ -3789,7 +3789,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 300619,
-    "Deaths": 9554,
+    "Deaths": 9534,
     "Recovered": 265624,
     "Active": 29495,
     "Date": "2020-10-05T00:00:00Z"
@@ -3804,7 +3804,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 303258,
-    "Deaths": 9566,
+    "Deaths": 9546,
     "Recovered": 267747,
     "Active": 29814,
     "Date": "2020-10-06T00:00:00Z"
@@ -3819,7 +3819,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 306086,
-    "Deaths": 9582,
+    "Deaths": 9562,
     "Recovered": 269722,
     "Active": 31833,
     "Date": "2020-10-07T00:00:00Z"
@@ -3834,7 +3834,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 310144,
-    "Deaths": 9594,
+    "Deaths": 9578,
     "Recovered": 271960,
     "Active": 34387,
     "Date": "2020-10-08T00:00:00Z"
@@ -3849,7 +3849,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 314660,
-    "Deaths": 9599,
+    "Deaths": 9589,
     "Recovered": 273718,
     "Active": 37178,
     "Date": "2020-10-09T00:00:00Z"
@@ -3864,7 +3864,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 319381,
-    "Deaths": 9620,
+    "Deaths": 9604,
     "Recovered": 274934,
     "Active": 38909,
     "Date": "2020-10-10T00:00:00Z"
@@ -3879,7 +3879,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 322864,
-    "Deaths": 9626,
+    "Deaths": 9615,
     "Recovered": 276983,
     "Active": 39700,
     "Date": "2020-10-11T00:00:00Z"
@@ -3894,7 +3894,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 325331,
-    "Deaths": 9640,
+    "Deaths": 9621,
     "Recovered": 278391,
     "Active": 44819,
     "Date": "2020-10-12T00:00:00Z"
@@ -3909,7 +3909,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 329453,
-    "Deaths": 9682,
+    "Deaths": 9634,
     "Recovered": 280533,
     "Active": 47099,
     "Date": "2020-10-13T00:00:00Z"
@@ -3924,7 +3924,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 334585,
-    "Deaths": 9716,
+    "Deaths": 9677,
     "Recovered": 283656,
     "Active": 51115,
     "Date": "2020-10-14T00:00:00Z"
@@ -3939,7 +3939,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 341223,
-    "Deaths": 9739,
+    "Deaths": 9710,
     "Recovered": 286137,
     "Active": 56231,
     "Date": "2020-10-15T00:00:00Z"
@@ -3954,7 +3954,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 348557,
-    "Deaths": 9773,
+    "Deaths": 9734,
     "Recovered": 289027,
     "Active": 61002,
     "Date": "2020-10-16T00:00:00Z"
@@ -3969,7 +3969,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 356387,
-    "Deaths": 9785,
+    "Deaths": 9767,
     "Recovered": 291129,
     "Active": 63750,
     "Date": "2020-10-17T00:00:00Z"
@@ -3984,7 +3984,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 361974,
-    "Deaths": 9798,
+    "Deaths": 9777,
     "Recovered": 293447,
     "Active": 65426,
     "Date": "2020-10-18T00:00:00Z"
@@ -3999,7 +3999,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 366299,
-    "Deaths": 9842,
+    "Deaths": 9789,
     "Recovered": 296672,
     "Active": 70554,
     "Date": "2020-10-19T00:00:00Z"
@@ -4014,7 +4014,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 373167,
-    "Deaths": 9882,
+    "Deaths": 9836,
     "Recovered": 299743,
     "Active": 75966,
     "Date": "2020-10-20T00:00:00Z"
@@ -4029,7 +4029,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 380762,
-    "Deaths": 9911,
+    "Deaths": 9875,
     "Recovered": 304173,
     "Active": 83838,
     "Date": "2020-10-21T00:00:00Z"
@@ -4044,7 +4044,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 392049,
-    "Deaths": 9960,
+    "Deaths": 9905,
     "Recovered": 308779,
     "Active": 85135,
     "Date": "2020-10-22T00:00:00Z"
@@ -4059,7 +4059,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 403291,
-    "Deaths": 9978,
+    "Deaths": 9954,
     "Recovered": 312347,
     "Active": 95025,
     "Date": "2020-10-23T00:00:00Z"
@@ -4074,7 +4074,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 418005,
-    "Deaths": 10035,
+    "Deaths": 10003,
     "Recovered": 316124,
     "Active": 101649,
     "Date": "2020-10-24T00:00:00Z"
@@ -4089,7 +4089,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 429181,
-    "Deaths": 10062,
+    "Deaths": 10032,
     "Recovered": 320004,
     "Active": 107632,
     "Date": "2020-10-25T00:00:00Z"
@@ -4104,7 +4104,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 437866,
-    "Deaths": 10091,
+    "Deaths": 10056,
     "Recovered": 325052,
     "Active": 115115,
     "Date": "2020-10-26T00:00:00Z"
@@ -4119,7 +4119,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 449275,
-    "Deaths": 10121,
+    "Deaths": 10098,
     "Recovered": 327697,
     "Active": 125601,
     "Date": "2020-10-27T00:00:00Z"
@@ -4134,7 +4134,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 464239,
-    "Deaths": 10218,
+    "Deaths": 10183,
     "Recovered": 336764,
     "Active": 132639,
     "Date": "2020-10-28T00:00:00Z"
@@ -4149,7 +4149,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 481013,
-    "Deaths": 10305,
+    "Deaths": 10272,
     "Recovered": 340436,
     "Active": 147613,
     "Date": "2020-10-29T00:00:00Z"
@@ -4164,7 +4164,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 499694,
-    "Deaths": 10391,
+    "Deaths": 10349,
     "Recovered": 351921,
     "Active": 155424,
     "Date": "2020-10-30T00:00:00Z"
@@ -4179,7 +4179,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 518753,
-    "Deaths": 10483,
+    "Deaths": 10452,
     "Recovered": 356410,
     "Active": 164897,
     "Date": "2020-10-31T00:00:00Z"
@@ -4194,7 +4194,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 532930,
-    "Deaths": 10513,
+    "Deaths": 10481,
     "Recovered": 363545,
     "Active": 170288,
     "Date": "2020-11-01T00:00:00Z"
@@ -4209,7 +4209,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 545027,
-    "Deaths": 10669,
+    "Deaths": 10530,
     "Recovered": 372499,
     "Active": 186430,
     "Date": "2020-11-02T00:00:00Z"
@@ -4224,7 +4224,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 560379,
-    "Deaths": 10717,
+    "Deaths": 10661,
     "Recovered": 373391,
     "Active": 193023,
     "Date": "2020-11-03T00:00:00Z"
@@ -4239,7 +4239,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 577593,
-    "Deaths": 10949,
+    "Deaths": 10812,
     "Recovered": 384012,
     "Active": 213650,
     "Date": "2020-11-04T00:00:00Z"
@@ -4254,7 +4254,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 597583,
-    "Deaths": 11110,
+    "Deaths": 10930,
     "Recovered": 394616,
     "Active": 225446,
     "Date": "2020-11-05T00:00:00Z"
@@ -4269,7 +4269,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 619089,
-    "Deaths": 11240,
+    "Deaths": 11096,
     "Recovered": 405809,
     "Active": 236943,
     "Date": "2020-11-06T00:00:00Z"
@@ -4284,7 +4284,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 642488,
-    "Deaths": 11306,
+    "Deaths": 11226,
     "Recovered": 413484,
     "Active": 243324,
     "Date": "2020-11-07T00:00:00Z"
@@ -4299,7 +4299,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 658505,
-    "Deaths": 11372,
+    "Deaths": 11289,
     "Recovered": 421151,
     "Active": 250101,
     "Date": "2020-11-08T00:00:00Z"
@@ -4314,7 +4314,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 671868,
-    "Deaths": 11408,
+    "Deaths": 11352,
     "Recovered": 443621,
     "Active": 234117,
     "Date": "2020-11-09T00:00:00Z"
@@ -4329,7 +4329,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 687200,
-    "Deaths": 11781,
+    "Deaths": 11506,
     "Recovered": 446402,
     "Active": 257510,
     "Date": "2020-11-10T00:00:00Z"
@@ -4344,7 +4344,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 705687,
-    "Deaths": 11994,
+    "Deaths": 11767,
     "Recovered": 460504,
     "Active": 265596,
     "Date": "2020-11-11T00:00:00Z"
@@ -4359,7 +4359,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 727553,
-    "Deaths": 12216,
+    "Deaths": 11982,
     "Recovered": 474208,
     "Active": 276408,
     "Date": "2020-11-12T00:00:00Z"
@@ -4374,7 +4374,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 751095,
-    "Deaths": 12404,
+    "Deaths": 12200,
     "Recovered": 487913,
     "Active": 284776,
     "Date": "2020-11-13T00:00:00Z"
@@ -4389,7 +4389,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 773556,
-    "Deaths": 12511,
+    "Deaths": 12378,
     "Recovered": 498996,
     "Active": 288226,
     "Date": "2020-11-14T00:00:00Z"
@@ -4404,7 +4404,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 790503,
-    "Deaths": 12573,
+    "Deaths": 12485,
     "Recovered": 505714,
     "Active": 284659,
     "Date": "2020-11-15T00:00:00Z"
@@ -4419,7 +4419,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 801327,
-    "Deaths": 12833,
+    "Deaths": 12547,
     "Recovered": 522313,
     "Active": 282380,
     "Date": "2020-11-16T00:00:00Z"
@@ -4434,7 +4434,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 815746,
-    "Deaths": 13138,
+    "Deaths": 12814,
     "Recovered": 537347,
     "Active": 293272,
     "Date": "2020-11-17T00:00:00Z"
@@ -4449,7 +4449,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 833307,
-    "Deaths": 13390,
+    "Deaths": 13119,
     "Recovered": 554272,
     "Active": 299822,
     "Date": "2020-11-18T00:00:00Z"
@@ -4464,7 +4464,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 855916,
-    "Deaths": 13662,
+    "Deaths": 13370,
     "Recovered": 570961,
     "Active": 306902,
     "Date": "2020-11-19T00:00:00Z"
@@ -4479,7 +4479,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 879564,
-    "Deaths": 13918,
+    "Deaths": 13630,
     "Recovered": 587780,
     "Active": 312420,
     "Date": "2020-11-20T00:00:00Z"
@@ -4494,7 +4494,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 902528,
-    "Deaths": 14061,
+    "Deaths": 13884,
     "Recovered": 600991,
     "Active": 312938,
     "Date": "2020-11-21T00:00:00Z"
@@ -4509,7 +4509,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 918269,
-    "Deaths": 14159,
+    "Deaths": 14022,
     "Recovered": 611627,
     "Active": 306581,
     "Date": "2020-11-22T00:00:00Z"
@@ -4524,7 +4524,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 929133,
-    "Deaths": 14460,
+    "Deaths": 14112,
     "Recovered": 630375,
     "Active": 301987,
     "Date": "2020-11-23T00:00:00Z"
@@ -4539,7 +4539,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 942687,
-    "Deaths": 14832,
+    "Deaths": 14361,
     "Recovered": 649070,
     "Active": 299290,
     "Date": "2020-11-24T00:00:00Z"
@@ -4554,7 +4554,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 961320,
-    "Deaths": 15210,
+    "Deaths": 14771,
     "Recovered": 666373,
     "Active": 314296,
     "Date": "2020-11-25T00:00:00Z"
@@ -4569,7 +4569,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 983588,
-    "Deaths": 15640,
+    "Deaths": 15160,
     "Recovered": 685537,
     "Active": 316653,
     "Date": "2020-11-26T00:00:00Z"
@@ -4584,7 +4584,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1006394,
-    "Deaths": 16011,
+    "Deaths": 15586,
     "Recovered": 705213,
     "Active": 317425,
     "Date": "2020-11-27T00:00:00Z"
@@ -4599,7 +4599,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1028089,
-    "Deaths": 16181,
+    "Deaths": 15965,
     "Recovered": 718604,
     "Active": 317709,
     "Date": "2020-11-28T00:00:00Z"
@@ -4614,7 +4614,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1042700,
-    "Deaths": 16306,
+    "Deaths": 16123,
     "Recovered": 730797,
     "Active": 308588,
     "Date": "2020-11-29T00:00:00Z"
@@ -4629,7 +4629,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1053869,
-    "Deaths": 16694,
+    "Deaths": 16248,
     "Recovered": 749219,
     "Active": 303999,
     "Date": "2020-11-30T00:00:00Z"
@@ -4644,7 +4644,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1067473,
-    "Deaths": 17177,
+    "Deaths": 16636,
     "Recovered": 769380,
     "Active": 308121,
     "Date": "2020-12-01T00:00:00Z"
@@ -4659,7 +4659,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1084743,
-    "Deaths": 17659,
+    "Deaths": 17123,
     "Recovered": 789564,
     "Active": 310730,
     "Date": "2020-12-02T00:00:00Z"
@@ -4674,7 +4674,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1106789,
-    "Deaths": 18097,
+    "Deaths": 17602,
     "Recovered": 811091,
     "Active": 312356,
     "Date": "2020-12-03T00:00:00Z"
@@ -4689,7 +4689,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1130238,
-    "Deaths": 18577,
+    "Deaths": 18034,
     "Recovered": 831935,
     "Active": 307002,
     "Date": "2020-12-04T00:00:00Z"
@@ -4704,7 +4704,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1153556,
-    "Deaths": 18839,
+    "Deaths": 18517,
     "Recovered": 852580,
     "Active": 312221,
     "Date": "2020-12-05T00:00:00Z"
@@ -4719,7 +4719,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1171323,
-    "Deaths": 18989,
+    "Deaths": 18772,
     "Recovered": 868285,
     "Active": 307276,
     "Date": "2020-12-06T00:00:00Z"
@@ -4734,7 +4734,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1183655,
-    "Deaths": 19434,
+    "Deaths": 18919,
     "Recovered": 888701,
     "Active": 291871,
     "Date": "2020-12-07T00:00:00Z"
@@ -4749,7 +4749,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1197709,
-    "Deaths": 20002,
+    "Deaths": 19342,
     "Recovered": 909058,
     "Active": 300209,
     "Date": "2020-12-08T00:00:00Z"
@@ -4764,7 +4764,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1218524,
-    "Deaths": 20460,
+    "Deaths": 19932,
     "Recovered": 929272,
     "Active": 304626,
     "Date": "2020-12-09T00:00:00Z"
@@ -4779,7 +4779,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1242203,
-    "Deaths": 21064,
+    "Deaths": 20372,
     "Recovered": 949913,
     "Active": 316115,
     "Date": "2020-12-10T00:00:00Z"
@@ -4794,7 +4794,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1272078,
-    "Deaths": 21567,
+    "Deaths": 20970,
     "Recovered": 966238,
     "Active": 326504,
     "Date": "2020-12-11T00:00:00Z"
@@ -4809,7 +4809,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1300516,
-    "Deaths": 21900,
+    "Deaths": 21466,
     "Recovered": 975931,
     "Active": 338270,
     "Date": "2020-12-12T00:00:00Z"
@@ -4824,7 +4824,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1320716,
-    "Deaths": 22106,
+    "Deaths": 21787,
     "Recovered": 990707,
     "Active": 337997,
     "Date": "2020-12-13T00:00:00Z"
@@ -4839,7 +4839,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1337078,
-    "Deaths": 22634,
+    "Deaths": 21975,
     "Recovered": 1012077,
     "Active": 322550,
     "Date": "2020-12-14T00:00:00Z"
@@ -4854,7 +4854,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1351510,
-    "Deaths": 23544,
+    "Deaths": 22475,
     "Recovered": 1031721,
     "Active": 335821,
     "Date": "2020-12-15T00:00:00Z"
@@ -4869,7 +4869,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1379238,
-    "Deaths": 24273,
+    "Deaths": 23427,
     "Recovered": 1056477,
     "Active": 343080,
     "Date": "2020-12-16T00:00:00Z"
@@ -4884,7 +4884,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1406161,
-    "Deaths": 25027,
+    "Deaths": 24125,
     "Recovered": 1078944,
     "Active": 350038,
     "Date": "2020-12-17T00:00:00Z"
@@ -4899,7 +4899,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1439938,
-    "Deaths": 25754,
+    "Deaths": 24938,
     "Recovered": 1095982,
     "Active": 365103,
     "Date": "2020-12-18T00:00:00Z"
@@ -4914,7 +4914,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1471238,
-    "Deaths": 26171,
+    "Deaths": 25640,
     "Recovered": 1107115,
     "Active": 375232,
     "Date": "2020-12-19T00:00:00Z"
@@ -4929,7 +4929,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1494009,
-    "Deaths": 26400,
+    "Deaths": 26049,
     "Recovered": 1123725,
     "Active": 364837,
     "Date": "2020-12-20T00:00:00Z"
@@ -4944,7 +4944,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1510652,
-    "Deaths": 27110,
+    "Deaths": 26275,
     "Recovered": 1147943,
     "Active": 359165,
     "Date": "2020-12-21T00:00:00Z"
@@ -4959,7 +4959,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1530180,
-    "Deaths": 28096,
+    "Deaths": 27006,
     "Recovered": 1171444,
     "Active": 370831,
     "Date": "2020-12-22T00:00:00Z"
@@ -4974,7 +4974,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1554920,
-    "Deaths": 28909,
+    "Deaths": 27968,
     "Recovered": 1197472,
     "Active": 377748,
     "Date": "2020-12-23T00:00:00Z"
@@ -4989,7 +4989,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1587115,
-    "Deaths": 29330,
+    "Deaths": 28770,
     "Recovered": 1220277,
     "Active": 380989,
     "Date": "2020-12-24T00:00:00Z"
@@ -5004,7 +5004,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1612648,
-    "Deaths": 29580,
+    "Deaths": 29182,
     "Recovered": 1235968,
     "Active": 367188,
     "Date": "2020-12-25T00:00:00Z"
@@ -5019,7 +5019,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1627103,
-    "Deaths": 29946,
+    "Deaths": 29422,
     "Recovered": 1253285,
     "Active": 363009,
     "Date": "2020-12-26T00:00:00Z"
@@ -5034,7 +5034,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1640858,
-    "Deaths": 30297,
+    "Deaths": 29778,
     "Recovered": 1272032,
     "Active": 356310,
     "Date": "2020-12-27T00:00:00Z"
@@ -5049,7 +5049,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1651834,
-    "Deaths": 31145,
+    "Deaths": 30126,
     "Recovered": 1294932,
     "Active": 346566,
     "Date": "2020-12-28T00:00:00Z"
@@ -5064,7 +5064,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1664726,
-    "Deaths": 32263,
+    "Deaths": 30978,
     "Recovered": 1319757,
     "Active": 340085,
     "Date": "2020-12-29T00:00:00Z"
@@ -5079,7 +5079,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1687185,
-    "Deaths": 33281,
+    "Deaths": 32107,
     "Recovered": 1345952,
     "Active": 361971,
     "Date": "2020-12-30T00:00:00Z"
@@ -5094,7 +5094,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1719737,
-    "Deaths": 33791,
+    "Deaths": 33071,
     "Recovered": 1350708,
     "Active": 376021,
     "Date": "2020-12-31T00:00:00Z"
@@ -5109,7 +5109,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1742661,
-    "Deaths": 34150,
+    "Deaths": 33624,
     "Recovered": 1388744,
     "Active": 339748,
     "Date": "2021-01-01T00:00:00Z"
@@ -5124,7 +5124,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1755351,
-    "Deaths": 34480,
+    "Deaths": 33960,
     "Recovered": 1400810,
     "Active": 338250,
     "Date": "2021-01-02T00:00:00Z"
@@ -5139,7 +5139,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1765666,
-    "Deaths": 34791,
+    "Deaths": 34272,
     "Recovered": 1422151,
     "Active": 326954,
     "Date": "2021-01-03T00:00:00Z"
@@ -5154,7 +5154,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1775513,
-    "Deaths": 35748,
+    "Deaths": 34574,
     "Recovered": 1445442,
     "Active": 315026,
     "Date": "2021-01-04T00:00:00Z"
@@ -5169,7 +5169,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1787410,
-    "Deaths": 36757,
+    "Deaths": 35518,
     "Recovered": 1472311,
     "Active": 305497,
     "Date": "2021-01-05T00:00:00Z"
@@ -5184,7 +5184,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1808647,
-    "Deaths": 37835,
+    "Deaths": 36537,
     "Recovered": 1496182,
     "Active": 307211,
     "Date": "2021-01-06T00:00:00Z"
@@ -5199,7 +5199,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1835038,
-    "Deaths": 38987,
+    "Deaths": 37607,
     "Recovered": 1517019,
     "Active": 330555,
     "Date": "2021-01-07T00:00:00Z"
@@ -5214,7 +5214,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1866887,
-    "Deaths": 40022,
+    "Deaths": 38795,
     "Recovered": 1533143,
     "Active": 332473,
     "Date": "2021-01-08T00:00:00Z"
@@ -5229,7 +5229,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1891581,
-    "Deaths": 40597,
+    "Deaths": 39878,
     "Recovered": 1546206,
     "Active": 341659,
     "Date": "2021-01-09T00:00:00Z"
@@ -5244,7 +5244,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1908527,
-    "Deaths": 40936,
+    "Deaths": 40343,
     "Recovered": 1566907,
     "Active": 321567,
     "Date": "2021-01-10T00:00:00Z"
@@ -5259,7 +5259,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1921024,
-    "Deaths": 41799,
+    "Deaths": 40686,
     "Recovered": 1590171,
     "Active": 309146,
     "Date": "2021-01-11T00:00:00Z"
@@ -5274,7 +5274,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1933826,
-    "Deaths": 42889,
+    "Deaths": 41577,
     "Recovered": 1616761,
     "Active": 308676,
     "Date": "2021-01-12T00:00:00Z"
@@ -5289,7 +5289,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1953426,
-    "Deaths": 44096,
+    "Deaths": 42637,
     "Recovered": 1640682,
     "Active": 309114,
     "Date": "2021-01-13T00:00:00Z"
@@ -5304,7 +5304,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 1978590,
-    "Deaths": 45207,
+    "Deaths": 43881,
     "Recovered": 1661394,
     "Active": 308634,
     "Date": "2021-01-14T00:00:00Z"
@@ -5319,7 +5319,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2000958,
-    "Deaths": 45705,
+    "Deaths": 44994,
     "Recovered": 1664176,
     "Active": 313947,
     "Date": "2021-01-15T00:00:00Z"
@@ -5334,7 +5334,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2019636,
-    "Deaths": 46464,
+    "Deaths": 45974,
     "Recovered": 1680479,
     "Active": 311702,
     "Date": "2021-01-16T00:00:00Z"
@@ -5349,7 +5349,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2033518,
-    "Deaths": 46901,
+    "Deaths": 46419,
     "Recovered": 1709540,
     "Active": 293688,
     "Date": "2021-01-17T00:00:00Z"
@@ -5364,7 +5364,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2040659,
-    "Deaths": 47263,
+    "Deaths": 46633,
     "Recovered": 1713196,
     "Active": 298923,
     "Date": "2021-01-18T00:00:00Z"
@@ -5379,7 +5379,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2052028,
-    "Deaths": 48997,
+    "Deaths": 47622,
     "Recovered": 1757713,
     "Active": 264905,
     "Date": "2021-01-19T00:00:00Z"
@@ -5394,7 +5394,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2068002,
-    "Deaths": 50010,
+    "Deaths": 48770,
     "Recovered": 1778319,
     "Active": 272289,
     "Date": "2021-01-20T00:00:00Z"
@@ -5409,7 +5409,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2088400,
-    "Deaths": 50876,
+    "Deaths": 49783,
     "Recovered": 1797648,
     "Active": 260371,
     "Date": "2021-01-21T00:00:00Z"
@@ -5424,7 +5424,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2106262,
-    "Deaths": 51713,
+    "Deaths": 50642,
     "Recovered": 1813894,
     "Active": 259654,
     "Date": "2021-01-22T00:00:00Z"
@@ -5439,7 +5439,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2122679,
-    "Deaths": 51873,
+    "Deaths": 51521,
     "Recovered": 1826161,
     "Active": 259657,
     "Date": "2021-01-23T00:00:00Z"
@@ -5454,7 +5454,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2134936,
-    "Deaths": 52296,
+    "Deaths": 51870,
     "Recovered": 1840970,
     "Active": 254503,
     "Date": "2021-01-24T00:00:00Z"
@@ -5469,7 +5469,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2141665,
-    "Deaths": 53127,
+    "Deaths": 52087,
     "Recovered": 1859936,
     "Active": 241593,
     "Date": "2021-01-25T00:00:00Z"
@@ -5484,7 +5484,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2148077,
-    "Deaths": 53619,
+    "Deaths": 52990,
     "Recovered": 1881933,
     "Active": 228491,
     "Date": "2021-01-26T00:00:00Z"
@@ -5499,7 +5499,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2161275,
-    "Deaths": 54498,
+    "Deaths": 53972,
     "Recovered": 1881933,
     "Active": 243248,
     "Date": "2021-01-27T00:00:00Z"
@@ -5514,7 +5514,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2178828,
-    "Deaths": 55883,
+    "Deaths": 54913,
     "Recovered": 1915501,
     "Active": 223178,
     "Date": "2021-01-28T00:00:00Z"
@@ -5529,7 +5529,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2192850,
-    "Deaths": 56286,
+    "Deaths": 55752,
     "Recovered": 1917964,
     "Active": 233143,
     "Date": "2021-01-29T00:00:00Z"
@@ -5544,7 +5544,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2205171,
-    "Deaths": 57105,
+    "Deaths": 56546,
     "Recovered": 1938929,
     "Active": 228877,
     "Date": "2021-01-30T00:00:00Z"
@@ -5559,7 +5559,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2216363,
-    "Deaths": 57163,
+    "Deaths": 56945,
     "Recovered": 1940046,
     "Active": 228450,
     "Date": "2021-01-31T00:00:00Z"
@@ -5574,7 +5574,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2221971,
-    "Deaths": 58059,
+    "Deaths": 57120,
     "Recovered": 1967132,
     "Active": 207136,
     "Date": "2021-02-01T00:00:00Z"
@@ -5589,7 +5589,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2228085,
-    "Deaths": 58992,
+    "Deaths": 57981,
     "Recovered": 1986214,
     "Active": 194811,
     "Date": "2021-02-02T00:00:00Z"
@@ -5604,7 +5604,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2237790,
-    "Deaths": 59776,
+    "Deaths": 58956,
     "Recovered": 2003831,
     "Active": 188897,
     "Date": "2021-02-03T00:00:00Z"
@@ -5619,7 +5619,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2252001,
-    "Deaths": 60634,
+    "Deaths": 59742,
     "Recovered": 2020303,
     "Active": 184599,
     "Date": "2021-02-04T00:00:00Z"
@@ -5634,7 +5634,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2264909,
-    "Deaths": 61324,
+    "Deaths": 60597,
     "Recovered": 2033168,
     "Active": 181879,
     "Date": "2021-02-05T00:00:00Z"
@@ -5649,7 +5649,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2275394,
-    "Deaths": 61551,
+    "Deaths": 61286,
     "Recovered": 2041988,
     "Active": 181464,
     "Date": "2021-02-06T00:00:00Z"
@@ -5664,7 +5664,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2284010,
-    "Deaths": 61708,
+    "Deaths": 61517,
     "Recovered": 2052656,
     "Active": 177309,
     "Date": "2021-02-07T00:00:00Z"
@@ -5679,7 +5679,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2288545,
-    "Deaths": 62191,
+    "Deaths": 61675,
     "Recovered": 2054340,
     "Active": 179792,
     "Date": "2021-02-08T00:00:00Z"
@@ -5694,7 +5694,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2291924,
-    "Deaths": 63006,
+    "Deaths": 62156,
     "Recovered": 2081966,
     "Active": 157079,
     "Date": "2021-02-09T00:00:00Z"
@@ -5709,7 +5709,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2299996,
-    "Deaths": 63672,
+    "Deaths": 62969,
     "Recovered": 2096775,
     "Active": 150850,
     "Date": "2021-02-10T00:00:00Z"
@@ -5724,7 +5724,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2310233,
-    "Deaths": 64224,
+    "Deaths": 63635,
     "Recovered": 2109508,
     "Active": 147493,
     "Date": "2021-02-11T00:00:00Z"
@@ -5739,7 +5739,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2320093,
-    "Deaths": 64771,
+    "Deaths": 64191,
     "Recovered": 2120342,
     "Active": 145309,
     "Date": "2021-02-12T00:00:00Z"
@@ -5754,7 +5754,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2328447,
-    "Deaths": 64990,
+    "Deaths": 64742,
     "Recovered": 2128002,
     "Active": 143914,
     "Date": "2021-02-13T00:00:00Z"
@@ -5769,7 +5769,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2334561,
-    "Deaths": 65107,
+    "Deaths": 64960,
     "Recovered": 2136933,
     "Active": 139704,
     "Date": "2021-02-14T00:00:00Z"
@@ -5784,7 +5784,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2338987,
-    "Deaths": 65288,
+    "Deaths": 65076,
     "Recovered": 2148269,
     "Active": 133319,
     "Date": "2021-02-15T00:00:00Z"
@@ -5799,7 +5799,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2342843,
-    "Deaths": 65829,
+    "Deaths": 65604,
     "Recovered": 2161100,
     "Active": 125837,
     "Date": "2021-02-16T00:00:00Z"
@@ -5814,7 +5814,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2350399,
-    "Deaths": 66732,
+    "Deaths": 66164,
     "Recovered": 2172312,
     "Active": 123320,
     "Date": "2021-02-17T00:00:00Z"
@@ -5829,7 +5829,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2360606,
-    "Deaths": 67245,
+    "Deaths": 66698,
     "Recovered": 2182370,
     "Active": 122594,
     "Date": "2021-02-18T00:00:00Z"
@@ -5844,7 +5844,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2369719,
-    "Deaths": 67741,
+    "Deaths": 67206,
     "Recovered": 2191208,
     "Active": 122310,
     "Date": "2021-02-19T00:00:00Z"
@@ -5859,7 +5859,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2378883,
-    "Deaths": 67883,
+    "Deaths": 67696,
     "Recovered": 2197065,
     "Active": 123473,
     "Date": "2021-02-20T00:00:00Z"
@@ -5874,7 +5874,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2386559,
-    "Deaths": 67946,
+    "Deaths": 67841,
     "Recovered": 2204110,
     "Active": 122459,
     "Date": "2021-02-21T00:00:00Z"
@@ -5889,7 +5889,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2390928,
-    "Deaths": 68363,
+    "Deaths": 67903,
     "Recovered": 2212439,
     "Active": 118697,
     "Date": "2021-02-22T00:00:00Z"
@@ -5904,7 +5904,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2394811,
-    "Deaths": 68785,
+    "Deaths": 68318,
     "Recovered": 2221972,
     "Active": 114506,
     "Date": "2021-02-23T00:00:00Z"
@@ -5919,7 +5919,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2402818,
-    "Deaths": 69170,
+    "Deaths": 68740,
     "Recovered": 2231073,
     "Active": 115794,
     "Date": "2021-02-24T00:00:00Z"
@@ -5934,7 +5934,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2414687,
-    "Deaths": 69343,
+    "Deaths": 69125,
     "Recovered": 2232050,
     "Active": 125676,
     "Date": "2021-02-25T00:00:00Z"
@@ -5949,7 +5949,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2424684,
-    "Deaths": 69939,
+    "Deaths": 69519,
     "Recovered": 2247173,
     "Active": 119394,
     "Date": "2021-02-26T00:00:00Z"
@@ -5964,7 +5964,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2434446,
-    "Deaths": 70092,
+    "Deaths": 69888,
     "Recovered": 2252970,
     "Active": 121115,
     "Date": "2021-02-27T00:00:00Z"
@@ -5979,7 +5979,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2442336,
-    "Deaths": 70152,
+    "Deaths": 70045,
     "Recovered": 2259548,
     "Active": 120595,
     "Date": "2021-02-28T00:00:00Z"
@@ -5994,7 +5994,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2447068,
-    "Deaths": 70514,
+    "Deaths": 70105,
     "Recovered": 2260719,
     "Active": 124336,
     "Date": "2021-03-01T00:00:00Z"
@@ -6009,7 +6009,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2451011,
-    "Deaths": 70926,
+    "Deaths": 70463,
     "Recovered": 2277626,
     "Active": 113509,
     "Date": "2021-03-02T00:00:00Z"
@@ -6024,7 +6024,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2460030,
-    "Deaths": 71285,
+    "Deaths": 70881,
     "Recovered": 2286728,
     "Active": 114900,
     "Date": "2021-03-03T00:00:00Z"
@@ -6039,7 +6039,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2471942,
-    "Deaths": 71554,
+    "Deaths": 71240,
     "Recovered": 2295405,
     "Active": 117347,
     "Date": "2021-03-04T00:00:00Z"
@@ -6054,7 +6054,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2482522,
-    "Deaths": 71852,
+    "Deaths": 71504,
     "Recovered": 2302899,
     "Active": 119136,
     "Date": "2021-03-05T00:00:00Z"
@@ -6069,7 +6069,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2492079,
-    "Deaths": 71951,
+    "Deaths": 71804,
     "Recovered": 2308094,
     "Active": 122106,
     "Date": "2021-03-06T00:00:00Z"
@@ -6084,7 +6084,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2500182,
-    "Deaths": 71984,
+    "Deaths": 71900,
     "Recovered": 2314400,
     "Active": 122271,
     "Date": "2021-03-07T00:00:00Z"
@@ -6099,7 +6099,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2505193,
-    "Deaths": 72236,
+    "Deaths": 71934,
     "Recovered": 2322734,
     "Active": 118814,
     "Date": "2021-03-08T00:00:00Z"
@@ -6114,7 +6114,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2509445,
-    "Deaths": 72534,
+    "Deaths": 72189,
     "Recovered": 2331890,
     "Active": 116194,
     "Date": "2021-03-09T00:00:00Z"
@@ -6129,7 +6129,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2518591,
-    "Deaths": 72858,
+    "Deaths": 72489,
     "Recovered": 2340473,
     "Active": 128450,
     "Date": "2021-03-10T00:00:00Z"
@@ -6144,7 +6144,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2532947,
-    "Deaths": 73120,
+    "Deaths": 72810,
     "Recovered": 2349384,
     "Active": 124022,
     "Date": "2021-03-11T00:00:00Z"
@@ -6159,7 +6159,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2545781,
-    "Deaths": 73348,
+    "Deaths": 73062,
     "Recovered": 2356590,
     "Active": 129358,
     "Date": "2021-03-12T00:00:00Z"
@@ -6174,7 +6174,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2558455,
-    "Deaths": 73369,
+    "Deaths": 73301,
     "Recovered": 2357374,
     "Active": 139121,
     "Date": "2021-03-13T00:00:00Z"
@@ -6189,7 +6189,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2569245,
-    "Deaths": 73463,
+    "Deaths": 73371,
     "Recovered": 2368995,
     "Active": 136384,
     "Date": "2021-03-14T00:00:00Z"
@@ -6204,7 +6204,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2575849,
-    "Deaths": 73701,
+    "Deaths": 73418,
     "Recovered": 2377584,
     "Active": 134100,
     "Date": "2021-03-15T00:00:00Z"
@@ -6219,7 +6219,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2581329,
-    "Deaths": 73953,
+    "Deaths": 73656,
     "Recovered": 2387232,
     "Active": 141880,
     "Date": "2021-03-16T00:00:00Z"
@@ -6234,7 +6234,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2594764,
-    "Deaths": 74177,
+    "Deaths": 73905,
     "Recovered": 2387743,
     "Active": 148983,
     "Date": "2021-03-17T00:00:00Z"
@@ -6249,7 +6249,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2612268,
-    "Deaths": 74402,
+    "Deaths": 74132,
     "Recovered": 2405600,
     "Active": 159256,
     "Date": "2021-03-18T00:00:00Z"
@@ -6264,7 +6264,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2629750,
-    "Deaths": 74609,
+    "Deaths": 74358,
     "Recovered": 2413584,
     "Active": 166542,
     "Date": "2021-03-19T00:00:00Z"
@@ -6279,7 +6279,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2645783,
-    "Deaths": 74707,
+    "Deaths": 74565,
     "Recovered": 2419292,
     "Active": 175235,
     "Date": "2021-03-20T00:00:00Z"
@@ -6294,7 +6294,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2659516,
-    "Deaths": 74756,
+    "Deaths": 74664,
     "Recovered": 2426700,
     "Active": 168545,
     "Date": "2021-03-21T00:00:00Z"
@@ -6309,7 +6309,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2667225,
-    "Deaths": 75009,
+    "Deaths": 74714,
     "Recovered": 2437183,
     "Active": 166070,
     "Date": "2021-03-22T00:00:00Z"
@@ -6324,7 +6324,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2674710,
-    "Deaths": 75255,
+    "Deaths": 74964,
     "Recovered": 2448828,
     "Active": 175148,
     "Date": "2021-03-23T00:00:00Z"
@@ -6339,7 +6339,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2690523,
-    "Deaths": 75484,
+    "Deaths": 75212,
     "Recovered": 2460019,
     "Active": 187485,
     "Date": "2021-03-24T00:00:00Z"
@@ -6354,7 +6354,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2713180,
-    "Deaths": 75669,
+    "Deaths": 75440,
     "Recovered": 2471558,
     "Active": 197381,
     "Date": "2021-03-25T00:00:00Z"
@@ -6369,7 +6369,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2734753,
-    "Deaths": 75828,
+    "Deaths": 75623,
     "Recovered": 2481908,
     "Active": 207561,
     "Date": "2021-03-26T00:00:00Z"
@@ -6384,7 +6384,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2755225,
-    "Deaths": 75915,
+    "Deaths": 75780,
     "Recovered": 2489198,
     "Active": 217812,
     "Date": "2021-03-27T00:00:00Z"
@@ -6399,7 +6399,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2772401,
-    "Deaths": 75959,
+    "Deaths": 75870,
     "Recovered": 2499010,
     "Active": 209683,
     "Date": "2021-03-28T00:00:00Z"
@@ -6414,7 +6414,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2782273,
-    "Deaths": 76139,
+    "Deaths": 75913,
     "Recovered": 2511417,
     "Active": 207393,
     "Date": "2021-03-29T00:00:00Z"
@@ -6429,7 +6429,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2791822,
-    "Deaths": 76389,
+    "Deaths": 76093,
     "Recovered": 2525580,
     "Active": 216661,
     "Date": "2021-03-30T00:00:00Z"
@@ -6444,7 +6444,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2808873,
-    "Deaths": 76589,
+    "Deaths": 76342,
     "Recovered": 2539660,
     "Active": 227395,
     "Date": "2021-03-31T00:00:00Z"
@@ -6459,7 +6459,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2833173,
-    "Deaths": 76823,
+    "Deaths": 76543,
     "Recovered": 2552020,
     "Active": 237480,
     "Date": "2021-04-01T00:00:00Z"
@@ -6474,7 +6474,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2855061,
-    "Deaths": 76940,
+    "Deaths": 76775,
     "Recovered": 2566530,
     "Active": 238886,
     "Date": "2021-04-02T00:00:00Z"
@@ -6489,7 +6489,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2873190,
-    "Deaths": 77010,
+    "Deaths": 76895,
     "Recovered": 2575740,
     "Active": 233279,
     "Date": "2021-04-03T00:00:00Z"
@@ -6504,7 +6504,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2885386,
-    "Deaths": 77060,
+    "Deaths": 76963,
     "Recovered": 2585850,
     "Active": 233419,
     "Date": "2021-04-04T00:00:00Z"
@@ -6519,7 +6519,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2893883,
-    "Deaths": 77136,
+    "Deaths": 77013,
     "Recovered": 2587580,
     "Active": 237593,
     "Date": "2021-04-05T00:00:00Z"
@@ -6534,7 +6534,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2900768,
-    "Deaths": 77245,
+    "Deaths": 77103,
     "Recovered": 2604890,
     "Active": 227767,
     "Date": "2021-04-06T00:00:00Z"
@@ -6549,7 +6549,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2910445,
-    "Deaths": 77755,
+    "Deaths": 77401,
     "Recovered": 2638320,
     "Active": 224204,
     "Date": "2021-04-07T00:00:00Z"
@@ -6564,7 +6564,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2930852,
-    "Deaths": 78049,
+    "Deaths": 77707,
     "Recovered": 2640300,
     "Active": 248440,
     "Date": "2021-04-08T00:00:00Z"
@@ -6579,7 +6579,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2956316,
-    "Deaths": 78295,
+    "Deaths": 78003,
     "Recovered": 2654930,
     "Active": 257499,
     "Date": "2021-04-09T00:00:00Z"
@@ -6594,7 +6594,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2980413,
-    "Deaths": 78402,
+    "Deaths": 78249,
     "Recovered": 2668910,
     "Active": 262140,
     "Date": "2021-04-10T00:00:00Z"
@@ -6609,7 +6609,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 2998268,
-    "Deaths": 78500,
+    "Deaths": 78353,
     "Recovered": 2692230,
     "Active": 241428,
     "Date": "2021-04-11T00:00:00Z"
@@ -6624,7 +6624,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3011513,
-    "Deaths": 78796,
+    "Deaths": 78452,
     "Recovered": 2708320,
     "Active": 237488,
     "Date": "2021-04-12T00:00:00Z"
@@ -6639,7 +6639,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3022323,
-    "Deaths": 79137,
+    "Deaths": 78746,
     "Recovered": 2726910,
     "Active": 247978,
     "Date": "2021-04-13T00:00:00Z"
@@ -6654,7 +6654,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3044016,
-    "Deaths": 79427,
+    "Deaths": 79088,
     "Recovered": 2744940,
     "Active": 260775,
     "Date": "2021-04-14T00:00:00Z"
@@ -6669,7 +6669,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3073442,
-    "Deaths": 79672,
+    "Deaths": 79381,
     "Recovered": 2747460,
     "Active": 283120,
     "Date": "2021-04-15T00:00:00Z"
@@ -6684,7 +6684,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3099273,
-    "Deaths": 79894,
+    "Deaths": 79628,
     "Recovered": 2763260,
     "Active": 290954,
     "Date": "2021-04-16T00:00:00Z"
@@ -6699,7 +6699,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3123077,
-    "Deaths": 79971,
+    "Deaths": 79847,
     "Recovered": 2784540,
     "Active": 289794,
     "Date": "2021-04-17T00:00:00Z"
@@ -6714,7 +6714,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3142262,
-    "Deaths": 80052,
+    "Deaths": 79914,
     "Recovered": 2795080,
     "Active": 280390,
     "Date": "2021-04-18T00:00:00Z"
@@ -6729,7 +6729,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3153699,
-    "Deaths": 80353,
+    "Deaths": 80006,
     "Recovered": 2811890,
     "Active": 274894,
     "Date": "2021-04-19T00:00:00Z"
@@ -6744,7 +6744,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3163308,
-    "Deaths": 80680,
+    "Deaths": 80303,
     "Recovered": 2831440,
     "Active": 286414,
     "Date": "2021-04-20T00:00:00Z"
@@ -6759,7 +6759,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3188192,
-    "Deaths": 80938,
+    "Deaths": 80634,
     "Recovered": 2852890,
     "Active": 289060,
     "Date": "2021-04-21T00:00:00Z"
@@ -6774,7 +6774,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3217710,
-    "Deaths": 81203,
+    "Deaths": 80893,
     "Recovered": 2856510,
     "Active": 316896,
     "Date": "2021-04-22T00:00:00Z"
@@ -6789,7 +6789,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3245253,
-    "Deaths": 81492,
+    "Deaths": 81158,
     "Recovered": 2876690,
     "Active": 318689,
     "Date": "2021-04-23T00:00:00Z"
@@ -6804,7 +6804,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3268645,
-    "Deaths": 81610,
+    "Deaths": 81444,
     "Recovered": 2902900,
     "Active": 306783,
     "Date": "2021-04-24T00:00:00Z"
@@ -6819,7 +6819,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3287418,
-    "Deaths": 81671,
+    "Deaths": 81564,
     "Recovered": 2917730,
     "Active": 307291,
     "Date": "2021-04-25T00:00:00Z"
@@ -6834,7 +6834,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3299325,
-    "Deaths": 82009,
+    "Deaths": 81624,
     "Recovered": 2939900,
     "Active": 290744,
     "Date": "2021-04-26T00:00:00Z"
@@ -6849,7 +6849,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3310301,
-    "Deaths": 82325,
+    "Deaths": 81968,
     "Recovered": 2960900,
     "Active": 295339,
     "Date": "2021-04-27T00:00:00Z"
@@ -6864,7 +6864,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3332532,
-    "Deaths": 82588,
+    "Deaths": 82280,
     "Recovered": 2966590,
     "Active": 317649,
     "Date": "2021-04-28T00:00:00Z"
@@ -6879,7 +6879,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3357268,
-    "Deaths": 82865,
+    "Deaths": 82544,
     "Recovered": 2987910,
     "Active": 320264,
     "Date": "2021-04-29T00:00:00Z"
@@ -6894,7 +6894,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3381597,
-    "Deaths": 83097,
+    "Deaths": 82850,
     "Recovered": 3008640,
     "Active": 313628,
     "Date": "2021-04-30T00:00:00Z"
@@ -6909,7 +6909,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3400532,
-    "Deaths": 83207,
+    "Deaths": 83082,
     "Recovered": 3025120,
     "Active": 315573,
     "Date": "2021-05-01T00:00:00Z"
@@ -6924,7 +6924,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3416822,
-    "Deaths": 83292,
+    "Deaths": 83192,
     "Recovered": 3051730,
     "Active": 297654,
     "Date": "2021-05-02T00:00:00Z"
@@ -6939,7 +6939,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3425982,
-    "Deaths": 83605,
+    "Deaths": 83276,
     "Recovered": 3053770,
     "Active": 300811,
     "Date": "2021-05-03T00:00:00Z"
@@ -6954,7 +6954,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3433516,
-    "Deaths": 83890,
+    "Deaths": 83591,
     "Recovered": 3075230,
     "Active": 303177,
     "Date": "2021-05-04T00:00:00Z"
@@ -6969,7 +6969,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3451550,
-    "Deaths": 84141,
+    "Deaths": 83876,
     "Recovered": 3118660,
     "Active": 281954,
     "Date": "2021-05-05T00:00:00Z"
@@ -6984,7 +6984,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3473503,
-    "Deaths": 84425,
+    "Deaths": 84126,
     "Recovered": 3140330,
     "Active": 277917,
     "Date": "2021-05-06T00:00:00Z"
@@ -6999,7 +6999,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3491988,
-    "Deaths": 84659,
+    "Deaths": 84410,
     "Recovered": 3142640,
     "Active": 290463,
     "Date": "2021-05-07T00:00:00Z"
@@ -7014,7 +7014,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3507673,
-    "Deaths": 84789,
+    "Deaths": 84648,
     "Recovered": 3160630,
     "Active": 285468,
     "Date": "2021-05-08T00:00:00Z"
@@ -7029,7 +7029,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3520329,
-    "Deaths": 84844,
+    "Deaths": 84775,
     "Recovered": 3187100,
     "Active": 258943,
     "Date": "2021-05-09T00:00:00Z"
@@ -7044,7 +7044,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3527251,
-    "Deaths": 85118,
+    "Deaths": 84829,
     "Recovered": 3188710,
     "Active": 264380,
     "Date": "2021-05-10T00:00:00Z"
@@ -7059,7 +7059,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3533376,
-    "Deaths": 85385,
+    "Deaths": 85112,
     "Recovered": 3231090,
     "Active": 241429,
     "Date": "2021-05-11T00:00:00Z"
@@ -7074,7 +7074,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3548285,
-    "Deaths": 85451,
+    "Deaths": 85380,
     "Recovered": 3233630,
     "Active": 245413,
     "Date": "2021-05-12T00:00:00Z"
@@ -7089,7 +7089,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3565704,
-    "Deaths": 85853,
+    "Deaths": 85658,
     "Recovered": 3268190,
     "Active": 224082,
     "Date": "2021-05-13T00:00:00Z"
@@ -7104,7 +7104,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3577040,
-    "Deaths": 86030,
+    "Deaths": 85848,
     "Recovered": 3284300,
     "Active": 218172,
     "Date": "2021-05-14T00:00:00Z"
@@ -7119,7 +7119,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3584934,
-    "Deaths": 86100,
+    "Deaths": 86025,
     "Recovered": 3292700,
     "Active": 217072,
     "Date": "2021-05-15T00:00:00Z"
@@ -7134,7 +7134,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3593434,
-    "Deaths": 86166,
+    "Deaths": 86096,
     "Recovered": 3306260,
     "Active": 210513,
     "Date": "2021-05-16T00:00:00Z"
@@ -7149,7 +7149,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3598846,
-    "Deaths": 86386,
+    "Deaths": 86160,
     "Recovered": 3323190,
     "Active": 198744,
     "Date": "2021-05-17T00:00:00Z"
@@ -7164,7 +7164,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3603055,
-    "Deaths": 86671,
+    "Deaths": 86381,
     "Recovered": 3342350,
     "Active": 186875,
     "Date": "2021-05-18T00:00:00Z"
@@ -7179,7 +7179,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3614095,
-    "Deaths": 86908,
+    "Deaths": 86665,
     "Recovered": 3359530,
     "Active": 181339,
     "Date": "2021-05-19T00:00:00Z"
@@ -7194,7 +7194,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3626393,
-    "Deaths": 87135,
+    "Deaths": 86902,
     "Recovered": 3376100,
     "Active": 175269,
     "Date": "2021-05-20T00:00:00Z"
@@ -7209,7 +7209,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3635162,
-    "Deaths": 87303,
+    "Deaths": 87128,
     "Recovered": 3390400,
     "Active": 168897,
     "Date": "2021-05-21T00:00:00Z"
@@ -7224,7 +7224,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3642244,
-    "Deaths": 87385,
+    "Deaths": 87298,
     "Recovered": 3398700,
     "Active": 166934,
     "Date": "2021-05-22T00:00:00Z"
@@ -7239,7 +7239,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3648958,
-    "Deaths": 87429,
+    "Deaths": 87380,
     "Recovered": 3410040,
     "Active": 160193,
     "Date": "2021-05-23T00:00:00Z"
@@ -7254,7 +7254,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3651640,
-    "Deaths": 87461,
+    "Deaths": 87423,
     "Recovered": 3425380,
     "Active": 147149,
     "Date": "2021-05-24T00:00:00Z"
@@ -7269,7 +7269,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3653551,
-    "Deaths": 87733,
+    "Deaths": 87456,
     "Recovered": 3439570,
     "Active": 135265,
     "Date": "2021-05-25T00:00:00Z"
@@ -7284,7 +7284,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3656177,
-    "Deaths": 88000,
+    "Deaths": 87726,
     "Recovered": 3452290,
     "Active": 126751,
     "Date": "2021-05-26T00:00:00Z"
@@ -7299,7 +7299,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3662490,
-    "Deaths": 88192,
+    "Deaths": 87995,
     "Recovered": 3463130,
     "Active": 122668,
     "Date": "2021-05-27T00:00:00Z"
@@ -7314,7 +7314,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3669870,
-    "Deaths": 88360,
+    "Deaths": 88187,
     "Recovered": 3472650,
     "Active": 119149,
     "Date": "2021-05-28T00:00:00Z"
@@ -7329,7 +7329,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3675296,
-    "Deaths": 88413,
+    "Deaths": 88350,
     "Recovered": 3479700,
     "Active": 116559,
     "Date": "2021-05-29T00:00:00Z"
@@ -7344,7 +7344,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3679148,
-    "Deaths": 88431,
+    "Deaths": 88406,
     "Recovered": 3487850,
     "Active": 111434,
     "Date": "2021-05-30T00:00:00Z"
@@ -7359,7 +7359,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3681126,
-    "Deaths": 88601,
+    "Deaths": 88442,
     "Recovered": 3498580,
     "Active": 102740,
     "Date": "2021-05-31T00:00:00Z"
@@ -7374,7 +7374,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3682911,
-    "Deaths": 88781,
+    "Deaths": 88595,
     "Recovered": 3509660,
     "Active": 94467,
     "Date": "2021-06-01T00:00:00Z"
@@ -7389,7 +7389,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3687828,
-    "Deaths": 88945,
+    "Deaths": 88774,
     "Recovered": 3518860,
     "Active": 90199,
     "Date": "2021-06-02T00:00:00Z"
@@ -7404,7 +7404,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3692468,
-    "Deaths": 89031,
+    "Deaths": 88940,
     "Recovered": 3526110,
     "Active": 86551,
     "Date": "2021-06-03T00:00:00Z"
@@ -7419,7 +7419,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3695633,
-    "Deaths": 89152,
+    "Deaths": 89026,
     "Recovered": 3533860,
     "Active": 81673,
     "Date": "2021-06-04T00:00:00Z"
@@ -7434,7 +7434,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3697927,
-    "Deaths": 89228,
+    "Deaths": 89148,
     "Recovered": 3538290,
     "Active": 79416,
     "Date": "2021-06-05T00:00:00Z"
@@ -7449,7 +7449,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3700367,
-    "Deaths": 89249,
+    "Deaths": 89222,
     "Recovered": 3542000,
     "Active": 77649,
     "Date": "2021-06-06T00:00:00Z"
@@ -7464,7 +7464,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3701484,
-    "Deaths": 89390,
+    "Deaths": 89244,
     "Recovered": 3549820,
     "Active": 71132,
     "Date": "2021-06-07T00:00:00Z"
@@ -7479,7 +7479,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3702688,
-    "Deaths": 89497,
+    "Deaths": 89384,
     "Recovered": 3557840,
     "Active": 65258,
     "Date": "2021-06-08T00:00:00Z"
@@ -7494,7 +7494,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3705942,
-    "Deaths": 89592,
+    "Deaths": 89491,
     "Recovered": 3563140,
     "Active": 63138,
     "Date": "2021-06-09T00:00:00Z"
@@ -7509,7 +7509,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3709129,
-    "Deaths": 89693,
+    "Deaths": 89585,
     "Recovered": 3568460,
     "Active": 60464,
     "Date": "2021-06-10T00:00:00Z"
@@ -7524,7 +7524,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3711569,
-    "Deaths": 89821,
+    "Deaths": 89687,
     "Recovered": 3574000,
     "Active": 56990,
     "Date": "2021-06-11T00:00:00Z"
@@ -7539,7 +7539,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3713480,
-    "Deaths": 89841,
+    "Deaths": 89816,
     "Recovered": 3577840,
     "Active": 54614,
     "Date": "2021-06-12T00:00:00Z"
@@ -7554,7 +7554,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3714969,
-    "Deaths": 89849,
+    "Deaths": 89834,
     "Recovered": 3581340,
     "Active": 52106,
     "Date": "2021-06-13T00:00:00Z"
@@ -7569,7 +7569,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3715518,
-    "Deaths": 89944,
+    "Deaths": 89844,
     "Recovered": 3585660,
     "Active": 48564,
     "Date": "2021-06-14T00:00:00Z"
@@ -7584,7 +7584,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3716170,
-    "Deaths": 90079,
+    "Deaths": 89937,
     "Recovered": 3590610,
     "Active": 44639,
     "Date": "2021-06-15T00:00:00Z"
@@ -7599,7 +7599,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3717625,
-    "Deaths": 90185,
+    "Deaths": 90074,
     "Recovered": 3593730,
     "Active": 42852,
     "Date": "2021-06-16T00:00:00Z"
@@ -7614,7 +7614,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3718955,
-    "Deaths": 90277,
+    "Deaths": 90179,
     "Recovered": 3597940,
     "Active": 39451,
     "Date": "2021-06-17T00:00:00Z"
@@ -7629,7 +7629,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3720031,
-    "Deaths": 90374,
+    "Deaths": 90270,
     "Recovered": 3600360,
     "Active": 37867,
     "Date": "2021-06-18T00:00:00Z"
@@ -7644,7 +7644,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3721139,
-    "Deaths": 90390,
+    "Deaths": 90369,
     "Recovered": 3602150,
     "Active": 37057,
     "Date": "2021-06-19T00:00:00Z"
@@ -7659,7 +7659,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3721981,
-    "Deaths": 90400,
+    "Deaths": 90385,
     "Recovered": 3604050,
     "Active": 35676,
     "Date": "2021-06-20T00:00:00Z"
@@ -7674,7 +7674,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3722327,
-    "Deaths": 90477,
+    "Deaths": 90395,
     "Recovered": 3606150,
     "Active": 33992,
     "Date": "2021-06-21T00:00:00Z"
@@ -7689,7 +7689,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3722782,
-    "Deaths": 90553,
+    "Deaths": 90472,
     "Recovered": 3609310,
     "Active": 31441,
     "Date": "2021-06-22T00:00:00Z"
@@ -7704,7 +7704,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3723798,
-    "Deaths": 90620,
+    "Deaths": 90523,
     "Recovered": 3612840,
     "Active": 28979,
     "Date": "2021-06-23T00:00:00Z"
@@ -7719,7 +7719,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3724806,
-    "Deaths": 90685,
+    "Deaths": 90616,
     "Recovered": 3616140,
     "Active": 26089,
     "Date": "2021-06-24T00:00:00Z"
@@ -7734,7 +7734,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3725580,
-    "Deaths": 90752,
+    "Deaths": 90678,
     "Recovered": 3617470,
     "Active": 25443,
     "Date": "2021-06-25T00:00:00Z"
@@ -7749,7 +7749,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3726172,
-    "Deaths": 90761,
+    "Deaths": 90746,
     "Recovered": 3618510,
     "Active": 24882,
     "Date": "2021-06-26T00:00:00Z"
@@ -7764,7 +7764,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3726710,
-    "Deaths": 90768,
+    "Deaths": 90754,
     "Recovered": 3619010,
     "Active": 24711,
     "Date": "2021-06-27T00:00:00Z"
@@ -7779,7 +7779,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3726929,
-    "Deaths": 90826,
+    "Deaths": 90762,
     "Recovered": 3620830,
     "Active": 23174,
     "Date": "2021-06-28T00:00:00Z"
@@ -7794,7 +7794,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3727333,
-    "Deaths": 90883,
+    "Deaths": 90819,
     "Recovered": 3622220,
     "Active": 22296,
     "Date": "2021-06-29T00:00:00Z"
@@ -7809,7 +7809,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3728141,
-    "Deaths": 90945,
+    "Deaths": 90875,
     "Recovered": 3623800,
     "Active": 21460,
     "Date": "2021-06-30T00:00:00Z"
@@ -7824,7 +7824,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3729033,
-    "Deaths": 91014,
+    "Deaths": 90938,
     "Recovered": 3625010,
     "Active": 20935,
     "Date": "2021-07-01T00:00:00Z"
@@ -7839,7 +7839,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3729682,
-    "Deaths": 91032,
+    "Deaths": 91007,
     "Recovered": 3625740,
     "Active": 20858,
     "Date": "2021-07-02T00:00:00Z"
@@ -7854,7 +7854,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3730353,
-    "Deaths": 91040,
+    "Deaths": 91023,
     "Recovered": 3626610,
     "Active": 20409,
     "Date": "2021-07-03T00:00:00Z"
@@ -7869,7 +7869,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3730912,
-    "Deaths": 91039,
+    "Deaths": 91030,
     "Recovered": 3627520,
     "Active": 19911,
     "Date": "2021-07-04T00:00:00Z"
@@ -7884,7 +7884,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3731124,
-    "Deaths": 91068,
+    "Deaths": 91031,
     "Recovered": 3628600,
     "Active": 19194,
     "Date": "2021-07-05T00:00:00Z"
@@ -7899,7 +7899,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3731564,
-    "Deaths": 91118,
+    "Deaths": 91062,
     "Recovered": 3628910,
     "Active": 19547,
     "Date": "2021-07-06T00:00:00Z"
@@ -7914,7 +7914,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3732549,
-    "Deaths": 91148,
+    "Deaths": 91110,
     "Recovered": 3630340,
     "Active": 19079,
     "Date": "2021-07-07T00:00:00Z"
@@ -7929,7 +7929,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3733519,
-    "Deaths": 91197,
+    "Deaths": 91141,
     "Recovered": 3631310,
     "Active": 18963,
     "Date": "2021-07-08T00:00:00Z"
@@ -7944,7 +7944,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3734468,
-    "Deaths": 91232,
+    "Deaths": 91190,
     "Recovered": 3632230,
     "Active": 18893,
     "Date": "2021-07-09T00:00:00Z"
@@ -7959,7 +7959,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3735420,
-    "Deaths": 91239,
+    "Deaths": 91225,
     "Recovered": 3632330,
     "Active": 19595,
     "Date": "2021-07-10T00:00:00Z"
@@ -7974,7 +7974,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3736165,
-    "Deaths": 91241,
+    "Deaths": 91231,
     "Recovered": 3632930,
     "Active": 19561,
     "Date": "2021-07-11T00:00:00Z"
@@ -7989,7 +7989,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3736489,
-    "Deaths": 91268,
+    "Deaths": 91233,
     "Recovered": 3633520,
     "Active": 19497,
     "Date": "2021-07-12T00:00:00Z"
@@ -8004,7 +8004,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3737135,
-    "Deaths": 91295,
+    "Deaths": 91259,
     "Recovered": 3634550,
     "Active": 19467,
     "Date": "2021-07-13T00:00:00Z"
@@ -8019,7 +8019,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3738683,
-    "Deaths": 91326,
+    "Deaths": 91287,
     "Recovered": 3635420,
     "Active": 20189,
     "Date": "2021-07-14T00:00:00Z"
@@ -8034,7 +8034,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3740325,
-    "Deaths": 91346,
+    "Deaths": 91319,
     "Recovered": 3636120,
     "Active": 20913,
     "Date": "2021-07-15T00:00:00Z"
@@ -8049,7 +8049,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3741781,
-    "Deaths": 91367,
+    "Deaths": 91337,
     "Recovered": 3636960,
     "Active": 21617,
     "Date": "2021-07-16T00:00:00Z"
@@ -8064,7 +8064,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3743389,
-    "Deaths": 91369,
+    "Deaths": 91359,
     "Recovered": 3637480,
     "Active": 22404,
     "Date": "2021-07-17T00:00:00Z"
@@ -8079,7 +8079,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3744681,
-    "Deaths": 91370,
+    "Deaths": 91362,
     "Recovered": 3638720,
     "Active": 22146,
     "Date": "2021-07-18T00:00:00Z"
@@ -8094,7 +8094,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3745227,
-    "Deaths": 91404,
+    "Deaths": 91363,
     "Recovered": 3639640,
     "Active": 22176,
     "Date": "2021-07-19T00:00:00Z"
@@ -8109,7 +8109,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3746410,
-    "Deaths": 91423,
+    "Deaths": 91397,
     "Recovered": 3640270,
     "Active": 23153,
     "Date": "2021-07-20T00:00:00Z"
@@ -8124,7 +8124,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3748613,
-    "Deaths": 91466,
+    "Deaths": 91416,
     "Recovered": 3641100,
     "Active": 23931,
     "Date": "2021-07-21T00:00:00Z"
@@ -8139,7 +8139,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3750503,
-    "Deaths": 91505,
+    "Deaths": 91458,
     "Recovered": 3642010,
     "Active": 24910,
     "Date": "2021-07-22T00:00:00Z"
@@ -8154,7 +8154,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3752592,
-    "Deaths": 91514,
+    "Deaths": 91492,
     "Recovered": 3642120,
     "Active": 26657,
     "Date": "2021-07-23T00:00:00Z"
@@ -8169,7 +8169,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3754511,
-    "Deaths": 91531,
+    "Deaths": 91520,
     "Recovered": 3643350,
     "Active": 26988,
     "Date": "2021-07-24T00:00:00Z"
@@ -8184,7 +8184,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3755898,
-    "Deaths": 91534,
+    "Deaths": 91524,
     "Recovered": 3644560,
     "Active": 26924,
     "Date": "2021-07-25T00:00:00Z"
@@ -8199,7 +8199,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3756856,
-    "Deaths": 91573,
+    "Deaths": 91527,
     "Recovered": 3645870,
     "Active": 26998,
     "Date": "2021-07-26T00:00:00Z"
@@ -8214,7 +8214,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3758401,
-    "Deaths": 91592,
+    "Deaths": 91565,
     "Recovered": 3647240,
     "Active": 27669,
     "Date": "2021-07-27T00:00:00Z"
@@ -8229,7 +8229,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3761169,
-    "Deaths": 91709,
+    "Deaths": 91586,
     "Recovered": 3653990,
     "Active": 31537,
     "Date": "2021-07-28T00:00:00Z"
@@ -8244,7 +8244,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3764311,
-    "Deaths": 91622,
+    "Deaths": 91607,
     "Recovered": 3649670,
     "Active": 31034,
     "Date": "2021-07-29T00:00:00Z"
@@ -8259,7 +8259,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3766765,
-    "Deaths": 91663,
+    "Deaths": 91637,
     "Recovered": 3652400,
     "Active": 30855,
     "Date": "2021-07-30T00:00:00Z"
@@ -8274,7 +8274,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3769165,
-    "Deaths": 91666,
+    "Deaths": 91658,
     "Recovered": 3653150,
     "Active": 31908,
     "Date": "2021-07-31T00:00:00Z"
@@ -8289,7 +8289,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3771262,
-    "Deaths": 91666,
+    "Deaths": 91659,
     "Recovered": 3654720,
     "Active": 31891,
     "Date": "2021-08-01T00:00:00Z"
@@ -8304,7 +8304,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3772109,
-    "Deaths": 91685,
+    "Deaths": 91660,
     "Recovered": 3654950,
     "Active": 33162,
     "Date": "2021-08-02T00:00:00Z"
@@ -8319,7 +8319,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3773875,
-    "Deaths": 91710,
+    "Deaths": 91679,
     "Recovered": 3658150,
     "Active": 32484,
     "Date": "2021-08-03T00:00:00Z"
@@ -8334,7 +8334,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3777446,
-    "Deaths": 91736,
+    "Deaths": 91704,
     "Recovered": 3659260,
     "Active": 35007,
     "Date": "2021-08-04T00:00:00Z"
@@ -8349,7 +8349,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3780985,
-    "Deaths": 91761,
+    "Deaths": 91730,
     "Recovered": 0,
     "Active": 3697699,
     "Date": "2021-08-05T00:00:00Z"
@@ -8364,7 +8364,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3784433,
-    "Deaths": 91785,
+    "Deaths": 91754,
     "Recovered": 0,
     "Active": 3701063,
     "Date": "2021-08-06T00:00:00Z"
@@ -8379,7 +8379,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3787639,
-    "Deaths": 91789,
+    "Deaths": 91778,
     "Recovered": 0,
     "Active": 3703820,
     "Date": "2021-08-07T00:00:00Z"
@@ -8394,7 +8394,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3790766,
-    "Deaths": 91791,
+    "Deaths": 91782,
     "Recovered": 0,
     "Active": 3706058,
     "Date": "2021-08-08T00:00:00Z"
@@ -8409,7 +8409,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3791949,
-    "Deaths": 91810,
+    "Deaths": 91784,
     "Recovered": 0,
     "Active": 3708259,
     "Date": "2021-08-09T00:00:00Z"
@@ -8424,7 +8424,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3794429,
-    "Deaths": 91824,
+    "Deaths": 91803,
     "Recovered": 0,
     "Active": 3711527,
     "Date": "2021-08-10T00:00:00Z"
@@ -8439,7 +8439,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3799425,
-    "Deaths": 91841,
+    "Deaths": 91817,
     "Recovered": 0,
     "Active": 3716997,
     "Date": "2021-08-11T00:00:00Z"
@@ -8454,7 +8454,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3805063,
-    "Deaths": 91860,
+    "Deaths": 91834,
     "Recovered": 0,
     "Active": 3722475,
     "Date": "2021-08-12T00:00:00Z"
@@ -8469,7 +8469,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3810641,
-    "Deaths": 91871,
+    "Deaths": 91853,
     "Recovered": 0,
     "Active": 3728000,
     "Date": "2021-08-13T00:00:00Z"
@@ -8484,7 +8484,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3816285,
-    "Deaths": 91874,
+    "Deaths": 91864,
     "Recovered": 0,
     "Active": 3732672,
     "Date": "2021-08-14T00:00:00Z"
@@ -8499,7 +8499,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3821013,
-    "Deaths": 91878,
+    "Deaths": 91867,
     "Recovered": 0,
     "Active": 3736400,
     "Date": "2021-08-15T00:00:00Z"
@@ -8514,7 +8514,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3823139,
-    "Deaths": 91905,
+    "Deaths": 91871,
     "Recovered": 0,
     "Active": 3739922,
     "Date": "2021-08-16T00:00:00Z"
@@ -8529,7 +8529,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3827051,
-    "Deaths": 91927,
+    "Deaths": 91899,
     "Recovered": 0,
     "Active": 3745291,
     "Date": "2021-08-17T00:00:00Z"
@@ -8544,7 +8544,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3835375,
-    "Deaths": 91949,
+    "Deaths": 91921,
     "Recovered": 0,
     "Active": 3754277,
     "Date": "2021-08-18T00:00:00Z"
@@ -8559,7 +8559,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3843775,
-    "Deaths": 91963,
+    "Deaths": 91943,
     "Recovered": 0,
     "Active": 3762566,
     "Date": "2021-08-19T00:00:00Z"
@@ -8574,7 +8574,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3853055,
-    "Deaths": 91980,
+    "Deaths": 91956,
     "Recovered": 0,
     "Active": 3771515,
     "Date": "2021-08-20T00:00:00Z"
@@ -8589,7 +8589,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3861147,
-    "Deaths": 91983,
+    "Deaths": 91973,
     "Recovered": 0,
     "Active": 3778112,
     "Date": "2021-08-21T00:00:00Z"
@@ -8604,7 +8604,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3868197,
-    "Deaths": 91987,
+    "Deaths": 91976,
     "Recovered": 0,
     "Active": 3784054,
     "Date": "2021-08-22T00:00:00Z"
@@ -8619,7 +8619,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3871865,
-    "Deaths": 92028,
+    "Deaths": 91980,
     "Recovered": 0,
     "Active": 3789605,
     "Date": "2021-08-23T00:00:00Z"
@@ -8634,7 +8634,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3877612,
-    "Deaths": 92067,
+    "Deaths": 92022,
     "Recovered": 0,
     "Active": 3806220,
     "Date": "2021-08-24T00:00:00Z"
@@ -8649,7 +8649,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3889173,
-    "Deaths": 92090,
+    "Deaths": 92061,
     "Recovered": 0,
     "Active": 3819472,
     "Date": "2021-08-25T00:00:00Z"
@@ -8664,7 +8664,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3901799,
-    "Deaths": 92108,
+    "Deaths": 92082,
     "Recovered": 0,
     "Active": 3831142,
     "Date": "2021-08-26T00:00:00Z"
@@ -8679,7 +8679,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3913828,
-    "Deaths": 92125,
+    "Deaths": 92096,
     "Recovered": 0,
     "Active": 3833065,
     "Date": "2021-08-27T00:00:00Z"
@@ -8694,7 +8694,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3924131,
-    "Deaths": 92136,
+    "Deaths": 92118,
     "Recovered": 0,
     "Active": 3841449,
     "Date": "2021-08-28T00:00:00Z"
@@ -8709,7 +8709,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3932547,
-    "Deaths": 92146,
+    "Deaths": 92130,
     "Recovered": 0,
     "Active": 3848066,
     "Date": "2021-08-29T00:00:00Z"
@@ -8724,7 +8724,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3937106,
-    "Deaths": 92208,
+    "Deaths": 92140,
     "Recovered": 0,
     "Active": 3854827,
     "Date": "2021-08-30T00:00:00Z"
@@ -8739,7 +8739,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3942856,
-    "Deaths": 92229,
+    "Deaths": 92200,
     "Recovered": 0,
     "Active": 3873452,
     "Date": "2021-08-31T00:00:00Z"
@@ -8754,7 +8754,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3956387,
-    "Deaths": 92262,
+    "Deaths": 92223,
     "Recovered": 0,
     "Active": 3887577,
     "Date": "2021-09-01T00:00:00Z"
@@ -8769,7 +8769,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3970102,
-    "Deaths": 92307,
+    "Deaths": 92256,
     "Recovered": 0,
     "Active": 3901482,
     "Date": "2021-09-02T00:00:00Z"
@@ -8784,7 +8784,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3984353,
-    "Deaths": 92331,
+    "Deaths": 92301,
     "Recovered": 0,
     "Active": 3904357,
     "Date": "2021-09-03T00:00:00Z"
@@ -8799,7 +8799,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 3995188,
-    "Deaths": 92351,
+    "Deaths": 92325,
     "Recovered": 0,
     "Active": 3922506,
     "Date": "2021-09-04T00:00:00Z"
@@ -8814,7 +8814,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4005641,
-    "Deaths": 92360,
+    "Deaths": 92346,
     "Recovered": 0,
     "Active": 3921448,
     "Date": "2021-09-05T00:00:00Z"
@@ -8829,7 +8829,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4010390,
-    "Deaths": 92419,
+    "Deaths": 92354,
     "Recovered": 0,
     "Active": 3928168,
     "Date": "2021-09-06T00:00:00Z"
@@ -8844,7 +8844,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4017116,
-    "Deaths": 92463,
+    "Deaths": 92413,
     "Recovered": 0,
     "Active": 3947204,
     "Date": "2021-09-07T00:00:00Z"
@@ -8859,7 +8859,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4030681,
-    "Deaths": 92463,
+    "Deaths": 92448,
     "Recovered": 0,
     "Active": 3952314,
     "Date": "2021-09-08T00:00:00Z"
@@ -8874,7 +8874,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4046112,
-    "Deaths": 92559,
+    "Deaths": 92498,
     "Recovered": 0,
     "Active": 3975936,
     "Date": "2021-09-09T00:00:00Z"
@@ -8889,7 +8889,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4059081,
-    "Deaths": 92604,
+    "Deaths": 92553,
     "Recovered": 0,
     "Active": 3979039,
     "Date": "2021-09-10T00:00:00Z"
@@ -8904,7 +8904,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4070295,
-    "Deaths": 92612,
+    "Deaths": 92598,
     "Recovered": 0,
     "Active": 3987568,
     "Date": "2021-09-11T00:00:00Z"
@@ -8919,7 +8919,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4077640,
-    "Deaths": 92625,
+    "Deaths": 92606,
     "Recovered": 0,
     "Active": 3994500,
     "Date": "2021-09-12T00:00:00Z"
@@ -8934,7 +8934,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4083151,
-    "Deaths": 92694,
+    "Deaths": 92618,
     "Recovered": 0,
     "Active": 4000718,
     "Date": "2021-09-13T00:00:00Z"
@@ -8949,7 +8949,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4089476,
-    "Deaths": 92776,
+    "Deaths": 92686,
     "Recovered": 0,
     "Active": 4009476,
     "Date": "2021-09-14T00:00:00Z"
@@ -8964,7 +8964,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4101931,
-    "Deaths": 92843,
+    "Deaths": 92769,
     "Recovered": 0,
     "Active": 4022499,
     "Date": "2021-09-15T00:00:00Z"
@@ -8979,7 +8979,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4114856,
-    "Deaths": 92906,
+    "Deaths": 92837,
     "Recovered": 0,
     "Active": 4034252,
     "Date": "2021-09-16T00:00:00Z"
@@ -8994,7 +8994,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4125878,
-    "Deaths": 92928,
+    "Deaths": 92857,
     "Recovered": 0,
     "Active": 4044134,
     "Date": "2021-09-17T00:00:00Z"
@@ -9009,7 +9009,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4134779,
-    "Deaths": 92964,
+    "Deaths": 92920,
     "Recovered": 0,
     "Active": 4051201,
     "Date": "2021-09-18T00:00:00Z"
@@ -9024,7 +9024,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4142116,
-    "Deaths": 92977,
+    "Deaths": 92958,
     "Recovered": 0,
     "Active": 4056855,
     "Date": "2021-09-19T00:00:00Z"
@@ -9039,7 +9039,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4145852,
-    "Deaths": 93058,
+    "Deaths": 92971,
     "Recovered": 0,
     "Active": 4062102,
     "Date": "2021-09-20T00:00:00Z"
@@ -9054,7 +9054,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4150516,
-    "Deaths": 93129,
+    "Deaths": 93052,
     "Recovered": 0,
     "Active": 4069308,
     "Date": "2021-09-21T00:00:00Z"
@@ -9069,7 +9069,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4160970,
-    "Deaths": 93243,
+    "Deaths": 93123,
     "Recovered": 0,
     "Active": 4080114,
     "Date": "2021-09-22T00:00:00Z"
@@ -9084,7 +9084,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4171666,
-    "Deaths": 93310,
+    "Deaths": 93238,
     "Recovered": 0,
     "Active": 4090362,
     "Date": "2021-09-23T00:00:00Z"
@@ -9099,7 +9099,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4181393,
-    "Deaths": 93370,
+    "Deaths": 93303,
     "Recovered": 0,
     "Active": 4099236,
     "Date": "2021-09-24T00:00:00Z"
@@ -9114,7 +9114,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4188604,
-    "Deaths": 93398,
+    "Deaths": 93365,
     "Recovered": 0,
     "Active": 4105631,
     "Date": "2021-09-25T00:00:00Z"
@@ -9129,7 +9129,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4196378,
-    "Deaths": 93409,
+    "Deaths": 93393,
     "Recovered": 0,
     "Active": 4110891,
     "Date": "2021-09-26T00:00:00Z"
@@ -9144,7 +9144,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4199400,
-    "Deaths": 93509,
+    "Deaths": 93403,
     "Recovered": 0,
     "Active": 4115589,
     "Date": "2021-09-27T00:00:00Z"
@@ -9159,7 +9159,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4203571,
-    "Deaths": 93576,
+    "Deaths": 93504,
     "Recovered": 0,
     "Active": 4122931,
     "Date": "2021-09-28T00:00:00Z"
@@ -9174,7 +9174,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4215351,
-    "Deaths": 93643,
+    "Deaths": 93571,
     "Recovered": 0,
     "Active": 4135131,
     "Date": "2021-09-29T00:00:00Z"
@@ -9189,7 +9189,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4227501,
-    "Deaths": 93715,
+    "Deaths": 93638,
     "Recovered": 0,
     "Active": 4146058,
     "Date": "2021-09-30T00:00:00Z"
@@ -9204,7 +9204,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4237619,
-    "Deaths": 93781,
+    "Deaths": 93711,
     "Recovered": 0,
     "Active": 4155280,
     "Date": "2021-10-01T00:00:00Z"
@@ -9219,7 +9219,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4246136,
-    "Deaths": 93791,
+    "Deaths": 93777,
     "Recovered": 0,
     "Active": 4161752,
     "Date": "2021-10-02T00:00:00Z"
@@ -9234,7 +9234,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4252300,
-    "Deaths": 93798,
+    "Deaths": 93786,
     "Recovered": 0,
     "Active": 4166696,
     "Date": "2021-10-03T00:00:00Z"
@@ -9249,7 +9249,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4255388,
-    "Deaths": 93887,
+    "Deaths": 93793,
     "Recovered": 0,
     "Active": 4171114,
     "Date": "2021-10-04T00:00:00Z"
@@ -9264,7 +9264,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4260187,
-    "Deaths": 93963,
+    "Deaths": 93883,
     "Recovered": 0,
     "Active": 4178801,
     "Date": "2021-10-05T00:00:00Z"
@@ -9279,7 +9279,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4271734,
-    "Deaths": 94031,
+    "Deaths": 93959,
     "Recovered": 0,
     "Active": 4190369,
     "Date": "2021-10-06T00:00:00Z"
@@ -9294,7 +9294,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4283378,
-    "Deaths": 94117,
+    "Deaths": 94027,
     "Recovered": 0,
     "Active": 4201759,
     "Date": "2021-10-07T00:00:00Z"
@@ -9309,7 +9309,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4293807,
-    "Deaths": 94182,
+    "Deaths": 94113,
     "Recovered": 0,
     "Active": 4211452,
     "Date": "2021-10-08T00:00:00Z"
@@ -9324,7 +9324,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4302661,
-    "Deaths": 94206,
+    "Deaths": 94178,
     "Recovered": 0,
     "Active": 4218322,
     "Date": "2021-10-09T00:00:00Z"
@@ -9339,7 +9339,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4310273,
-    "Deaths": 94213,
+    "Deaths": 94202,
     "Recovered": 0,
     "Active": 4224224,
     "Date": "2021-10-10T00:00:00Z"
@@ -9354,7 +9354,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4313384,
-    "Deaths": 94308,
+    "Deaths": 94209,
     "Recovered": 0,
     "Active": 4229038,
     "Date": "2021-10-11T00:00:00Z"
@@ -9369,7 +9369,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4318355,
-    "Deaths": 94393,
+    "Deaths": 94297,
     "Recovered": 0,
     "Active": 4236881,
     "Date": "2021-10-12T00:00:00Z"
@@ -9384,7 +9384,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4330258,
-    "Deaths": 94407,
+    "Deaths": 94389,
     "Recovered": 0,
     "Active": 4249184,
     "Date": "2021-10-13T00:00:00Z"
@@ -9399,7 +9399,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4342640,
-    "Deaths": 94530,
+    "Deaths": 94461,
     "Recovered": 0,
     "Active": 4260639,
     "Date": "2021-10-14T00:00:00Z"
@@ -9414,7 +9414,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4354158,
-    "Deaths": 94605,
+    "Deaths": 94526,
     "Recovered": 0,
     "Active": 4272228,
     "Date": "2021-10-15T00:00:00Z"
@@ -9429,7 +9429,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4365107,
-    "Deaths": 94622,
+    "Deaths": 94601,
     "Recovered": 0,
     "Active": 4280631,
     "Date": "2021-10-16T00:00:00Z"
@@ -9444,7 +9444,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4373789,
-    "Deaths": 94632,
+    "Deaths": 94618,
     "Recovered": 0,
     "Active": 4287387,
     "Date": "2021-10-17T00:00:00Z"
@@ -9459,7 +9459,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4377845,
-    "Deaths": 94720,
+    "Deaths": 94628,
     "Recovered": 0,
     "Active": 4293861,
     "Date": "2021-10-18T00:00:00Z"
@@ -9474,7 +9474,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4384616,
-    "Deaths": 94812,
+    "Deaths": 94716,
     "Recovered": 0,
     "Active": 4316109,
     "Date": "2021-10-19T00:00:00Z"
@@ -9489,7 +9489,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4401631,
-    "Deaths": 94886,
+    "Deaths": 94808,
     "Recovered": 0,
     "Active": 4334837,
     "Date": "2021-10-20T00:00:00Z"
@@ -9504,7 +9504,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4417708,
-    "Deaths": 94995,
+    "Deaths": 94875,
     "Recovered": 0,
     "Active": 4352236,
     "Date": "2021-10-21T00:00:00Z"
@@ -9519,7 +9519,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4437280,
-    "Deaths": 95081,
+    "Deaths": 94991,
     "Recovered": 0,
     "Active": 4367243,
     "Date": "2021-10-22T00:00:00Z"
@@ -9534,7 +9534,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4452425,
-    "Deaths": 95104,
+    "Deaths": 95077,
     "Recovered": 0,
     "Active": 4381082,
     "Date": "2021-10-23T00:00:00Z"
@@ -9549,7 +9549,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4466157,
-    "Deaths": 95121,
+    "Deaths": 95100,
     "Recovered": 0,
     "Active": 4380957,
     "Date": "2021-10-24T00:00:00Z"
@@ -9564,7 +9564,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4472730,
-    "Deaths": 95148,
+    "Deaths": 95117,
     "Recovered": 0,
     "Active": 4390289,
     "Date": "2021-10-25T00:00:00Z"
@@ -9579,7 +9579,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4483203,
-    "Deaths": 95365,
+    "Deaths": 95245,
     "Recovered": 0,
     "Active": 4421474,
     "Date": "2021-10-26T00:00:00Z"
@@ -9594,7 +9594,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4506415,
-    "Deaths": 95489,
+    "Deaths": 95359,
     "Recovered": 0,
     "Active": 4450176,
     "Date": "2021-10-27T00:00:00Z"
@@ -9609,7 +9609,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4534452,
-    "Deaths": 95522,
+    "Deaths": 95485,
     "Recovered": 0,
     "Active": 4458222,
     "Date": "2021-10-28T00:00:00Z"
@@ -9624,7 +9624,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4559120,
-    "Deaths": 95701,
+    "Deaths": 95606,
     "Recovered": 0,
     "Active": 4495563,
     "Date": "2021-10-29T00:00:00Z"
@@ -9639,7 +9639,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4580663,
-    "Deaths": 95734,
+    "Deaths": 95696,
     "Recovered": 0,
     "Active": 4512778,
     "Date": "2021-10-30T00:00:00Z"
@@ -9654,7 +9654,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4597550,
-    "Deaths": 95735,
+    "Deaths": 95729,
     "Recovered": 0,
     "Active": 4512223,
     "Date": "2021-10-31T00:00:00Z"
@@ -9669,7 +9669,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4607208,
-    "Deaths": 95838,
+    "Deaths": 95752,
     "Recovered": 0,
     "Active": 4523435,
     "Date": "2021-11-01T00:00:00Z"
@@ -9684,7 +9684,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4618021,
-    "Deaths": 96031,
+    "Deaths": 95833,
     "Recovered": 0,
     "Active": 4553933,
     "Date": "2021-11-02T00:00:00Z"
@@ -9699,7 +9699,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4638419,
-    "Deaths": 96196,
+    "Deaths": 96027,
     "Recovered": 0,
     "Active": 4588266,
     "Date": "2021-11-03T00:00:00Z"
@@ -9714,7 +9714,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4672368,
-    "Deaths": 96351,
+    "Deaths": 96192,
     "Recovered": 0,
     "Active": 4625751,
     "Date": "2021-11-04T00:00:00Z"
@@ -9729,7 +9729,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4709488,
-    "Deaths": 96492,
+    "Deaths": 96346,
     "Recovered": 0,
     "Active": 4659395,
     "Date": "2021-11-05T00:00:00Z"
@@ -9744,7 +9744,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4743490,
-    "Deaths": 96529,
+    "Deaths": 96488,
     "Recovered": 0,
     "Active": 4683146,
     "Date": "2021-11-06T00:00:00Z"
@@ -9759,7 +9759,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4767033,
-    "Deaths": 96563,
+    "Deaths": 96525,
     "Recovered": 0,
     "Active": 4695900,
     "Date": "2021-11-07T00:00:00Z"
@@ -9774,7 +9774,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4782546,
-    "Deaths": 96731,
+    "Deaths": 96558,
     "Recovered": 0,
     "Active": 4719446,
     "Date": "2021-11-08T00:00:00Z"
@@ -9789,7 +9789,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4804378,
-    "Deaths": 96968,
+    "Deaths": 96727,
     "Recovered": 0,
     "Active": 4760495,
     "Date": "2021-11-09T00:00:00Z"
@@ -9804,7 +9804,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4844054,
-    "Deaths": 97203,
+    "Deaths": 96963,
     "Recovered": 0,
     "Active": 4811337,
     "Date": "2021-11-10T00:00:00Z"
@@ -9819,7 +9819,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4894250,
-    "Deaths": 97394,
+    "Deaths": 97198,
     "Recovered": 0,
     "Active": 4859980,
     "Date": "2021-11-11T00:00:00Z"
@@ -9834,7 +9834,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4942890,
-    "Deaths": 97623,
+    "Deaths": 97389,
     "Recovered": 0,
     "Active": 4905107,
     "Date": "2021-11-12T00:00:00Z"
@@ -9849,7 +9849,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 4987971,
-    "Deaths": 97677,
+    "Deaths": 97617,
     "Recovered": 0,
     "Active": 4939362,
     "Date": "2021-11-13T00:00:00Z"
@@ -9864,7 +9864,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5021469,
-    "Deaths": 97720,
+    "Deaths": 97672,
     "Recovered": 0,
     "Active": 4958522,
     "Date": "2021-11-14T00:00:00Z"
@@ -9879,7 +9879,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5045076,
-    "Deaths": 97986,
+    "Deaths": 97715,
     "Recovered": 0,
     "Active": 4993214,
     "Date": "2021-11-15T00:00:00Z"
@@ -9894,7 +9894,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5077124,
-    "Deaths": 98278,
+    "Deaths": 97980,
     "Recovered": 0,
     "Active": 5046549,
     "Date": "2021-11-16T00:00:00Z"
@@ -9909,7 +9909,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5129950,
-    "Deaths": 98544,
+    "Deaths": 98274,
     "Recovered": 0,
     "Active": 5114649,
     "Date": "2021-11-17T00:00:00Z"
@@ -9924,7 +9924,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5195321,
-    "Deaths": 98751,
+    "Deaths": 98538,
     "Recovered": 0,
     "Active": 5173210,
     "Date": "2021-11-18T00:00:00Z"
@@ -9939,7 +9939,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5248291,
-    "Deaths": 98993,
+    "Deaths": 98739,
     "Recovered": 0,
     "Active": 5230270,
     "Date": "2021-11-19T00:00:00Z"
@@ -9954,7 +9954,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5312215,
-    "Deaths": 99067,
+    "Deaths": 98987,
     "Recovered": 0,
     "Active": 5275379,
     "Date": "2021-11-20T00:00:00Z"
@@ -9969,7 +9969,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5354942,
-    "Deaths": 99130,
+    "Deaths": 99062,
     "Recovered": 0,
     "Active": 5301557,
     "Date": "2021-11-21T00:00:00Z"
@@ -9984,7 +9984,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5385585,
-    "Deaths": 99437,
+    "Deaths": 99124,
     "Recovered": 0,
     "Active": 5349137,
     "Date": "2021-11-22T00:00:00Z"
@@ -9999,7 +9999,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5430911,
-    "Deaths": 99773,
+    "Deaths": 99433,
     "Recovered": 0,
     "Active": 5416850,
     "Date": "2021-11-23T00:00:00Z"
@@ -10014,7 +10014,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5497795,
-    "Deaths": 100123,
+    "Deaths": 99768,
     "Recovered": 0,
     "Active": 5495551,
     "Date": "2021-11-24T00:00:00Z"
@@ -10029,7 +10029,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5573756,
-    "Deaths": 100480,
+    "Deaths": 100119,
     "Recovered": 0,
     "Active": 5569773,
     "Date": "2021-11-25T00:00:00Z"
@@ -10044,7 +10044,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5650170,
-    "Deaths": 100783,
+    "Deaths": 100476,
     "Recovered": 0,
     "Active": 5635054,
     "Date": "2021-11-26T00:00:00Z"
@@ -10059,7 +10059,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5717295,
-    "Deaths": 100887,
+    "Deaths": 100779,
     "Recovered": 0,
     "Active": 5679927,
     "Date": "2021-11-27T00:00:00Z"
@@ -10074,7 +10074,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5761696,
-    "Deaths": 100960,
+    "Deaths": 100883,
     "Recovered": 0,
     "Active": 5703179,
     "Date": "2021-11-28T00:00:00Z"
@@ -10089,7 +10089,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5791060,
-    "Deaths": 101350,
+    "Deaths": 100956,
     "Recovered": 0,
     "Active": 5753534,
     "Date": "2021-11-29T00:00:00Z"
@@ -10104,7 +10104,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5836813,
-    "Deaths": 101794,
+    "Deaths": 101344,
     "Recovered": 0,
     "Active": 5821770,
     "Date": "2021-11-30T00:00:00Z"
@@ -10119,7 +10119,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5903999,
-    "Deaths": 102183,
+    "Deaths": 101790,
     "Recovered": 0,
     "Active": 5896837,
     "Date": "2021-12-01T00:00:00Z"
@@ -10134,7 +10134,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 5977208,
-    "Deaths": 102573,
+    "Deaths": 102178,
     "Recovered": 0,
     "Active": 5969726,
     "Date": "2021-12-02T00:00:00Z"
@@ -10149,7 +10149,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6051560,
-    "Deaths": 102951,
+    "Deaths": 102568,
     "Recovered": 0,
     "Active": 6031541,
     "Date": "2021-12-03T00:00:00Z"
@@ -10164,7 +10164,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6116070,
-    "Deaths": 103043,
+    "Deaths": 102946,
     "Recovered": 0,
     "Active": 6074949,
     "Date": "2021-12-04T00:00:00Z"
@@ -10179,7 +10179,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6158125,
-    "Deaths": 103124,
+    "Deaths": 103040,
     "Recovered": 0,
     "Active": 6097813,
     "Date": "2021-12-05T00:00:00Z"
@@ -10194,7 +10194,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6185961,
-    "Deaths": 103240,
+    "Deaths": 103121,
     "Recovered": 0,
     "Active": 6116019,
     "Date": "2021-12-06T00:00:00Z"
@@ -10209,7 +10209,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6222020,
-    "Deaths": 104051,
+    "Deaths": 103520,
     "Recovered": 0,
     "Active": 6208295,
     "Date": "2021-12-07T00:00:00Z"
@@ -10224,7 +10224,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6291621,
-    "Deaths": 104201,
+    "Deaths": 104047,
     "Recovered": 0,
     "Active": 6235627,
     "Date": "2021-12-08T00:00:00Z"
@@ -10239,7 +10239,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6362232,
-    "Deaths": 105000,
+    "Deaths": 104512,
     "Recovered": 0,
     "Active": 6337846,
     "Date": "2021-12-09T00:00:00Z"
@@ -10254,7 +10254,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6423520,
-    "Deaths": 105510,
+    "Deaths": 104996,
     "Recovered": 0,
     "Active": 6390632,
     "Date": "2021-12-10T00:00:00Z"
@@ -10269,7 +10269,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6477217,
-    "Deaths": 105642,
+    "Deaths": 105506,
     "Recovered": 0,
     "Active": 6423252,
     "Date": "2021-12-11T00:00:00Z"
@@ -10284,7 +10284,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6509863,
-    "Deaths": 105758,
+    "Deaths": 105638,
     "Recovered": 0,
     "Active": 6440252,
     "Date": "2021-12-12T00:00:00Z"
@@ -10299,7 +10299,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6531606,
-    "Deaths": 106231,
+    "Deaths": 105754,
     "Recovered": 0,
     "Active": 6475202,
     "Date": "2021-12-13T00:00:00Z"
@@ -10314,7 +10314,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6562429,
-    "Deaths": 106685,
+    "Deaths": 106227,
     "Recovered": 0,
     "Active": 6526981,
     "Date": "2021-12-14T00:00:00Z"
@@ -10329,7 +10329,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6613730,
-    "Deaths": 107207,
+    "Deaths": 106680,
     "Recovered": 0,
     "Active": 6583361,
     "Date": "2021-12-15T00:00:00Z"
@@ -10344,7 +10344,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6670407,
-    "Deaths": 107655,
+    "Deaths": 107202,
     "Recovered": 0,
     "Active": 6634313,
     "Date": "2021-12-16T00:00:00Z"
@@ -10359,7 +10359,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6721375,
-    "Deaths": 107812,
+    "Deaths": 107639,
     "Recovered": 0,
     "Active": 6649872,
     "Date": "2021-12-17T00:00:00Z"
@@ -10374,7 +10374,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6764188,
-    "Deaths": 108238,
+    "Deaths": 108053,
     "Recovered": 0,
     "Active": 6705049,
     "Date": "2021-12-18T00:00:00Z"
@@ -10389,7 +10389,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6793536,
-    "Deaths": 108356,
+    "Deaths": 108233,
     "Recovered": 0,
     "Active": 6704390,
     "Date": "2021-12-19T00:00:00Z"
@@ -10404,7 +10404,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6809622,
-    "Deaths": 108818,
+    "Deaths": 108352,
     "Recovered": 0,
     "Active": 6725670,
     "Date": "2021-12-20T00:00:00Z"
@@ -10419,7 +10419,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6833050,
-    "Deaths": 109328,
+    "Deaths": 108814,
     "Recovered": 0,
     "Active": 6790109,
     "Date": "2021-12-21T00:00:00Z"
@@ -10434,7 +10434,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6878709,
-    "Deaths": 109753,
+    "Deaths": 109324,
     "Recovered": 0,
     "Active": 6833997,
     "Date": "2021-12-22T00:00:00Z"
@@ -10449,7 +10449,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6923636,
-    "Deaths": 110124,
+    "Deaths": 109749,
     "Recovered": 0,
     "Active": 6868046,
     "Date": "2021-12-23T00:00:00Z"
@@ -10464,7 +10464,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6959067,
-    "Deaths": 110279,
+    "Deaths": 110119,
     "Recovered": 0,
     "Active": 6871959,
     "Date": "2021-12-24T00:00:00Z"
@@ -10479,7 +10479,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6981281,
-    "Deaths": 110367,
+    "Deaths": 110276,
     "Recovered": 0,
     "Active": 6889109,
     "Date": "2021-12-25T00:00:00Z"
@@ -10494,7 +10494,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 6991381,
-    "Deaths": 110436,
+    "Deaths": 110364,
     "Recovered": 0,
     "Active": 6899212,
     "Date": "2021-12-26T00:00:00Z"
@@ -10509,7 +10509,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7005289,
-    "Deaths": 110810,
+    "Deaths": 110433,
     "Recovered": 0,
     "Active": 6917588,
     "Date": "2021-12-27T00:00:00Z"
@@ -10524,7 +10524,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7026369,
-    "Deaths": 110994,
+    "Deaths": 110805,
     "Recovered": 0,
     "Active": 6948402,
     "Date": "2021-12-28T00:00:00Z"
@@ -10539,7 +10539,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7066412,
-    "Deaths": 111607,
+    "Deaths": 111219,
     "Recovered": 0,
     "Active": 7017745,
     "Date": "2021-12-29T00:00:00Z"
@@ -10554,7 +10554,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7109182,
-    "Deaths": 111929,
+    "Deaths": 111602,
     "Recovered": 0,
     "Active": 7059493,
     "Date": "2021-12-30T00:00:00Z"
@@ -10569,7 +10569,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7150422,
-    "Deaths": 112111,
+    "Deaths": 111925,
     "Recovered": 0,
     "Active": 7081075,
     "Date": "2021-12-31T00:00:00Z"
@@ -10584,7 +10584,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7176814,
-    "Deaths": 112157,
+    "Deaths": 112109,
     "Recovered": 0,
     "Active": 7083997,
     "Date": "2022-01-01T00:00:00Z"
@@ -10599,7 +10599,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7189329,
-    "Deaths": 112161,
+    "Deaths": 112155,
     "Recovered": 0,
     "Active": 7096629,
     "Date": "2022-01-02T00:00:00Z"
@@ -10614,7 +10614,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7207847,
-    "Deaths": 112584,
+    "Deaths": 112223,
     "Recovered": 0,
     "Active": 7146219,
     "Date": "2022-01-03T00:00:00Z"
@@ -10629,7 +10629,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7238408,
-    "Deaths": 112929,
+    "Deaths": 112579,
     "Recovered": 0,
     "Active": 7207779,
     "Date": "2022-01-04T00:00:00Z"
@@ -10644,7 +10644,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7297320,
-    "Deaths": 113373,
+    "Deaths": 112925,
     "Recovered": 0,
     "Active": 7274672,
     "Date": "2022-01-05T00:00:00Z"
@@ -10659,7 +10659,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7361660,
-    "Deaths": 113636,
+    "Deaths": 113368,
     "Recovered": 0,
     "Active": 7333519,
     "Date": "2022-01-06T00:00:00Z"
@@ -10674,7 +10674,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7417995,
-    "Deaths": 113905,
+    "Deaths": 113632,
     "Recovered": 0,
     "Active": 7385871,
     "Date": "2022-01-07T00:00:00Z"
@@ -10689,7 +10689,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7473884,
-    "Deaths": 113982,
+    "Deaths": 113900,
     "Recovered": 0,
     "Active": 7417922,
     "Date": "2022-01-08T00:00:00Z"
@@ -10704,7 +10704,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7510436,
-    "Deaths": 114033,
+    "Deaths": 113977,
     "Recovered": 0,
     "Active": 7439710,
     "Date": "2022-01-09T00:00:00Z"
@@ -10719,7 +10719,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7535691,
-    "Deaths": 114127,
+    "Deaths": 114029,
     "Recovered": 0,
     "Active": 7456234,
     "Date": "2022-01-10T00:00:00Z"
@@ -10734,7 +10734,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7581381,
-    "Deaths": 114739,
+    "Deaths": 114351,
     "Recovered": 0,
     "Active": 7575893,
     "Date": "2022-01-11T00:00:00Z"
@@ -10749,7 +10749,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7661811,
-    "Deaths": 115056,
+    "Deaths": 114735,
     "Recovered": 0,
     "Active": 7661808,
     "Date": "2022-01-12T00:00:00Z"
@@ -10764,7 +10764,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7743228,
-    "Deaths": 115343,
+    "Deaths": 115051,
     "Recovered": 0,
     "Active": 7751441,
     "Date": "2022-01-13T00:00:00Z"
@@ -10779,7 +10779,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7835451,
-    "Deaths": 115576,
+    "Deaths": 115337,
     "Recovered": 0,
     "Active": 7828383,
     "Date": "2022-01-14T00:00:00Z"
@@ -10794,7 +10794,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7913473,
-    "Deaths": 115627,
+    "Deaths": 115572,
     "Recovered": 0,
     "Active": 7872583,
     "Date": "2022-01-15T00:00:00Z"
@@ -10809,7 +10809,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 7965977,
-    "Deaths": 115654,
+    "Deaths": 115619,
     "Recovered": 0,
     "Active": 7905685,
     "Date": "2022-01-16T00:00:00Z"
@@ -10824,7 +10824,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 8000122,
-    "Deaths": 115846,
+    "Deaths": 115649,
     "Recovered": 0,
     "Active": 7988311,
     "Date": "2022-01-17T00:00:00Z"
@@ -10839,7 +10839,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 8074527,
-    "Deaths": 116085,
+    "Deaths": 115842,
     "Recovered": 0,
     "Active": 8106177,
     "Date": "2022-01-18T00:00:00Z"
@@ -10854,7 +10854,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 8186850,
-    "Deaths": 116321,
+    "Deaths": 116081,
     "Recovered": 0,
     "Active": 8244941,
     "Date": "2022-01-19T00:00:00Z"
@@ -10869,7 +10869,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 8320386,
-    "Deaths": 116490,
+    "Deaths": 116315,
     "Recovered": 0,
     "Active": 8385642,
     "Date": "2022-01-20T00:00:00Z"
@@ -10884,7 +10884,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 8460546,
-    "Deaths": 116668,
+    "Deaths": 116485,
     "Recovered": 0,
     "Active": 8518793,
     "Date": "2022-01-21T00:00:00Z"
@@ -10899,7 +10899,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 8596007,
-    "Deaths": 116722,
+    "Deaths": 116664,
     "Recovered": 0,
     "Active": 8600082,
     "Date": "2022-01-22T00:00:00Z"
@@ -10914,7 +10914,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 8681447,
-    "Deaths": 116751,
+    "Deaths": 116718,
     "Recovered": 0,
     "Active": 8656279,
     "Date": "2022-01-23T00:00:00Z"
@@ -10929,7 +10929,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 8744840,
-    "Deaths": 116967,
+    "Deaths": 116746,
     "Recovered": 0,
     "Active": 8792536,
     "Date": "2022-01-24T00:00:00Z"
@@ -10944,7 +10944,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 8871795,
-    "Deaths": 117131,
+    "Deaths": 116960,
     "Recovered": 0,
     "Active": 8971541,
     "Date": "2022-01-25T00:00:00Z"
@@ -10959,7 +10959,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 9035795,
-    "Deaths": 117318,
+    "Deaths": 117126,
     "Recovered": 0,
     "Active": 9199962,
     "Date": "2022-01-26T00:00:00Z"
@@ -10974,7 +10974,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 9238931,
-    "Deaths": 117488,
+    "Deaths": 117314,
     "Recovered": 0,
     "Active": 9360115,
     "Date": "2022-01-27T00:00:00Z"
@@ -10989,7 +10989,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 9429079,
-    "Deaths": 117670,
+    "Deaths": 117484,
     "Recovered": 0,
     "Active": 9543987,
     "Date": "2022-01-28T00:00:00Z"
@@ -11004,7 +11004,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 9618245,
-    "Deaths": 117730,
+    "Deaths": 117666,
     "Recovered": 0,
     "Active": 9657117,
     "Date": "2022-01-29T00:00:00Z"
@@ -11019,7 +11019,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 9737215,
-    "Deaths": 117790,
+    "Deaths": 117725,
     "Recovered": 0,
     "Active": 9728242,
     "Date": "2022-01-30T00:00:00Z"
@@ -11034,7 +11034,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 9815533,
-    "Deaths": 117979,
+    "Deaths": 117786,
     "Recovered": 0,
     "Active": 9907484,
     "Date": "2022-01-31T00:00:00Z"
@@ -11049,7 +11049,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 9978146,
-    "Deaths": 118175,
+    "Deaths": 117974,
     "Recovered": 0,
     "Active": 10118565,
     "Date": "2022-02-01T00:00:00Z"
@@ -11064,7 +11064,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 10186644,
-    "Deaths": 118339,
+    "Deaths": 118170,
     "Recovered": 0,
     "Active": 10356653,
     "Date": "2022-02-02T00:00:00Z"
@@ -11079,7 +11079,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 10422764,
-    "Deaths": 118508,
+    "Deaths": 118334,
     "Recovered": 0,
     "Active": 10605136,
     "Date": "2022-02-03T00:00:00Z"
@@ -11094,7 +11094,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 10671602,
-    "Deaths": 118681,
+    "Deaths": 118504,
     "Recovered": 0,
     "Active": 10819349,
     "Date": "2022-02-04T00:00:00Z"
@@ -11109,7 +11109,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 10889417,
-    "Deaths": 118722,
+    "Deaths": 118676,
     "Recovered": 0,
     "Active": 10946424,
     "Date": "2022-02-05T00:00:00Z"
@@ -11124,7 +11124,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 11022590,
-    "Deaths": 118771,
+    "Deaths": 118717,
     "Recovered": 0,
     "Active": 11028738,
     "Date": "2022-02-06T00:00:00Z"
@@ -11139,7 +11139,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 11117857,
-    "Deaths": 118792,
+    "Deaths": 118766,
     "Recovered": 0,
     "Active": 11080094,
     "Date": "2022-02-07T00:00:00Z"
@@ -11154,7 +11154,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 11287428,
-    "Deaths": 119219,
+    "Deaths": 118943,
     "Recovered": 0,
     "Active": 11460299,
     "Date": "2022-02-08T00:00:00Z"
@@ -11169,7 +11169,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 11521678,
-    "Deaths": 119457,
+    "Deaths": 119215,
     "Recovered": 0,
     "Active": 11712874,
     "Date": "2022-02-09T00:00:00Z"
@@ -11184,7 +11184,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 11769540,
-    "Deaths": 119685,
+    "Deaths": 119453,
     "Recovered": 0,
     "Active": 11948726,
     "Date": "2022-02-10T00:00:00Z"
@@ -11199,7 +11199,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 12009712,
-    "Deaths": 119881,
+    "Deaths": 119679,
     "Recovered": 0,
     "Active": 12154772,
     "Date": "2022-02-11T00:00:00Z"
@@ -11214,7 +11214,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 12219501,
-    "Deaths": 119939,
+    "Deaths": 119877,
     "Recovered": 0,
     "Active": 12271524,
     "Date": "2022-02-12T00:00:00Z"
@@ -11229,7 +11229,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 12344661,
-    "Deaths": 119981,
+    "Deaths": 119935,
     "Recovered": 0,
     "Active": 12334323,
     "Date": "2022-02-13T00:00:00Z"
@@ -11244,7 +11244,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 12421126,
-    "Deaths": 120227,
+    "Deaths": 119977,
     "Recovered": 0,
     "Active": 12508616,
     "Date": "2022-02-14T00:00:00Z"
@@ -11259,7 +11259,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 12580343,
-    "Deaths": 120277,
+    "Deaths": 120220,
     "Recovered": 0,
     "Active": 12571776,
     "Date": "2022-02-15T00:00:00Z"
@@ -11274,7 +11274,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 12800315,
-    "Deaths": 120732,
+    "Deaths": 120467,
     "Recovered": 0,
     "Active": 12973149,
     "Date": "2022-02-16T00:00:00Z"
@@ -11289,7 +11289,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 13035941,
-    "Deaths": 120997,
+    "Deaths": 120728,
     "Recovered": 0,
     "Active": 13188043,
     "Date": "2022-02-17T00:00:00Z"
@@ -11304,7 +11304,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 13255989,
-    "Deaths": 121207,
+    "Deaths": 120992,
     "Recovered": 0,
     "Active": 13370595,
     "Date": "2022-02-18T00:00:00Z"
@@ -11319,7 +11319,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 13445094,
-    "Deaths": 121280,
+    "Deaths": 121202,
     "Recovered": 0,
     "Active": 13484165,
     "Date": "2022-02-19T00:00:00Z"
@@ -11334,7 +11334,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 13563126,
-    "Deaths": 121302,
+    "Deaths": 121275,
     "Recovered": 0,
     "Active": 13546051,
     "Date": "2022-02-20T00:00:00Z"
@@ -11349,7 +11349,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 13636993,
-    "Deaths": 121607,
+    "Deaths": 121297,
     "Recovered": 0,
     "Active": 13683590,
     "Date": "2022-02-21T00:00:00Z"
@@ -11364,7 +11364,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 13762895,
-    "Deaths": 121908,
+    "Deaths": 121603,
     "Recovered": 0,
     "Active": 13904767,
     "Date": "2022-02-22T00:00:00Z"
@@ -11379,7 +11379,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 13971947,
-    "Deaths": 122160,
+    "Deaths": 121902,
     "Recovered": 0,
     "Active": 14130040,
     "Date": "2022-02-23T00:00:00Z"
@@ -11394,7 +11394,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 14188269,
-    "Deaths": 122381,
+    "Deaths": 122145,
     "Recovered": 0,
     "Active": 14336446,
     "Date": "2022-02-24T00:00:00Z"
@@ -11409,7 +11409,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 14399012,
-    "Deaths": 122634,
+    "Deaths": 122371,
     "Recovered": 0,
     "Active": 14503681,
     "Date": "2022-02-25T00:00:00Z"
@@ -11424,7 +11424,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 14574845,
-    "Deaths": 122692,
+    "Deaths": 122621,
     "Recovered": 0,
     "Active": 14610030,
     "Date": "2022-02-26T00:00:00Z"
@@ -11439,7 +11439,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 14682758,
-    "Deaths": 122713,
+    "Deaths": 122678,
     "Recovered": 0,
     "Active": 14657112,
     "Date": "2022-02-27T00:00:00Z"
@@ -11454,7 +11454,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 14745107,
-    "Deaths": 122949,
+    "Deaths": 122702,
     "Recovered": 0,
     "Active": 14789677,
     "Date": "2022-02-28T00:00:00Z"
@@ -11469,7 +11469,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 14867218,
-    "Deaths": 123024,
+    "Deaths": 122937,
     "Recovered": 0,
     "Active": 14851698,
     "Date": "2022-03-01T00:00:00Z"
@@ -11484,7 +11484,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 15053624,
-    "Deaths": 123311,
+    "Deaths": 123238,
     "Recovered": 0,
     "Active": 15051065,
     "Date": "2022-03-02T00:00:00Z"
@@ -11499,7 +11499,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 15264297,
-    "Deaths": 123801,
+    "Deaths": 123505,
     "Recovered": 0,
     "Active": 15407439,
     "Date": "2022-03-03T00:00:00Z"
@@ -11514,7 +11514,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 15481890,
-    "Deaths": 124055,
+    "Deaths": 123796,
     "Recovered": 0,
     "Active": 15589898,
     "Date": "2022-03-04T00:00:00Z"
@@ -11529,7 +11529,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 15674100,
-    "Deaths": 124107,
+    "Deaths": 124051,
     "Recovered": 0,
     "Active": 15706005,
     "Date": "2022-03-05T00:00:00Z"
@@ -11544,7 +11544,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 15790989,
-    "Deaths": 124131,
+    "Deaths": 124102,
     "Recovered": 0,
     "Active": 15773447,
     "Date": "2022-03-06T00:00:00Z"
@@ -11559,7 +11559,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 15869417,
-    "Deaths": 124454,
+    "Deaths": 124126,
     "Recovered": 0,
     "Active": 15940570,
     "Date": "2022-03-07T00:00:00Z"
@@ -11574,7 +11574,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 16026216,
-    "Deaths": 124769,
+    "Deaths": 124450,
     "Recovered": 0,
     "Active": 16201318,
     "Date": "2022-03-08T00:00:00Z"
@@ -11589,7 +11589,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 16242070,
-    "Deaths": 125028,
+    "Deaths": 124764,
     "Recovered": 0,
     "Active": 16463844,
     "Date": "2022-03-09T00:00:00Z"
@@ -11604,7 +11604,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 16504822,
-    "Deaths": 125276,
+    "Deaths": 125023,
     "Recovered": 0,
     "Active": 16689153,
     "Date": "2022-03-10T00:00:00Z"
@@ -11619,7 +11619,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 16757658,
-    "Deaths": 125528,
+    "Deaths": 125272,
     "Recovered": 0,
     "Active": 16925990,
     "Date": "2022-03-11T00:00:00Z"
@@ -11634,7 +11634,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 16994744,
-    "Deaths": 125577,
+    "Deaths": 125521,
     "Recovered": 0,
     "Active": 17072788,
     "Date": "2022-03-12T00:00:00Z"
@@ -11649,7 +11649,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 17141351,
-    "Deaths": 125596,
+    "Deaths": 125571,
     "Recovered": 0,
     "Active": 17146112,
     "Date": "2022-03-13T00:00:00Z"
@@ -11664,7 +11664,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 17233729,
-    "Deaths": 125878,
+    "Deaths": 125590,
     "Recovered": 0,
     "Active": 17344785,
     "Date": "2022-03-14T00:00:00Z"
@@ -11679,7 +11679,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 17432617,
-    "Deaths": 126146,
+    "Deaths": 125873,
     "Recovered": 0,
     "Active": 17606800,
     "Date": "2022-03-15T00:00:00Z"
@@ -11694,7 +11694,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 17695210,
-    "Deaths": 126424,
+    "Deaths": 126142,
     "Recovered": 0,
     "Active": 17901446,
     "Date": "2022-03-16T00:00:00Z"
@@ -11709,7 +11709,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 17990141,
-    "Deaths": 126651,
+    "Deaths": 126420,
     "Recovered": 0,
     "Active": 18199069,
     "Date": "2022-03-17T00:00:00Z"
@@ -11724,7 +11724,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 18287986,
-    "Deaths": 126872,
+    "Deaths": 126646,
     "Recovered": 0,
     "Active": 18459085,
     "Date": "2022-03-18T00:00:00Z"
@@ -11739,7 +11739,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 18548225,
-    "Deaths": 126920,
+    "Deaths": 126867,
     "Recovered": 0,
     "Active": 18590762,
     "Date": "2022-03-19T00:00:00Z"
@@ -11754,7 +11754,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 18680017,
-    "Deaths": 126933,
+    "Deaths": 126916,
     "Recovered": 0,
     "Active": 18683065,
     "Date": "2022-03-20T00:00:00Z"
@@ -11769,7 +11769,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 18772331,
-    "Deaths": 126933,
+    "Deaths": 126929,
     "Recovered": 0,
     "Active": 18683102,
     "Date": "2022-03-21T00:00:00Z"
@@ -11784,7 +11784,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 18994411,
-    "Deaths": 127214,
+    "Deaths": 127193,
     "Recovered": 0,
     "Active": 18931543,
     "Date": "2022-03-22T00:00:00Z"
@@ -11799,7 +11799,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 19278143,
-    "Deaths": 127324,
+    "Deaths": 127522,
     "Recovered": 0,
     "Active": 19089818,
     "Date": "2022-03-23T00:00:00Z"
@@ -11814,7 +11814,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 19596530,
-    "Deaths": 127459,
+    "Deaths": 127822,
     "Recovered": 0,
     "Active": 19238169,
     "Date": "2022-03-24T00:00:00Z"
@@ -11829,7 +11829,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 19893028,
-    "Deaths": 127599,
+    "Deaths": 128110,
     "Recovered": 0,
     "Active": 19360111,
     "Date": "2022-03-25T00:00:00Z"
@@ -11844,7 +11844,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 20145054,
-    "Deaths": 127599,
+    "Deaths": 128388,
     "Recovered": 0,
     "Active": 19365073,
     "Date": "2022-03-26T00:00:00Z"
@@ -11859,7 +11859,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 20256278,
-    "Deaths": 127599,
+    "Deaths": 128437,
     "Recovered": 0,
     "Active": 19365073,
     "Date": "2022-03-27T00:00:00Z"
@@ -11874,7 +11874,7 @@
     "Lat": "51.17",
     "Lon": "10.45",
     "Confirmed": 20323779,
-    "Deaths": 127599,
+    "Deaths": 128457,
     "Recovered": 0,
     "Active": 19365073,
     "Date": "2022-03-28T00:00:00Z"
@@ -11893,5 +11893,20 @@
     "Recovered": 0,
     "Active": 20738191,
     "Date": "2022-03-29T00:00:00Z"
+  },
+  {
+    "ID": "0c24408b-22e4-44c6-aaeb-6bdaf09e03ec",
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "51.17",
+    "Lon": "10.45",
+    "Confirmed": 20829608,
+    "Deaths": 129112,
+    "Recovered": 0,
+    "Active": 21012812,
+    "Date": "2022-03-30T00:00:00Z"
   }
 ]
