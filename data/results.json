@@ -13485,6 +13485,21 @@
     "Date": "2022-07-13T00:00:00Z"
   },
   {
+    "ID": "46c9078f-759e-414f-94df-8b491342b60a",
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "51.17",
+    "Lon": "10.45",
+    "Confirmed": 29569943,
+    "Deaths": 142399,
+    "Recovered": 0,
+    "Active": 29427544,
+    "Date": "2022-07-14T00:00:00Z"
+  },
+  {
     "ID": "f0fd7603-dcae-442d-8397-c2f424266b5f",
     "Country": "Germany",
     "CountryCode": "DE",
@@ -13498,6 +13513,21 @@
     "Recovered": 0,
     "Active": 29550456,
     "Date": "2022-07-15T00:00:00Z"
+  },
+  {
+    "ID": "222ffaea-4d07-4dd3-ba76-cb59deba4678",
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "51.17",
+    "Lon": "10.45",
+    "Confirmed": 29692989,
+    "Deaths": 142533,
+    "Recovered": 0,
+    "Active": 29550456,
+    "Date": "2022-07-16T00:00:00Z"
   },
   {
     "ID": "df5b887e-579c-443d-bc5e-12b03d712dea",
@@ -13528,5 +13558,20 @@
     "Recovered": 0,
     "Active": 29711045,
     "Date": "2022-07-18T00:00:00Z"
+  },
+  {
+    "ID": "322e8713-ad1e-4920-b40c-81ea3e05c8c2",
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "51.17",
+    "Lon": "10.45",
+    "Confirmed": 29994679,
+    "Deaths": 142771,
+    "Recovered": 0,
+    "Active": 29851908,
+    "Date": "2022-07-19T00:00:00Z"
   }
 ]
