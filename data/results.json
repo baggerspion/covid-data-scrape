@@ -15255,6 +15255,21 @@
     "Date": "2022-11-08T00:00:00Z"
   },
   {
+    "ID": "429a137a-ab8d-4023-88dc-39daa0d169a3",
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "51.17",
+    "Lon": "10.45",
+    "Confirmed": 35971322,
+    "Deaths": 155187,
+    "Recovered": 0,
+    "Active": 35816135,
+    "Date": "2022-11-09T00:00:00Z"
+  },
+  {
     "ID": "face6da7-6813-4b03-b7ed-be7b03163594",
     "Country": "Germany",
     "CountryCode": "DE",
@@ -15268,5 +15283,35 @@
     "Recovered": 0,
     "Active": 35849622,
     "Date": "2022-11-10T00:00:00Z"
+  },
+  {
+    "ID": "5b4e1e43-b65a-487d-a60e-f65e938a51c4",
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "51.17",
+    "Lon": "10.45",
+    "Confirmed": 36033394,
+    "Deaths": 155588,
+    "Recovered": 0,
+    "Active": 35877806,
+    "Date": "2022-11-11T00:00:00Z"
+  },
+  {
+    "ID": "9c00df77-92f7-4dee-a946-36853931e962",
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "51.17",
+    "Lon": "10.45",
+    "Confirmed": 36033395,
+    "Deaths": 155588,
+    "Recovered": 0,
+    "Active": 35877807,
+    "Date": "2022-11-12T00:00:00Z"
   }
 ]
