@@ -15883,5 +15883,20 @@
     "Recovered": 0,
     "Active": 36928180,
     "Date": "2022-12-20T00:00:00Z"
+  },
+  {
+    "ID": "3e7428f2-afb5-4406-bb4a-a97103058259",
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "51.17",
+    "Lon": "10.45",
+    "Confirmed": 37136414,
+    "Deaths": 160424,
+    "Recovered": 0,
+    "Active": 36975990,
+    "Date": "2022-12-21T00:00:00Z"
   }
 ]
